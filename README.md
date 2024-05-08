@@ -4,9 +4,8 @@ The aim of this project was application-oriented in that it set out to create a 
 A mixed approach was adopted combining qualitative (in-depth interviews) and quantitative (predictive models) data generation and analysis methods. 
 Two objectives were defined: 
 Can the use of alternative data sources improve or match the price and rental prediction models in a property investment appraisal context? 
-and How can the use of alternative data sources impact, and potentially benefit, the industry experts who use property appraisal tools?. 
-
-The interview themes were usability, predictive power, and explainability. 
+and How can the use of alternative data sources impact, and potentially benefit, the industry experts who use property appraisal tools?. The interview 
+themes were usability, predictive power, and explainability. 
 
 These were address by building robust models using XGBoost algorithm, which was trained and tested with alternative data sources (not price-paid). 
 
