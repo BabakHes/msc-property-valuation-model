@@ -1,0 +1,621 @@
+place_id,name,formatted_address,lat,lng,types,rating,price_level
+ChIJT79c_HEFdkgRknTWMNrFka4,Chelsea Old Church,"64 Cheyne Walk, London SW3 5LT, United Kingdom",51.4830383,-0.1710385,church,4.4,0
+ChIJO6VK0RIFdkgR1CruVBb7O5g,St Luke's & Christ Church,"Sydney St, London SW3 6NH, United Kingdom",51.48954519999999,-0.1695538,church,4.6,0
+ChIJ2_E_jT4FdkgRBH7P-QkDDp4,St Columba's Church Of Scotland,"Pont St, London SW1X 0BD, United Kingdom",51.496668,-0.163285,church,4.6,0
+ChIJi-bB0xIFdkgRwlxGLKPTf0Y,Christ Church,"Christchurch St, London SW3 4AS, United Kingdom",51.4855858,-0.1639121,church,4.6,0
+ChIJ51EkxT8FdkgR7tGdPLSqoCc,St Simon Zelotes,"34 Milner St, London SW3 2QF, United Kingdom",51.4946668,-0.1621797,church,4.7,0
+ChIJhdcF4GwFdkgRfgT6oOou0us,The Hut,"The Hut, 12 Alpha Pl, London SW3 5SZ, United Kingdom",51.4861113,-0.1657491,church,4.9,0
+ChIJZy-U3mwFdkgRHu45lCXp3wQ,Hall of Remembrance,"Flood St, London SW3 5SY, United Kingdom",51.4863296,-0.1655759,church,4.8,0
+ChIJtxsqpbgEdkgRFRRIc9yj-xE,London Oratory,"Brompton Rd, London SW7 2RP, United Kingdom",51.4964848,-0.1700127,church,4.7,0
+ChIJu9YceBUFdkgR9pFDYdCGrwk,"St Mary's Church, Chelsea","63 Cadogan St, London SW3 2QP, United Kingdom",51.4931587,-0.1616799,church,4.8,0
+ChIJFTRhmj4FdkgRVsWyDA2Wqag,Holy Trinity Church,"Sloane St, London SW1X 9BZ, United Kingdom",51.4931779,-0.157499,church,4.5,0
+ChIJvx26-W0FdkgRWiRqufqT5x4,"Catholic Church of Our Most Holy Redeemer and Saint Thomas More, Chelsea","7 Cheyne Row, London SW3 5HS, United Kingdom",51.4844444,-0.17,church,4.7,0
+ChIJTwzk8iIFdkgRjY2jZbrAKB4,St Michael's Church,"Chester Square, London SW1W 9EF, United Kingdom",51.4942771,-0.1509751,church,4.8,0
+ChIJQc8Gx98EdkgR5QHuYQVkxwI,Westminster Cathedral,"Victoria St, London SW1P 1LT, United Kingdom",51.49580899999999,-0.13944,church,4.7,0
+ChIJOaj5qzsFdkgRzeuA0bP1530,St Paul's Knightsbridge,"32a Wilton Pl, London SW1X 8SH, United Kingdom",51.5014671,-0.1559529,church,4.6,0
+ChIJx_V9gi4FdkgRrddXTLe1w6s,"Catholic Church of the Immaculate Conception, Mayfair","114 Mount St, London W1K 3AH, United Kingdom",51.5093662,-0.1490577,church,4.8,0
+ChIJny9ToCMFdkgRbosfQJ5lHgI,"St Peter's Church, Eaton Square","119 Eaton Square, London SW1W 9AL, United Kingdom",51.49790429999999,-0.1490215,church,4.5,0
+ChIJBZrWaC8FdkgRfTaMQvRXnNo,Christ Church Mayfair,"Down St, London W1J 7AN, United Kingdom",51.5053206,-0.1485888,church,4.6,0
+ChIJ3dbD9ioFdkgRp911D_PqsnA,St George's Church,"The Vestry, 2A Mill St, London W1S 1FX, United Kingdom",51.51250659999999,-0.1430023,church,4.6,0
+ChIJLzVDusQEdkgRelObBaL_jto,Westminster Abbey,"20 Deans Yd, London SW1P 3PA, United Kingdom",51.4993695,-0.1272993,church,4.6,0
+ChIJH-tBOc4EdkgRIsJgzUZIjXU,St Martin-in-the-Fields,"Trafalgar Square, London WC2N 4JJ, United Kingdom",51.5087908,-0.1267527,church,4.6,0
+ChIJ-_MPEVMbdkgRbd3cb-j3eyI,Holy Sepulchre Church,"Holborn Viaduct, London EC1A 2DQ, United Kingdom",51.5166662,-0.1023976,church,4.5,0
+ChIJQ3TW1LsIdkgRf0aUO-r8_pQ,South London Alliance Church,"Enhanceable Center, 13 Geneva Rd, Kingston upon Thames KT1 2TW, United Kingdom",51.4015026,-0.2982533,church,0,0
+ChIJFVW5ct4EdkgRCVHhvOArHzs,St Stephen's Church,"38-42 Rochester Row, London SW1P 1LE, United Kingdom",51.4952598,-0.1356232,church,4.4,0
+ChIJB7VQqHwGdkgR6Ip9ACJYi8Y,"St Leonard’s Church, Streatham","Streatham High Rd, London SW16 1HS, United Kingdom",51.4295456,-0.1315739,church,4.5,0
+ChIJL_0da50GdkgRjLz0rs4ZR5M,Streatham Central Church,"27 Dingley Ln, London SW16 1AZ, United Kingdom",51.4370007,-0.1327181,church,4.6,0
+ChIJUVPKyH0GdkgR5ufdpB6yN0I,"St Alban's Church, Streatham","Pretoria Rd, London SW16 6RR, United Kingdom",51.42476070000001,-0.1427566,church,4.4,0
+ChIJP-06vnwGdkgRh2zbrCADK9I,Mitcham Lane Baptist Church,"230 Mitcham Ln, London SW16 6NT, United Kingdom",51.4211688,-0.1457384,church,4.3,0
+ChIJKeGmU4IGdkgRZ57xiwgv8uE,"English Martyrs Catholic Church, Streatham","2 Mitcham Ln, London SW16 6NN, United Kingdom",51.4288132,-0.1317599,church,4.6,0
+ChIJr7uPBGEGdkgRU5RcSj3ewqA,Streatham Vale Baptist Church,"65 Leonard Rd, London SW16 5SY, United Kingdom",51.4124194,-0.144208,church,5,0
+ChIJvR7XZPUGdkgR-_CGHwW9cL8,"Church of Saint Olave, Mitcham","Church Walk, London SW16 5JH, United Kingdom",51.407903,-0.139994,church,4.7,0
+ChIJP-06vnwGdkgRI6qYnLK2omU,St James' West Streatham Church,"236 Mitcham Ln, London SW16 6NT, United Kingdom",51.4208299,-0.146061,church,4.5,0
+ChIJqxT8xCcEdkgRtY4iCfwPnjc,Potter's House Christian Church Streatham,"Gracefield Gardens Health Centre, 2-8 Gracefield Gardens, London SW16 2ST, United Kingdom",51.4327853,-0.1280796,church,0,0
+ChIJXctYxh8EdkgRrEs0dGxU0R8,"St Peter's Church, Streatham","Leigham Ct Rd, Norwood, London SW16 2SD, United Kingdom",51.4318354,-0.1149597,church,4.6,0
+ChIJny7zlicEdkgRTUMRQrXVlw8,New Covenant Church,"21-29 Pendennis Rd, London SW16 2SS, United Kingdom",51.4319204,-0.1257929,church,4.5,0
+ChIJNb8zvYQGdkgR8uUgNJao0Sc,"Immanuel and St Andrew's Church, Streatham","452 Streatham High Rd, London SW16 3PY, United Kingdom",51.4205907,-0.1286179,church,3.8,0
+ChIJl-gV7V4GdkgRFe-YFLGvs8A,Streatham Park Cemetery Chapel,"Jolly Mews, Mitcham SW16 5FP, United Kingdom",51.4083698,-0.143589,church,4.2,0
+ChIJSajd64QGdkgRnXz9pOQKZiw,Streatham URC Church,"388 Streatham High Rd, London SW16 6HX, United Kingdom",51.424243,-0.1308623,church,4.6,0
+ChIJkzauZSIEdkgRuiDCIuSe9Zs,"St Margaret the Queen, Streatham","Barcombe Ave, London SW2 3BH, United Kingdom",51.4384598,-0.1197736,church,4.6,0
+ChIJwU9ZbJIGdkgRr-cEXmqQsrs,"St Bartholomew's Catholic Church, Norbury","159 Ellison Rd, London SW16 5DE, United Kingdom",51.413952,-0.1279589,church,4.7,0
+ChIJZdbEJoEGdkgR8o9Paho5NY8,Streatham Methodist Church,"101 Riggindale Rd, London SW16 1QH, United Kingdom",51.4264562,-0.1376859,church,3.7,0
+ChIJQ60ZDYoGdkgRfI5On-bW4oQ,Church of the Holy Redeemer,"Parish Hall, Churchmore Rd, London SW16 5UZ, United Kingdom",51.41381029999999,-0.1398697,church,4.2,0
+ChIJrWMWfoYGdkgRaEpIuGtRiDE,Hambro Road Baptist Church,"Hambro Rd, London SW16 6JB, United Kingdom",51.42293249999999,-0.1348581,church,5,0
+ChIJoeRqZ50GdkgRi_KZsFUnmaE,Refuge Temple Church of Our Pastor,"35B Sunnyhill Rd, London SW16 2UG, United Kingdom",51.4305168,-0.127199,church,4.8,0
+ChIJG9CI0RYEdkgRnu1Rc7aaWuE,The Word Church,"220 Upper Tulse Hill, London SW2 2NS, United Kingdom",51.4445719,-0.1116704,church,0,0
+ChIJO9Yn0EAEdkgRdyajtUBRf90,St Pauls Church Office,"24 Blenheim Gardens, Brixton Hill, London SW2 5BZ, United Kingdom",51.4539905,-0.1224842,church,0,0
+ChIJoXAGZzwEdkgRkC3fFoZQVv0,Christ Church Streatham,"3 Christchurch Rd, Brixton Hill, London SW2 3ET, United Kingdom",51.4445541,-0.1216838,church,4.5,0
+ChIJiyuHymkEdkgR6Y9NG5mt3ig,Saint Matthew's Church Brixton,"Brixton Hill, London SW2 1JF, United Kingdom",51.4596634,-0.1161591,church,4.3,0
+ChIJnbC2FEEEdkgRNvmqtTU75-Y,"Corpus Christi Catholic Church, Brixton","11 Trent Rd, Brixton Hill, London SW2 5BJ, United Kingdom",51.4559283,-0.119325,church,4.5,0
+ChIJbwXr-TEEdkgRmrkODRLOToM,St Thomas with St Stephen Church,"St. Thomas's Church, Telford Ave, London SW2 4XW, United Kingdom",51.4419744,-0.134433,church,4.7,0
+ChIJczVxWUMEdkgRlPq7ICwX2sw,London Brixton Seventh-day Adventist Church,"Santley St, London SW4 7QG, United Kingdom",51.46145629999999,-0.1226745,church,4.7,0
+ChIJ0yJWlEAEdkgRzd3Xd8n0qFA,Ruach City Church - Brixton,"122 Brixton Hill, London SW2 1RS, United Kingdom",51.45339449999999,-0.1212319,church,4.6,0
+ChIJD31dqDkEdkgRP95JnBOXSg0,All Saints Church,"All Saints Vicarage, 250 Lyham Rd, Brixton Hill, London SW2 5NP, United Kingdom",51.4486034,-0.1261335,church,4.4,0
+ChIJga7RkRgEdkgRzqtBZ7GKaOo,St Simon & St Jude's Church,"5 Hillside Rd, London SW2 3HL, United Kingdom",51.4389389,-0.1151442,church,4.9,0
+ChIJOcFre2kEdkgR3r8gOI_gZaM,Brixton Unitarian Church,"Brixton Unitarian Christian Church, 63 Effra Rd, London SW2 1BZ, United Kingdom",51.4570545,-0.1137854,church,3.6,0
+ChIJnahI92kEdkgRTYm6Dt5aVbo,Trinity Congregational Church,"St Matthew's Rd, London SW2 1NF, United Kingdom",51.4577043,-0.1157635,church,0,0
+ChIJVSrvI30EdkgRod2iJtktC1Q,St Matthew's Church,"Lilford Rd, London SE5 9HY, United Kingdom",51.4689091,-0.0987723,church,4.5,0
+ChIJAcfxKTMbdkgR3NnFFG0Ctlk,The Swiss Church in London,"79 Endell St, London WC2H 9DY, United Kingdom",51.515341,-0.1262053,church,4.4,0
+ChIJ-dPjQFgEdkgRA32YejnvrbQ,Stockwell Methodist Church,"Stockwell Methodist Church, 38 Jeffreys Rd, London SW4 6QX, United Kingdom",51.4712475,-0.127443,church,5,0
+ChIJWzyLeFkFdkgRrUNhOIYwaGs,Word of Life Church London,"61-65, Paulet Rd, Vassal, London SE5 9HW, United Kingdom",51.4718252,-0.1012352,church,4.2,0
+ChIJf8frmTQEdkgRik305IXfKAU,St Thomas with St Stephen Church,"35 Weir Rd, London SW12 0NU, United Kingdom",51.4472084,-0.1388514,church,3.9,0
+ChIJH3L-W-YEdkgRO_EQFAjVP1c,Church Of England,"36 Causton St, London SW1P 4AU, United Kingdom",51.4903173,-0.1316532,church,0,0
+ChIJOxU5B34FdkgRvzzYcOiUIYc,Hillsong Church London,"268-269 Tottenham Court Rd, London W1T 7AQ, United Kingdom",51.5167193,-0.1301708,church,4.8,0
+ChIJJ_Rz0FwEdkgRkoMrLhJheTs,St Paul's Church,"184-188 Ferndale Rd, London SW9 8AH, United Kingdom",51.4630738,-0.1207938,church,4.4,0
+ChIJnU5QCmAEdkgRjVnyaS5bTq0,"St Michael's Church, Stockwell","56 Stockwell Park Rd, London SW9 0DA, United Kingdom",51.4717837,-0.117943,church,4.5,0
+ChIJiY4P8osEdkgR6HI4YA0ScOM,"Christ Church, Brixton Road","The Co-op Centre, 90 Brixton Rd, Vassal, London SW9 6BE, United Kingdom",51.4775404,-0.1125755,church,4.4,0
+ChIJW8TMJ2QEdkgRR0CW6g4Zukw,"St John the Evangelist Church, Angell Town","49 Wiltshire Rd, London SW9 7NE, United Kingdom",51.4675,-0.1091667,church,4.3,0
+ChIJAQtBn0IEdkgRRQ0Sxe9sLA4,Universal Pentecostal Church - Brixton,"20 Acre Ln, London SW2 5SG, United Kingdom",51.4609557,-0.1172622,church,4.9,0
+ChIJ3Zjzqn0EdkgR3KP1qLMRmbc,The Potter's House Church Brixton,"61 Lilford Rd, Vassal, London SE5 9HY, United Kingdom",51.47054499999999,-0.1021261,church,4.6,0
+ChIJjZBOzG4EdkgRcgLKs7fxAVw,Petra Church UK,"St Vincents Community Centre, London SW2 1AS, United Kingdom",51.4590476,-0.1110076,church,0,0
+ChIJpxIoKGcEdkgRW4JtRSx08fE,Our Lady of the Rosary Brixton,"364 Brixton Rd, London SW9 0TH, United Kingdom",51.4667434,-0.1135003,church,4.6,0
+ChIJTdZeM0EEdkgRJph8eF_SHWY,NTCG Brixton Community Church,"Lambert Rd, Brixton Hill, London SW2 5BB, United Kingdom",51.45530189999999,-0.1225557,church,4.6,0
+ChIJ_fM-244EdkgRF9YDYl4r7jE,Missão Catolica Portuguesa,"6nz, 6 Minerva Cl, Vassal, London SW9 6NZ, United Kingdom",51.47928959999999,-0.1085502,church,4,0
+ChIJ7YgFDWIEdkgRc0fFY0tditM,Mostyn Road Methodist Church.,"Eamonn Casey House, Mostyn Rd, Myatts Field South, London SW9 6PH, United Kingdom",51.4724511,-0.1101094,church,4.1,0
+ChIJwUvIvTkEdkgRVS1kQ-IZE84,"Beacon Church, Brixton","95 Kingswood Rd, Brixton Hill, London SW2 4JW, United Kingdom",51.4484615,-0.1277186,church,5,0
+ChIJwy5oKT4EdkgRaQO2wuOJZFM,Brixton Hill Methodist Church,"Elm Park, London SW2 2TX, United Kingdom",51.4515235,-0.1211439,church,4.7,0
+ChIJyXR9Ms0EdkgRgVvkP_ffWLg,Chinese Church In London - SOC,"166A Shaftesbury Ave, London WC2H 8JB, United Kingdom",51.5142992,-0.127606,church,4.6,0
+ChIJuy5QOFABdkgRF5cRILyJ9VY,"Christ Church, Gipsy Hill","1 Highland Rd, Norwood, London SE19 1DP, United Kingdom",51.4216252,-0.0838445,church,4.6,0
+ChIJWQjI_k8BdkgRtJFoMaycIFU,Upper Norwood Methodist Church,"Westow Hill, Norwood, London SE19 1TQ, United Kingdom",51.42006569999999,-0.0822484,church,4.7,0
+ChIJGwVfLUIBdkgRF5yIS5ExjHA,"St Paul's Church, Crystal Palace","Hamlet Rd, London SE19 2AW, United Kingdom",51.4159257,-0.0730106,church,4.5,0
+ChIJKxCC8kkBdkgRRyJJvNyiaog,"All Saints Church, Upper Norwood","All Saints Church is actually in Church Road, London, SE19 3EP not, 49 Chevening Rd, London SE19 3TD, United Kingdom",51.4106521,-0.0858988,church,4.1,0
+ChIJKYQLbUUBdkgRN81xJMB3Rr8,Upper Norwood United Reformed Church,"12 St Aubyn's Rd, London SE19 3AD, United Kingdom",51.4185661,-0.0805478,church,0,0
+ChIJmx0U0lIBdkgRdyuTMFPcJt8,"Church of the Faithful Virgin, Norwood","145 Central Hill, London SE19 1RS, United Kingdom",51.4224845,-0.09365169999999999,church,4.7,0
+ChIJ8QZroHsBdkgRYuHsBZJ3eZw,The Redeemed Christian Church of God,"London SE19, United Kingdom",51.4191259,-0.08046289999999999,church,0,0
+ChIJI7hC4FIBdkgRPAEeigqyBRo,Christ Central Crystal Palace,"Harris City Academy, Maberley Rd, London SE19 2JH, United Kingdom",51.41154419999999,-0.0755067,church,5,0
+ChIJ0XHhvkcBdkgRVXek2nTkpwk,"St John the Evangelist, Upper Norwood","1 Sylvan Rd, London SE19 2RX, United Kingdom",51.4115489,-0.0801713,church,4.6,0
+ChIJQ6d0hE8BdkgRTtqUQEdtfj0,"Salvation Army Church, Crystal Palace & Upper Norwood","58-60 Westow St, London SE19 3AF, United Kingdom",51.4181453,-0.0823695,church,5,0
+ChIJtyJ7T1EBdkgRt11PFsuijc8,Grace Temple Church,"7 Bridgetown Cl, Norwood, London SE19 1JZ, United Kingdom",51.4250487,-0.08681720000000001,church,0,0
+ChIJHxjRSFgBdkgRKPURFpsyk7E,"St Margaret Clitherow RC Church, Dulwich","4 Kingswood Dr, London SE19 1UR, United Kingdom",51.4276138,-0.0817832,church,4.8,0
+ChIJhblLmOQBdkgROJyeXGb6HnA,Jesus Chapel UK,"Maberley Rd, London SE19 2JH, United Kingdom",51.41151929999999,-0.0754857,church,5,0
+ChIJAW7ZhkUBdkgRYnwPARnKLV4,Greek Orthodox Church of Saints Constantine and Helen,"69A Westow St, London SE19 3RW, United Kingdom",51.41746389999999,-0.0815833,church,4.5,0
+ChIJvxemv7YGdkgRFeTEpXl_A_Y,Downsview Methodist Church,"Waddington Way, London SE19 3XH, United Kingdom",51.41392829999999,-0.1006656,church,4.5,0
+ChIJQYYsbUUBdkgRlZ67eSql4sU,Celestial Church of Christ - Covenant of God Parish,"12 St Aubyn's Rd, London SE19 2NP, United Kingdom",51.4185569,-0.0804928,church,4.1,0
+ChIJhYKUW64GdkgRkkMu-ufD-sg,Kingdom of Healing Christian Center,"st joseph infant and nursery school, Crown Dl, London, United Kingdom",51.422622,-0.1013786,church,0,0
+ChIJEZdZRqwGdkgR8EznPASg9ck,Worldwide Mission Fellowship,"61-65 Elder Rd, Norwood, London SE27 9NB, United Kingdom",51.4257514,-0.09863169999999999,church,5,0
+ChIJM43FMpsDdkgRCnP35T2JvJc,Royalhouse Chapel International - South London Mission (SLM),"Kingsdale Foundation School, Alleyn Park, London SE21 8SB, United Kingdom",51.4321938,-0.0853389,church,5,0
+ChIJQ-bfMkIBdkgRlEErpINgoQo,"Saint Paul's, Anerley","Norwood, London SE21 8BU, United Kingdom",51.4317231,-0.0904711,church,0,0
+ChIJky6IM0MEdkgRs4ubmIC3gSs,Church Of the First Born - Brixton,"5 Allardyce St, London SW4 7RX, United Kingdom",51.4624165,-0.1212549,church,4.4,0
+ChIJCbV8gn4EdkgR8SmjXJRCQPs,Harvest Mission Outreach,"34 Electric Ln, London SW9 8JT, United Kingdom",51.46141679999999,-0.1140554,church,0,0
+ChIJCeJinl4EdkgRARRRvSf3XWc,Stockwell Parish St Andrew and St Michael,"102 Lingham St, London SW9 0UP, United Kingdom",51.4677814,-0.1211406,church,4.3,0
+ChIJ72hPfvYEdkgRfVF2W3zI6b4,Stockwell Baptist Church,"276 S Lambeth Rd, London SW8 1UJ, United Kingdom",51.4755978,-0.1232409,church,4.7,0
+ChIJqwifS30EdkgRoEfQ9TJETSY,Michael Church,"131 Burton Rd, Vassal, London SW9 6TG, United Kingdom",51.47195929999999,-0.1052704,church,0,0
+ChIJIftf6PEEdkgRqhK0XSME7SI,"St Anne and All Saints Church, South Lambeth","Miles St, London SW8 1RL, United Kingdom",51.4826142,-0.1242671,church,4.5,0
+ChIJ50sUdfQEdkgRoZ_ud3HzgFE,"St Stephen's Church, South Lambeth","St Stephen's Terrace, London SW8 1DH, United Kingdom",51.4781645,-0.121306,church,4.5,0
+ChIJp4sUugYFdkgR6SOUZwKpBog,"Our Lady of Mount Carmel and St Joseph, Nine Elms","8a Battersea Park Rd, Nine Elms, London SW8 4BH, United Kingdom",51.4774334,-0.1468814,church,4.6,0
+ChIJm_FOVecFdkgRwUo2nbEv2kc,Luz del Mundo Londres UK,"114 Union Rd, London SW8 2SH, United Kingdom",51.4708615,-0.1332958,church,5,0
+ChIJs99rsvkEdkgRwYNcUU2OBoU,Springfield Methodist Church,"Wesley Apartments, 200 Wandsworth Rd, London SW8 2JU, United Kingdom",51.4759572,-0.1311627,church,4.4,0
+ChIJ1y2ni9EPdkgRgKtLs21jE_Y,"Parish Church of St Stephen and St Thomas, Shepherd's Bush","1 Coverdale Rd, London W12 8JJ, United Kingdom",51.5054199,-0.2290652,church,4.1,0
+ChIJHSzzCiQDdkgRLOof2oU2-mQ,Sjømannskirken i London - The Norwegian Church and Seamen's Mission,"1 St. Olav Square, Albion St, London SE16 7JB, United Kingdom",51.4992878,-0.05387049999999999,church,4.7,0
+ChIJs3zN5p8FdkgRDGaKYhRyN1E,St. Stephens Church,"Battersea Bridge Rd, London SW11 3AP, United Kingdom",51.47250390000001,-0.1653172,church,5,0
+ChIJ2ajUmSMDdkgRpvSASeQzHdY,London Open Door Church,"London SE16 2TN, United Kingdom",51.4980798,-0.05500439999999999,church,0,0
+ChIJnUlqPr0FdkgRvPHs8U9YXjA,St Andrew's URC Church,"1 Altenburg Gardens, London SW11 1JH, United Kingdom",51.4611784,-0.1623919,church,5,0
+ChIJl9FdZncFdkgRUbwDnyHxMwY,"St Mary's Church, Battersea","Battersea Church Rd, London SW11 3NA, United Kingdom",51.4765154,-0.1754018,church,4.6,0
+ChIJ-bvyEEsddkgRcAOUY7Cvy0k,Destiny Church London,"1 Addington Square, London SE5 0HF, United Kingdom",51.4806888,-0.093677,church,5,0
+ChIJlwIj7csEdkgRmjLeRCyCajo,Corpus Christi Catholic Church,"1-5 Maiden Ln, London WC2E 7NB, United Kingdom",51.5109193,-0.1225225,church,4.8,0
+ChIJx5b5wqkFdkgR_97VTr7X6XY,Ridley Hall Church,"Broughton St, London SW8 3RD, United Kingdom",51.47205779999999,-0.1482617,church,5,0
+ChIJS8n9DnsEdkgRqnsX404pyrU,Body of Christ Christian Centre,"61, 65 Paulet Rd, Vassal, London SE5 9HW, United Kingdom",51.4719957,-0.1018457,church,4,0
+ChIJvwyiQnUCdkgRU_on3hm18_Q,TRINITY CHURCH OF ENGLAND,"Leahurst Rd, London SE13 5HZ, United Kingdom",51.453248,-0.0008212,church,0,0
+ChIJyRIxKt8EdkgR6fffz2QWZhc,Westminster Chapel,"Buckingham Gate, London SW1E 6BS, United Kingdom",51.49888499999999,-0.138101,church,4.4,0
+ChIJL05xgcQEdkgR2A3E1SqEicc,Lady Chapel,"9748 Abingdon St, London SW1P 3JY, United Kingdom",51.4993588,-0.1264943,church,4.6,0
+ChIJt5SrER4ddkgRaQaCUFB8nvc,"St John of Jerusalem Church, Hackney","Lauriston Rd, Hackney E9 7EY, United Kingdom",51.5404108,-0.0460392,church,4.6,0
+ChIJK6_4Tdyp2EcRFNAJkjSzesE,TRINITY CHURCH OF ENGLAND,"Taunton Rd, London SE12 8PD, United Kingdom",51.4548917,0.0080463,church,0,0
+ChIJW50R2x4adkgR8tDO_1uRS4I,Pilgrim Tabernacle,"Martin Primary School, Plane Tree Walk, London N2 9JP, United Kingdom",51.5946619,-0.1685337,church,5,0
+ChIJL5rjHR8fdkgRksJUiW11-9c,Bush Hill Park United Reformed Church,"25 Main Ave, Enfield EN1 1DJ, United Kingdom",51.644959,-0.067701,church,4.7,0
+ChIJbcqFMlYEdkgRblsJHoWAqgU,"Christ Church, Stockwell","Union Grove, London SW8 2QJ, United Kingdom",51.4721731,-0.1321685,church,4.2,0
+ChIJw4q6w_8EdkgRjPFdDvORuVQ,Christ Apostolic Church,"100 Stewart's Rd, Nine Elms, London SW8 4UG, United Kingdom",51.4743967,-0.1398268,church,5,0
+ChIJhQdlAP8EdkgRQnu4TdKoZBQ,"St George Thessaly, Battersea Fields Parish","11 Patmore St, Nine Elms, London SW8 4JD, United Kingdom",51.4753923,-0.1377842,church,4.6,0
+ChIJJavgkWcFdkgRVxOWYMf9-A4,St Augustine's Church,"Queen's Gate, South Kensington, London SW7 5LP, United Kingdom",51.49339639999999,-0.1780396,church,4.5,0
+ChIJvxDVUjIDdkgRr7lfjL93vao,St George-in-the-East Church,"14 Cannon St Rd, London E1 0BH, United Kingdom",51.51000000000001,-0.059722,church,4.6,0
+ChIJXfu_7rwEdkgRD7F4NFQafvI,"St George's Cathedral, Southwark","Cathedral House, Westminster Bridge Rd, London SE1 7HY, United Kingdom",51.4976601,-0.1075533,church,4.6,0
+ChIJp5bKFT8FdkgRfeer16oFkqc,St Saviours,"Walton St, London SW3 1SA, United Kingdom",51.4976087,-0.1626989,church,4,0
+ChIJA4znc5AFdkgRTLfx0joHk4k,"Potter's House Church, Wandsworth","66 St John's Hill, London SW11 1AD, United Kingdom",51.4619148,-0.1734011,church,4.8,0
+ChIJ40f30r4adkgRi4i4W2C3f0U,St John's Wood Church,"Lord’s Roundabout, London NW8 7NE, United Kingdom",51.53046819999999,-0.1682359,church,4.6,0
+ChIJH0mJIuUPdkgRdgBvyGVQUXk,"St George's Church, Campden Hill","Aubrey Walk, London W8 7JG, United Kingdom",51.5068625,-0.1998823,church,4.5,0
+ChIJUfs0G3YGdkgRMYGZkio0sAo,"All Saints Church, Tooting","Brudenell Rd, London SW17 8DQ, United Kingdom",51.4302897,-0.1570773,church,4.7,0
+ChIJA7BrLMoadkgRvDJF9VoahzA,"St Mary's Church, Marylebone","Wyndham Pl, York St, London W1H 1PQ, United Kingdom",51.51982959999999,-0.1616022,church,4.5,0
+ChIJo5JyuXQEdkgReTeYt-4vKcM,Herne Hill Baptist Church.,"Half Moon Ln, London SE24 9HU, United Kingdom",51.4525444,-0.09828289999999999,church,4.3,0
+ChIJx7dNgIoDdkgRoHdCrkdn-YI,Herne Hill United Church,"Red Post Hill, Herne Hill SE24 9PW, United Kingdom",51.4595424,-0.0933249,church,4.1,0
+ChIJD3TPfnQEdkgRBKf0781HyQs,Saint Paul's Church,"Herne Hill, London SE24 9LY, United Kingdom",51.4548156,-0.0992985,church,4.3,0
+ChIJR9JsFDsFdkgRUO58MipnK68,St Saviour's Church,"Herne Hill Rd, London SE24 0AY, United Kingdom",51.46288699999999,-0.097927,church,4.8,0
+ChIJvbfGZAwEdkgRcUYqlaz_wSk,New Testament Church of God - Herne Hill,"46 Guernsey Grove, Norwood, London SE24 9DE, United Kingdom",51.4482864,-0.1009219,church,4.3,0
+ChIJ4ZtdCm4EdkgR2qwVbjfWxHY,Railton Methodist Church Community Centre,"143-145 Railton Rd, London SE24 0LT, United Kingdom",51.4572869,-0.1066138,church,4.6,0
+ChIJgzd_bnIEdkgRURRSl_wV9pM,International Felloship for Christ (CGWF),"213a Railton Rd, London SE24 0JX, United Kingdom",51.4554887,-0.1045198,church,4,0
+ChIJIwtvgwgEdkgRR6RyKGF_Y4o,All Saints West Dulwich,"Lovelace Rd, Norwood, London SE21 8JY, United Kingdom",51.4416437,-0.0974674,church,4.6,0
+ChIJx0YFsXAEdkgRMx8es88hH0o,Seventh Day Adventists Church,"Heron Rd, London SE24 0HZ, United Kingdom",51.4615635,-0.1001268,church,0,0
+ChIJabjmExEEdkgRC_hmov5YUAQ,"Holy Trinity Church, Norwood","Trinity Rise, Norwood, London SW2 2QP, United Kingdom",51.4451276,-0.1093136,church,4.5,0
+ChIJH68F6yUFdkgRVhDm1ZI7Cl0,Grace Church Dulwich,"Turney Rd, Norwood, London SE21 8LU, United Kingdom",51.4461669,-0.0979956,church,4.8,0
+ChIJ5Vhl0IsDdkgRb6IFUwrZOaw,Parish Church of Saint Faith,"St Faiths Church, 62 Red Post Hill, London SE24 9JQ, United Kingdom",51.4563931,-0.0908155,church,3.7,0
+ChIJe_Em6YoDdkgR8XRxOtP4yyM,Methodist Church Hall,"155 Half Moon Ln, London SE24 9JG, United Kingdom",51.4535127,-0.0917254,church,0,0
+ChIJ2TKEzHAEdkgRla2X-d69GSs,South East London Community Seventh-day Adventist Church,"71B Heron Rd, London SE24 0HZ, United Kingdom",51.46088409999999,-0.0997424,church,5,0
+ChIJ999jyG8EdkgRVLoNIfb02To,Barbara Otchere Ministries,"28 Corry Drive, Moorlands Estate, Coldharbour Ln, London SW9 8QT, United Kingdom",51.4603846,-0.1067801,church,5,0
+ChIJ2b2SAncEdkgRC8W2BywaY1Y,St Philip & James R C Church,"Poplar Walk, London SE24 0BS, United Kingdom",51.461097,-0.09843149999999999,church,4.7,0
+ChIJ3a0LFBEEdkgR_f-XFarle1Y,The church steeple on Trinity Rise,"53 Trinity Rise, Norwood, London SW2 2QP, United Kingdom",51.445087,-0.109466,church,0,0
+ChIJUeea3xKq2EcRJi922kUYM64,Bromley Methodist Church,"College Rd, Bromley BR1 3NS, United Kingdom",51.4079476,0.0140916,church,4.4,0
+ChIJM4oa-R2q2EcRadwKnX0ete4,King’s Church London - Downham Site,"Downham Way, Bromley BR1 5LS, United Kingdom",51.430756,0.017053,church,5,0
+ChIJ6dDoDGyq2EcRunLgSdGUvY8,Bromley URC Church,"20 Widmore Rd, Bromley BR1 1RY, United Kingdom",51.4059987,0.0173284,church,4.2,0
+ChIJXVDq6SQCdkgRssdmXEBlSJ8,King's Church London - Catford,"Catford Hill, London SE6 4PS, United Kingdom",51.4400542,-0.03126,church,4.8,0
+ChIJWfw8Afmp2EcR_QR5m9w_Jzs,Hope Church Downham,"480 Whitefoot Ln, London BR1 5SF, United Kingdom",51.433907,0.008561599999999999,church,4.4,0
+ChIJUYfbR7QcdkgRQ85xQUFwxI4,Christ Church Spitalfields,"Commercial St, London E1 6LY, United Kingdom",51.5191153,-0.0739399,church,4.5,0
+ChIJewST6G2q2EcRmr5zMsmHUIY,St Peter & St Pauls Parish Church,"Church Rd, Bromley BR2 0EG, United Kingdom",51.4050205,0.0131325,church,4.6,0
+ChIJy1X5sTIbdkgREgVzXBD_gxk,St Giles in the Fields,"60 St Giles High St, London WC2H 8LG, United Kingdom",51.5152849,-0.1283995,church,4.3,0
+ChIJRfyrbbMEdkgR79OO2x9D8is,Temple Church,"Temple, London EC4Y 7BB, United Kingdom",51.5132637,-0.1102647,church,4.6,0
+ChIJh7wHoqwEdkgR3l-vqQE1HTo,St. Paul's Cathedral,"St. Paul's Churchyard, London EC4M 8AD, United Kingdom",51.5138453,-0.0983506,church,4.6,0
+ChIJfT-KqgKq2EcRTMWiqfheadc,St Luke's Downham,"Northover, Bromley BR1 5JR, United Kingdom",51.4306342,0.0114652,church,4.6,0
+ChIJ2ZxT3swEdkgRkOmORUyWBQw,Reality Church London,"Cowper St, London EC2A 4SH, United Kingdom",51.5253733,-0.0856084,church,4.7,0
+ChIJ9yHfbNEbdkgRvN5BXN8y9nQ,The Well Church London,"Vue Cinema Screen 1, 36 Parkfield St, London N1 0PS, United Kingdom",51.53420999999999,-0.106008,church,5,0
+ChIJ6dCq16wcdkgRYkBxt-OUylI,Dutch Church,"7 Austin Friars, London EC2N 2HA, United Kingdom",51.5154796,-0.0855853,church,4.5,0
+ChIJuS04Xp0PdkgRtdbwY3bqZSA,"St Dionis, Parsons Green","18A Parsons Grn, London SW6 4UH, United Kingdom",51.4735942,-0.2007851,church,4.9,0
+ChIJd4Q4tNQbdkgRpGnkglKGzp8,Liberty Church London,"30 Jamestown Rd, London NW1 7BY, United Kingdom",51.540506,-0.1461097,church,5,0
+ChIJJ7ueYwYFdkgRTp8tQz-50nI,London Battersea Seventh-day Adventist Church,"Priory House, Prince of Wales Dr, Nine Elms, London SW8 4BL, United Kingdom",51.47775619999999,-0.1471672,church,4.8,0
+ChIJuTtTZLkIdkgRZxXgSu1H5JM,South West London Vineyard,"Ark Putney Academy, Pullman Gardens, Putney SW15 3DG, United Kingdom",51.454803,-0.225662,church,4.4,0
+ChIJdSgD9FQDdkgRjGFHAqrS-sE,St Stephen Walbrook,"39 Walbrook, London EC4N 8BN, United Kingdom",51.51261239999999,-0.0897414,church,4.7,0
+ChIJyTE1S9QEdkgRXTDqx-6Iyzg,Our Lady of the Assumption & Saint Gregory Roman Catholic Church,"The Presbytery, 10 Warwick St, London W1B 5LZ, United Kingdom",51.5111924,-0.1380064,church,4.7,0
+ChIJzat0OVIDdkgRM5oljh10YwE,"St Margaret Pattens Church of England, Eastcheap","Rood Ln, Eastcheap, London EC3M 1HS, United Kingdom",51.5108247,-0.0829307,church,4.4,0
+ChIJt2Tmvk0bdkgRtSPJJ0H92xM,St Etheldreda's R C Church,"14 Ely Pl, London EC1N 6RY, United Kingdom",51.5187146,-0.1072443,church,4.7,0
+ChIJBYyAyE0DdkgRtneljJ9kOe8,"St Olave's Church, Hart Street","8 Hart St, London EC3R 7NB, United Kingdom",51.510936,-0.079438,church,4.6,0
+ChIJj0zf3rwFdkgRm6zgfGzscak,St Barnabas' Church,"Clapham Common North Side, London SW4 9SW, United Kingdom",51.461332,-0.1610757,church,4.3,0
+ChIJSXWyf04EdkgRSGNxNljNybM,"St Mary's Roman Catholic Church, Clapham","8 Clapham Park Rd, London SW4 7AP, United Kingdom",51.4616379,-0.1372433,church,4.7,0
+ChIJHSPKz04EdkgRtiV6te0zmqE,St James' Church,"Park Hill, London SW4 9PB, United Kingdom",51.45764,-0.1327254,church,4.7,0
+ChIJWfmgX60FdkgRqkkD2V2F8fg,Holy Trinity Clapham,"Clapham Common North Side, London SW4 0QZ, United Kingdom",51.4624681,-0.1420408,church,4.6,0
+ChIJydj-yFMEdkgRWNdTZGMG5NE,St Peters Church,"Clapham Manor St, London SW4 6BX, United Kingdom",51.4634667,-0.1353332,church,3.5,0
+ChIJRXVytlQEdkgRYDPGahioawA,"St. Paul's, Clapham","St. Pauls C of E Church, Rectory Grove, London SW4 0DZ, United Kingdom",51.46871400000001,-0.1402568,church,4.4,0
+ChIJOcFTnrgFdkgRtwDjCzK4pEo,"St Luke's Church of England, Battersea.","194 Ramsden Rd, London SW12 8RQ, United Kingdom",51.4522696,-0.1567841,church,4.3,0
+ChIJk1F5L0sEdkgRfLHOm8mfbnc,Holy Spirit Church,"Narbonne Ave, London SW4 9JU, United Kingdom",51.45505989999999,-0.1399238,church,5,0
+ChIJY1sny8kFdkgRoPsOLATg_sk,Ascension Church Balham,"23 Malwood Rd, London SW12 8EN, United Kingdom",51.4507463,-0.1494139,church,4.9,0
+ChIJoQ5QZKQFdkgRgjYfUT-gJvQ,Church of The Ascension Lavender Hill,"The Ascension Clergy House, Pountney Rd, London SW11 5TU, United Kingdom",51.465438,-0.157376,church,4.8,0
+ChIJFXg4xCwbdkgRfeqSnUXcjPM,French Protestant Church of London,"French Protestant Church, 8-9 Soho Square, London W1D 3QD, United Kingdom",51.5156376,-0.1329888,church,4.2,0
+ChIJk3jTOCcBdkgRc5fGiE8y6oA,Fountain Of Life Ministries,"6-8 Robsart St, Vassal, London SW9 0DJ, United Kingdom",51.470796,-0.113369,church,5,0
+ChIJDaKRuogEdkgRW7vjJ9RV6UE,"St John the Divine, Kennington","92 Vassall Rd, Vassal, London SW9 6JA, United Kingdom",51.47763399999999,-0.1064357,church,4.6,0
+ChIJnZBf9H0EdkgRu9kN--t6uA8,Church of God Ministerial of Jesus Christ International,"61-65 Paulet Rd, Vassal, London SE5 9HW, United Kingdom",51.4717366,-0.1009858,church,4.8,0
+ChIJiyGUGa8FdkgRnlLM2bKGRT0,Clapham Baptist Church,"823-825 Wandsworth Rd, London SW8 3JL, United Kingdom",51.4663346,-0.1494195,church,4.1,0
+ChIJxZXqWPIEdkgRUzD04MZizgk,Church Of God In Christ,"Calvary Church, Fentiman Rd, London SW8 1QA, United Kingdom",51.48156849999999,-0.1197347,church,4.2,0
+ChIJs-481VcEdkgRf5HLJgLYH90,Courland Grove Baptist Chapel,"Courland Grove, London SW8 2RS, United Kingdom",51.472779,-0.1318684,church,4.6,0
+ChIJD9SG458FdkgRHtIx4r6yX70,Assemblies of the First Born,"Battersea Bridge Rd, London SW11 3AP, United Kingdom",51.4725604,-0.1651648,church,4.8,0
+ChIJ3406AhgFdkgR6vOZ6TFAfso,Igreja Deus e Amor - God is Love Pentecostal Church,"77-79 S Lambeth Rd, London SW8 1RJ, United Kingdom",51.481352,-0.1239686,church,4.8,0
+ChIJ7xc766kFdkgRox7Za0J1YqM,Destiny Christian Ministries,"9 St Philip St, London SW8 3SR, United Kingdom",51.4716174,-0.1478545,church,0,0
+ChIJr7LpjVgDdkgRfdaplMkO_kY,St George The Martyr,"Borough High St, London SE1 1JA, United Kingdom",51.5012842,-0.09269770000000001,church,4.4,0
+ChIJk6v2XLCn2EcRo4eoNTtxQU0,"St Edmund's Church, Forest Gate","462 Katherine Rd, London E7 8NP, United Kingdom",51.5444322,0.0369615,church,4.3,0
+ChIJIRnuSaOn2EcRVG1TXd-TQuY,Woodgrange Baptist Church,"345 Romford Rd, London E7 8AA, United Kingdom",51.5470024,0.0284038,church,4.4,0
+ChIJAc8DArSn2EcRxYckY4RW7fA,The Greek Orthodox Church of St. Lazarus and St. Andrew the Apostle,"Rutland Rd, London E7 8PQ, United Kingdom",51.5402365,0.0397818,church,4.4,0
+ChIJK7Ci5bQEdkgRJpbZI-6_oqY,St Clement Danes Church,"Central Church of the Royal Air Force, Strand, London WC2R 1DH, United Kingdom",51.5130722,-0.1141015,church,4.6,0
+ChIJZ8SAnFsFdkgRX9RwMbPLF2k,Trinity Church London,"108 Stamford St, London SE1 9NH, United Kingdom",51.5061887,-0.1106342,church,5,0
+ChIJR4U28ZkEdkgRGB-I4mdK3TE,"The Parish Church of St Mary, Newington","57a Kennington Park Rd, London SE11 4JQ, United Kingdom",51.4890987,-0.1046921,church,4.8,0
+ChIJpcYCDJcFdkgRfTSorcJ-kuk,St Mark's Church,"Battersea Rise, London SW11 1EJ, United Kingdom",51.4604982,-0.1702023,church,4.6,0
+ChIJOZoZY2wFdkgRR3uBQXNo5_k,Chelsea Methodist Church & Pastoral Centre,"155A King's Rd, London SW3 5TX, United Kingdom",51.4878238,-0.1673474,church,4.5,0
+ChIJ_YMVEcwEdkgR-C3SheywDBM,St Paul’s Church Covent Garden,"Bedford St, London WC2E 9ED, United Kingdom",51.511557,-0.1236935,church,4.5,0
+ChIJqdKJYEEFdkgRPQ4l8JtVt5E,Holy Trinity Brompton,"Brompton Rd, London SW7 1JA, United Kingdom",51.4978023,-0.1698292,church,4.7,0
+ChIJJavgkWcFdkgR1sZlYX30ERA,HTB Queen's Gate,"117 Queen's Gate, South Kensington, London SW7 5LP, United Kingdom",51.4933298,-0.1780362,church,4.5,0
+ChIJk2BW27oEdkgRZcf56lzrvfQ,St Andrew’s Church,"Short St, London SE1 8LJ, United Kingdom",51.5024872,-0.1067292,church,4.4,0
+ChIJAdLI-KcEdkgRa5UM2vM38Sg,Church of the Most Precious Blood (Roman Catholic Parish in the care of the Ordinariate of OLW),"O'Meara St, London SE1 1TD, United Kingdom",51.50408770000001,-0.0939951,church,4.5,0
+ChIJu8h4UFcDdkgRp7MBmrCrCOM,"St Thomas' Church, Southwark","St Thomas St, London SE1 9RY, United Kingdom",51.5050782,-0.0885294,church,5,0
+ChIJGTc_pL4EdkgRgRUA-29heEM,Oasis Church Waterloo,"1A Kennington Rd, London SE1 7QP, United Kingdom",51.49819,-0.1118859,church,4.5,0
+ChIJhzvStL4EdkgRPf3ts2FpgCY,Grace London,"The London Nautical School, 61 Stamford St, London SE1 9NA, United Kingdom",51.5067191,-0.1084918,church,5,0
+ChIJ1aSDEVcDdkgRcnd_8l9Qbh4,Southwark Cathedral,"London Bridge, London SE1 9DA, United Kingdom",51.5061009,-0.08959579999999999,church,4.6,0
+ChIJ_4vKl1QbdkgRZHD7bt4_DdY,Christ Church Southwark,"27 Blackfriars Rd, London SE1 8NY, United Kingdom",51.5063739,-0.1048908,church,4.2,0
+ChIJZTOPwroEdkgRXkP7NR6JQP4,"St John’s Church, Waterloo","73 Waterloo Rd, London SE1 8TY, United Kingdom",51.5043728,-0.1121621,church,4.3,0
+ChIJ61vUPl0DdkgRSamRs_M5CAU,Haddon Hall Baptist Church,"22 Tower Bridge Rd, London SE1 4TR, United Kingdom",51.4950829,-0.0837252,church,4.5,0
+ChIJRUvUA6AEdkgRLvs697R3c2Q,Crossway URC Church,"18 Hampton St, London SE1 6SL, United Kingdom",51.4924097,-0.0994548,church,4.6,0
+ChIJ2_eKb1kDdkgROVf1bNsHk6c,"Saint Hugh's Church, Bermondsey","Vintry Court, Crosby Row, London SE1 3PT, United Kingdom",51.5011913,-0.08885309999999999,church,4.6,0
+ChIJu_DCg6AEdkgRXPhABDpVrDQ,Potter's House Church,"Pentagon Hall, Harper Rd, London SE1 6AG, United Kingdom",51.49689430000001,-0.0942578,church,5,0
+ChIJA9cU0lwDdkgRnToULINH4xw,South London Mission,"244 Bermondsey St, London SE1 3UH, United Kingdom",51.49731269999999,-0.08223160000000002,church,5,0
+ChIJQeUd9qIEdkgRv8xhaPBCdGI,Salvation Army Community Church,"1 Princess St, Elephant and Castle, London SE1 6HH, United Kingdom",51.49574500000001,-0.1025782,church,4.5,1
+ChIJy18BVIgDdkgR_Uwt5KB2vH4,Slovak Catholic Mission in London,"14 Melior St, London SE1 3QP, United Kingdom",51.502725,-0.0850952,church,4.9,0
+ChIJG8uedaIEdkgRXcbZiwh31bw,Metropolitan Tabernacle,"Elephant and Castle, London SE1 6SD, United Kingdom",51.4941435,-0.1009454,church,4.8,0
+ChIJ6x0zUlgDdkgR52Ge4jQ-v_M,The Diocese of Southwark,"Trinity House, 4 Chapel Ct, Borough High St, London SE1 1HW, United Kingdom",51.5025043,-0.09156589999999999,church,4.6,0
+ChIJvQcD-iobdkgR2yp0LStCthE,All Saints Church,"7 Margaret St, London W1W 8JG, United Kingdom",51.5172386,-0.1387827,church,4.7,0
+ChIJy8UnpiYDdkgRLoLYlaa4LlI,Finnish Church in London,"33 Albion St, London SE16 7HZ, United Kingdom",51.4999557,-0.052513,church,4.6,0
+ChIJy6gXAMoadkgRCu70F8miYI4,The Swedish Church in London,"6 Harcourt St, London W1H 4AG, United Kingdom",51.52,-0.1644444,church,4.5,0
+ChIJFagFQ0MDdkgRUNQNGncmG2E,St Mary Magdalen Bermondsey,"193 Bermondsey St, London SE1 3UW, United Kingdom",51.4984119,-0.08085679999999999,church,4.4,0
+ChIJ6fBG3BQDdkgRbgwYvaX3z9c,St. Anne's Church,"Thorburn Square, London SE1 5QH, United Kingdom",51.4908993,-0.0690448,church,3.8,0
+ChIJ-Tf2dk0EdkgRivw546lsHic,Cityhill London,"CityHill - METRO, 9 Clapham Common South Side, London SW4 7AA, United Kingdom",51.4615088,-0.1379507,church,4.9,0
+ChIJWYxDlYsFdkgRoChNQTPU6sI,West Side Church,"Melody Rd, London SW18 2QQ, United Kingdom",51.45417579999999,-0.1821017,church,4.4,0
+ChIJLyJdtKIFdkgRZuM6u3J6Cm0,St Vincent de Paul,"36 Altenburg Gardens, London SW11 1JJ, United Kingdom",51.4625981,-0.1626163,church,4.7,0
+ChIJ0VdIeIoFdkgRXuwVwkF1Dvw,"St Anne's Church, Wandsworth","182 St Ann's Hill, London SW18 2RS, United Kingdom",51.45491759999999,-0.1877603,church,4.4,0
+ChIJL5ZghasEdkgRv7AkAN5qz9s,St. Benet Welsh Church Paul's Wharf,"93 Queen Victoria St, London EC4V 4ER, United Kingdom",51.5117128,-0.09931519999999999,church,4.6,0
+ChIJMZK5y8oFdkgRxp2f_4FAc6s,All Nations Church,"12 Poynders Rd, London SW4 8NY, United Kingdom",51.4504007,-0.1407343,church,3.6,0
+ChIJAbEdAVIEdkgRrN9GCytMNi0,Clapham Methodist Church,"121 Clapham High St, London SW4 7JR, United Kingdom",51.4626631,-0.1351482,church,3.8,0
+ChIJDV_Mm1AEdkgRJkoOwXW_JOI,Love of Christ Generation Church,"412 Clapham Rd, London SW4 6LX, United Kingdom",51.4659142,-0.1293976,church,4,0
+ChIJIStw6vcEdkgRaE4T_4HH5qo,"St Francis of Sales and St Gertrude RC Church, Stockwell","26 Larkhall Ln, London SW4 6SP, United Kingdom",51.4739382,-0.1275333,church,4.4,0
+ChIJe1dYWU4EdkgRgcTK1BwfqoQ,Elim Pentecostal Church,"30 Bowland Rd, London SW4 7LE, United Kingdom",51.4600372,-0.1329337,church,4.7,0
+ChIJbQy4MkMDdkgRfGLD3KSuvPs,Bermondsey Central Hall Methodist Church,"256 Bermondsey St, London SE1 3UJ, United Kingdom",51.4971343,-0.082367,church,4.3,0
+ChIJ3Uu5qBUDdkgRNFNj9I1C4FI,Monnow Road Baptist Church,"1 Monnow Rd, London SE1 5RP, United Kingdom",51.491939,-0.06714099999999999,church,5,0
+ChIJtRgreFQDdkgR00eJFdcpTHY,St Magnus The Martyr Church,"Lower Thames St, London EC3R 6DN, United Kingdom",51.5093617,-0.0863917,church,4.5,0
+ChIJA4kumBwDdkgRw4w_qS5jHo0,Hillsong Church London Bermondsey Campus,"Odeon Surrey Quays, Surrey Quays Leisure Park, Redriff Rd, London SE16 7LL, United Kingdom",51.4960954,-0.0444375,church,4.8,0
+ChIJA2heNKAEdkgR1VfBMv2lIWk,St Matthew's Church - Parroquia de San Mateo,"Meadow Row, London SE1 6RG, United Kingdom",51.4950674,-0.0965827,church,4.6,0
+ChIJkyzMSgcDdkgRDtlHodr-Clc,Kharis Ministries,"Park Plaza, 239 Vauxhall Bridge Rd, Pimlico, London SW1V 1EQ, United Kingdom",51.4941863,-0.1415679,church,4.7,0
+ChIJ3dhkGpwEdkgRKjNeh64ms9c,The Church of Jesus Christ of Latter-day Saints,"2 Manor Pl, London SE17 3BH, United Kingdom",51.4881421,-0.0990054,church,4.7,0
+ChIJNyKHLBYDdkgRwUAMg6wSOOk,Alive Church London,"5 Congreve St, London SE17 1TJ, United Kingdom",51.4913545,-0.0837195,church,0,0
+ChIJj8wUGvcPdkgR-Zge7kO8F4A,St Mary Abbots Church,"Kensington Church St, London W8 4LA, United Kingdom",51.50236,-0.191757,church,4.6,0
+ChIJo5n1HGUFdkgRGlXc7iHuNwc,St. Andrew's Church,"St Andrews Parish Church, 43 Park Walk, London SW10 0AU, United Kingdom",51.48518749999999,-0.178336,church,4.5,0
+ChIJW5i1a2gFdkgRXONkhfyDsLk,HTB Onslow Square,"44 Onslow Square, South Kensington, London SW7 3NX, United Kingdom",51.4916784,-0.1744186,church,4.8,0
+ChIJaexoqYoPdkgRo6QsJWR1z_U,St. Jude's Church,"24 Collingham Rd, London SW5 0LX, United Kingdom",51.4934662,-0.1875808,church,4.5,0
+ChIJe_96pR0bdkgRSR26hguTjWs,St Pancras Old Church,"Pancras Rd, London NW1 1UL, United Kingdom",51.5349509,-0.1301881,church,4.6,0
+ChIJWep08kIFdkgRPk8wkRkxSX0,Holy Trinity Brompton & Alpha International,"5-7 Cromwell Rd, South Kensington, London SW7 2HR, United Kingdom",51.4954672,-0.1739521,church,0,0
+ChIJV8EZTHgPdkgRxEGWogutgUU,Christ Church London Office,"Matrix Studio Complex, 91 Peterborough Rd, London SW6 3BU, United Kingdom",51.4704682,-0.197593,church,0,0
+ChIJR41y27IEdkgRl9dPArSjwII,St Bride's Church,"Fleet St, London EC4Y 8AU, United Kingdom",51.5137695,-0.105544,church,4.6,0
+ChIJdV52PQAddkgR-WEx-7V4pP4,St. Botolph's without Bishopsgate,"Bishopsgate, London EC2M 3TL, United Kingdom",51.51666669999999,-0.0813889,church,4.3,0
+ChIJk1y1VzMFdkgRrKnUYLJtCxE,Annunciation Marble Arch,"Bryanston St, Marble Arch, London W1H 7AH, United Kingdom",51.5144081,-0.1585507,church,4,0
+ChIJeUJuFGAbdkgR_UmGCg7BBhc,St James',"Prebend St, London N1 8PH, United Kingdom",51.5371922,-0.09576390000000001,church,4.4,0
+ChIJSRSLrIUGdkgReft1UUM4Pl0,Streatham Baptist Church,"20-22 Lewin Rd, London SW16 6JR, United Kingdom",51.42297809999999,-0.1323023,church,4.4,0
+ChIJX6sCqbkGdkgRq38oKaFNcVk,St Oswald's Parish Church,"St. Oswalds Rd, Norbury, London SW16 3SB, United Kingdom",51.4121961,-0.1100075,church,4.1,0
+ChIJnawurvIGdkgRK7RoyPq2vZ8,Hope Ministries London,"6-7 Turle Rd, London SW16 5QN, United Kingdom",51.4094211,-0.1294252,church,5,0
+ChIJH2uK8E4bdkgR-dPnrCmS-KY,St Peter's Italian Catholic Church,"136 Clerkenwell Rd, London EC1R 5DL, United Kingdom",51.5223119,-0.1091807,church,4.7,0
+ChIJjcZM5JkEdkgR8It5xfW5jKc,London City Church,"38 - 40 Kennington Park Rd, London SE11 4RS, United Kingdom",51.4895602,-0.1050433,church,5,0
+ChIJV-Ye4I8EdkgRaJg_SqGLZ8o,"St Agnes Church, Kennington","The Vicarage, 37 St Agnes Pl, London SE11 4BB, United Kingdom",51.4833662,-0.1068478,church,4.6,0
+ChIJxY0pcusEdkgRpPM8hqfAQd8,Vauxhall Methodist Church,"20-22 Worgan St, London SE11 5ED, United Kingdom",51.4896345,-0.1196546,church,3.5,0
+ChIJ16SSU5EEdkgRo2m5N31e3O8,"St Anselm's Church, Kennington","Kennington Rd, London SE11 5DU, United Kingdom",51.4888032,-0.1116507,church,4.5,0
+ChIJuYgA--wEdkgRphSrlX7e_d4,St Peter's Vauxhall,"310 Kennington Ln, London SE11 5HY, United Kingdom",51.4868236,-0.1186559,church,4.5,0
+ChIJCTJ05pkEdkgRI03EXSa0y6k,KTLCC South HUB,"38-40 Kennington Park Rd, London SE11 4RS, United Kingdom",51.4896041,-0.1050409,church,0,0
+ChIJdf30Pr4EdkgRmpiTifwoVDg,Only Believe Assembly,"29 Lambeth Walk, London SE11 6DU, United Kingdom",51.4950065,-0.1131488,church,5,0
+ChIJC8M4ve0FdkgRDGnzu_F3Uyo,Southwark and Deptford Circuit,"11, Landulph House, Kennings Way, London SE11 4EH, United Kingdom",51.4883381,-0.1082615,church,0,0
+ChIJXYVzEyEFdkgRLhEYtID16O4,Hope Church Vauxhall,"105 Tyers St, London SE11 5HS, United Kingdom",51.48841969999999,-0.1190743,church,5,0
+ChIJazQGuOwEdkgRp1SBibMQ86w,"Apostolic Church, All Nations' Centre","13 Tyers Terrace, London SE11 5LZ, United Kingdom",51.4879559,-0.1186107,church,4.6,0
+ChIJeYnwTpsEdkgRdR4AZyzy86s,"St Wilfrid's Church, Kennington","97 Lorrimore Rd, London SE17 3LZ, United Kingdom",51.48384189999999,-0.1006955,church,4.8,0
+ChIJHdGxsJYEdkgR8PhFzwAkpYA,Kennington Vineyard Church,"148 Kennington Ln, London SE11 4UZ, United Kingdom",51.4892929,-0.1103931,church,0,0
+ChIJR4U28ZkEdkgRBRRqFefkL9Q,THE TMCEC CHURCH,"St Mary Newington, 57 Kennington Park Rd, London SE11 4JQ, United Kingdom",51.4890354,-0.104593,church,0,0
+ChIJcXuKZr4EdkgR8LeQKU_54qs,Lambeth Methodist Mission,"3-5 Lambeth Rd, London SE1 7DQ, United Kingdom",51.4960234,-0.1127068,church,4.6,0
+ChIJ-R2iGtUadkgRcBSwvTMY7pI,Hope London Central International Church,"Lothbury, London EC2R 7HH, United Kingdom",51.5148246,-0.0887573,church,5,0
+ChIJIV55SJ4EdkgRlcNLXz8G790,St John C Of E Church,"Larcom St, London SE17 1NQ, United Kingdom",51.4906789,-0.0955029,church,4.3,0
+ChIJC5vNo_wPdkgRsOKAPJUwjD0,Elim Pentecostal Church,"Kensington Temple, Kensington Park Rd, London W11 3BY, United Kingdom",51.5100687,-0.1986204,church,4.4,0
+ChIJuRYlVlUbdkgR275TRdz70-0,St Lawrence Jewry C of E Church,"Guildhall Yard, London EC2V 5AA, United Kingdom",51.515341,-0.09241819999999999,church,4.4,0
+ChIJMVd0p3gDdkgRIGaadp8o2Gw,"St. Giles Church, Camberwell","Camberwell Church St, London SE5 8RB, United Kingdom",51.4730606,-0.0868695,church,4.4,0
+ChIJDx7WopwDdkgRHN9SmZRkJro,Camberwell Green URC Church,"Love Walk, London SE5 8AE, United Kingdom",51.4714129,-0.089393,church,4.5,0
+ChIJOXl4rHsDdkgR74u11c4BOW0,The Well Community Church,"Wells Way, London SE5 7SY, United Kingdom",51.478975,-0.0855407,church,4.5,0
+ChIJK2CKHX4EdkgRR_fdSi1X0jY,The Kingdom Church,"93 Camberwell Station Rd, London SE5 9JJ, United Kingdom",51.4727731,-0.0987126,church,4,0
+ChIJ_ZVJEHwDdkgRiUihK-gXjEI,Debre Sahl Eritrean Orthodox Christian Saint Michael's Community Church in,"78 Edmund St, London SE5 7NR, United Kingdom",51.4789883,-0.08883279999999999,church,4.8,0
+ChIJ1T3Ww5sDdkgRr41PSz1fMEM,Copleston Church,"Copleston Rd, London SE15 4AN, United Kingdom",51.4658333,-0.07722219999999999,church,4.4,0
+ChIJ5xvlC3sDdkgR5ZlyNJOHhqQ,St George's Church Camberwell,"St George's Church, Newent Cl, London SE15 6EF, United Kingdom",51.4802077,-0.0831614,church,5,0
+ChIJq6q-XV8EdkgRWY12w7BScAw,ACFL CHURCH,"211 Clapham Rd, London SW9 0QH, United Kingdom",51.4724756,-0.1217826,church,5,0
+ChIJDxHD91oDdkgRNAln1QAX1Dg,Our Lady of La Salette and Saint Joseph Catholic Church,"14 Melior St, London SE1 3QP, United Kingdom",51.5026763,-0.0850861,church,4.7,0
+ChIJBSk4LhMDdkgRg-pYS85pBtg,St Philip's Church Hall,"Avondale Square, London SE1 5PD, United Kingdom",51.4866986,-0.0697645,church,3.7,0
+ChIJRyDj4uwEdkgREe1JdimpJc4,"St Anne's Church, Vauxhall","363 Kennington Ln, London SE11 5QY, United Kingdom",51.4862174,-0.1199548,church,4.6,0
+ChIJTaHELeEEdkgRA4JCtxJXnTo,"St James the Less Church, Pimlico","4 Moreton St, Pimlico, London SW1V 2PS, United Kingdom",51.4906372,-0.1351928,church,4.7,0
+ChIJI5MfeYgbdkgRGKLZ_KK1Dus,Roman Catholic Church of St Thomas More,"9 Henry Rd, Finsbury Park, London N4 2LH, United Kingdom",51.5677022,-0.0964124,church,4.7,0
+ChIJ0RdYyTEbdkgRbVnonlpBQhU,Euston Church,"Church of Christ The King, Gordon Square, London WC1H 0AG, United Kingdom",51.5235528,-0.1313104,church,4.5,0
+ChIJ90XApPYPdkgRVreTzlp4NhM,"First Church of Christ Scientist, London","8 Wrights Ln, London W8 6TA, United Kingdom",51.4996926,-0.1930207,church,5,0
+ChIJFTuKnzMbdkgRnofxfhpLlso,"St George's Church, Bloomsbury.","Bloomsbury Way, London WC1A 2SA, United Kingdom",51.5176224,-0.1246451,church,4.5,0
+ChIJh_t2J1IDdkgRHCSfT-nNgdg,St Anne's Lutheran Church,"Lovat Ln, London EC3R 8EE, United Kingdom",51.5101382,-0.08389329999999999,church,4.3,0
+ChIJVYl8OEcDdkgRe2Gkz0dwwVU,"Most Holy Trinity Roman Catholic Church, Bermondsey","39 Dockhead, London SE1 2BS, United Kingdom",51.5000192,-0.0719486,church,4.7,0
+ChIJkSInZr4EdkgRt3_-6Vxtanc,Lambeth Mission and Saint Mary's Shared Anglican and Methodist Church,"Lambeth Rd, London SE1 7DQ, United Kingdom",51.4960678,-0.1126215,church,3.4,0
+ChIJ4x2HXV4EdkgRLsfIBeu8lX4,Stockwell Green URC Church,"60/70 Stockwell Rd, Greater, London SW9 9JQ, United Kingdom",51.4694938,-0.1200332,church,4.5,0
+ChIJhXLHpNEFdkgRxBKghzURWI0,Old Church,"146A Bedford Hill, London SW12 9HW, United Kingdom",51.4392651,-0.1481993,church,5,0
+ChIJ2StccWcEdkgRSq8XrI59NRs,Brixton Tabernacle Baptist Church,"216 Stockwell Rd, London SW9 9SU, United Kingdom",51.46540359999999,-0.116022,church,4,0
+ChIJMapy0XsEdkgRSHhNTd_5mNg,Celestial Church of Christ,"Arch 265, 241 Coldharbour Ln, London SW9 8RR, United Kingdom",51.4650685,-0.1028179,church,5,0
+ChIJI_LRbdIEdkgRu18ZfdVwBkw,Church of Notre Dame de France RC,"5 Leicester Pl, London WC2H 7BX, United Kingdom",51.511399,-0.1298832,church,4.8,0
+ChIJVdL0Vk0DdkgR6EMWRvkud3g,"St Helen's Church, Bishopsgate","Great St Helen's, London EC3A 6AT, United Kingdom",51.5147957,-0.0818914,church,4.6,0
+ChIJhw61f1AEdkgRqjSTKNfBlxw,United Pentecostal Faith Church,"15 Bedford Rd, London SW4 7SH, United Kingdom",51.4647625,-0.129183,church,4.2,0
+ChIJO0Xt2zMEdkgR8YZWbub6nS0,St Bede's Church,"58 Thornton Rd, London SW12 0LF, United Kingdom",51.44473,-0.13503,church,4.8,0
+ChIJaxLMzlIEdkgRkG81O7jqd1U,Maranatha Ministries Worldwide,"Grafton Square, Old Town, London SW4 0DE, United Kingdom",51.4640032,-0.1403928,church,5,0
+ChIJlV1PFD8FdkgRlajd4C7TK6Q,"St Saviour's, Pimlico","St.George's Square, Pimlico, London SW1V 3QW, United Kingdom",51.48848779999999,-0.135236,church,4.6,0
+ChIJW0eRWcMEdkgRNyu5He3byJQ,St Margaret's Church,"St Margaret St, London SW1P 3JX, United Kingdom",51.4998221,-0.1266941,church,4.4,0
+ChIJqWVPLi0bdkgRVpobnWbdRfA,St Patrick's Catholic Church,"21A Soho Square, London W1D 4NR, United Kingdom",51.5153918,-0.1315285,church,4.7,0
+ChIJ-_0b89IadkgRuO4ROoRzT1Y,Hinde Street Methodist Church,"19 Thayer St, London W1U 2QJ, United Kingdom",51.5170669,-0.1511288,church,4.4,0
+ChIJZTGplBoEdkgR5lhoUBGoRjs,Tulse Hill Methodist Church,"138 Christchurch Rd, London SW2 3DQ, United Kingdom",51.4401373,-0.1072171,church,4,0
+ChIJKe9GoxcFdkgRherABx8AEh0,"St Mary's, Bourne Street","Bourne St, London SW1W 8JJ, United Kingdom",51.4918728,-0.15403,church,4.6,0
+ChIJvxiG4UwDdkgRg6llQt50Kug,The Guild Church of St Katharine Cree,"86 Leadenhall St, London EC3A 3BP, United Kingdom",51.5134617,-0.0790092,church,4.5,0
+ChIJN1yn6hIDdkgRn_nEVNcslME,New Covenant Church Bermondsey,"506-510 Old Kent Rd, London SE1 5BA, United Kingdom",51.4847545,-0.06892540000000001,church,4.9,0
+ChIJQ9gKjZ4EdkgRtuZStlUaXx4,Worldwide Missionary Movement of UK,"22 Tower Bridge Rd, London SE1 4TR, United Kingdom",51.4951498,-0.0837166,church,4,0
+ChIJeXrdX34PdkgR4G1KLm50hzU,St Matthew's Church,"Wandsworth Bridge Rd, London SW6 2TX, United Kingdom",51.4689184,-0.1904887,church,5,0
+ChIJa2M6VZoFdkgRqJ65Me2up6I,Church Of The Ñazarene,"Grant Rd, London SW11 2NU, United Kingdom",51.4655903,-0.1706516,church,5,0
+ChIJf3Q2O64HdkgR3s5PfbXJzGs,Trinity Baptist Church ~ West Norwood,"2 Thornlaw Rd, Norwood, London SE27 0SA, United Kingdom",51.4294762,-0.1046767,church,4.9,0
+ChIJHXnz1s4IdkgRtc8f6U7vmwg,Emmanuel Church of England,"24 Ridgway, Greater, London SW19 4QN, United Kingdom",51.4230227,-0.2171968,church,4.7,0
+ChIJTWwFXpYEdkgRZGdYMDJ6484,Archbishop Sumner Church of England Primary School,"Reedworth St, London SE11 4PH, United Kingdom",51.49153399999999,-0.1097222,church,3.9,0
+ChIJ_dczelMDdkgRTi9GLync6PI,St Mary Woolnoth,"1 King William St, London EC4N 7BJ, United Kingdom",51.51281580000001,-0.0880355,church,4.6,0
+ChIJAXPmzswEdkgRHX7f_luCuWs,Hope Community Church,"1-4 Nottingham Ct, London WC2H 9AY, United Kingdom",51.5143938,-0.1254595,church,4.3,0
+ChIJIQBOqDAEdkgRBHzvvO5j180,New Park Road Church,"New Park Rd, London SW2 4LH, United Kingdom",51.4462519,-0.1297045,church,4.8,0
+ChIJt8sbF04FdkgR0Dw2L59IRxE,Up Church London,"Canterbury Grove, Norwood, London SE27 0AR, United Kingdom",51.43409399999999,-0.1044975,church,5,0
+ChIJG52TDnEBdkgRUdIj3EeyUU4,"St Johns C of E Church, Penge","2 St John's Rd, London SE20 7EQ, United Kingdom",51.41665990000001,-0.0549488,church,4.6,0
+ChIJkY9ZdKADdkgRWZ3z_8v0FPQ,Good News International Church,"1 Rye Ln, London SE15 5EW, United Kingdom",51.47314309999999,-0.0701099,church,0,0
+ChIJIfW2ok0EdkgR0oqn81nKJlk,Saint Mary's Church Hall,"1 St Alphonsus Rd, London SW4 7BA, United Kingdom",51.4610303,-0.1369796,church,5,0
+ChIJCbp1OaYFdkgRFp_4NQ_vgiA,"Greek Orthodox Church of St Nectarios, Battersea","19 Wycliffe Rd, London SW11 5QR, United Kingdom",51.4692404,-0.1529558,church,4.9,0
+ChIJHbheQkUEdkgREd_BoTGFknM,"Bible Truth Church of God, Brixton.","16 Hetherington Rd, London SW4 7NU, United Kingdom",51.461053,-0.1282283,church,5,0
+ChIJ3X-XglgBdkgRkR2iUbrs1fo,St Stephen’s Church,"College Road, London SE21 7HW, United Kingdom",51.432294,-0.078525,church,5,0
+ChIJ41jOdHMGdkgRInp2mJPMZV4,"St Nicholas Church, Tooting","Church Ln, London SW17 9PP, United Kingdom",51.4247573,-0.1620423,church,4.3,0
+ChIJcxwglrUEdkgRCSWWXSkPjDg,King's College Chapel,"Kings College, Strand Ln, London WC2R 2LS, United Kingdom",51.5119845,-0.1165847,church,4.6,0
+ChIJH8KlxBkFdkgRtCZc2SAh6JY,"Church of St Barnabas, Pimlico","St Barnabas' Church, Pimlico, London SW1W 8PF, United Kingdom",51.4903979,-0.1518174,church,4.7,0
+ChIJV5D3dWEEdkgRKeTy7zpwNz8,RCCG Winners' Assembly London,"Block K & J, Chartwell Business Park, Block K&J, 61-65 Paulet Rd, London SE5 9HW, United Kingdom",51.4715995,-0.1012018,church,4.9,0
+ChIJe-Lm_NIFdkgRUrs0uJcBHeU,Vineyard 61 Church - Balham,"53 Rowfant Rd, London SW17 7AP, United Kingdom",51.4410464,-0.1566612,church,4.7,0
+ChIJE4mPAoQEdkgRFHowV0Ux75g,"St Michael's Church, Camberwell","140 Wyndham Rd, London SE5 0UB, United Kingdom",51.4784302,-0.09926689999999999,church,4.5,0
+ChIJXVuueYQEdkgRprBnQd0_3ms,Camberwell Evangelical Church,"65 Bethwin Rd, London SE5 0YR, United Kingdom",51.4802101,-0.1000732,church,4.8,0
+ChIJZ54t7IAEdkgRlOYjbhl6gys,Sacred Heart of Jesus R C Church,"2 Knatchbull Rd, London SE5 9QS, United Kingdom",51.4748611,-0.0971856,church,4.6,0
+ChIJhUU_TZ0EdkgR2_5veXMH4mE,Walworth Methodist Church (Clubland),"54 Camberwell Rd, London SE5 0EW, United Kingdom",51.4829781,-0.0950051,church,4.3,0
+ChIJcyHqUoAEdkgR7nEkv9I2EeU,St Marys Greek Orthodox Cathedral,"305 Camberwell New Rd, London SE5 0TF, United Kingdom",51.4751887,-0.0946692,church,4.6,0
+ChIJw7YMZGIDdkgRFA6pPLVO0lk,"St Peter's Church, Walworth","Liverpool Grove, London SE17 2HH, United Kingdom",51.4865187,-0.0925979,church,4.5,0
+ChIJi9qEZ0AddkgRZClLgN_MF0Y,Unit 8. 2-8 Fountayne Road.,"Unit 8, Tudorleaf Business Centre, 2-8 Fountayne Rd, London N15 4QL, United Kingdom",51.584364,-0.0632244,church,0,0
+ChIJmUI1h5ADdkgR-HfOOorYlmY,Calvary Chapel East Dulwich,"1 Besant Pl, London SE22 8DA, United Kingdom",51.4621044,-0.0789982,church,5,0
+ChIJv1zD4lQbdkgRxAHrEc0i-L8,London City Presbyterian Church,"10 Aldersgate St, London EC1A 4EU, United Kingdom",51.517017,-0.09714049999999999,church,4.7,0
+ChIJW8saJioFdkgRwVybkVX7ErM,Nine Elms Church,"The School House St Georges School, Thessaly Rd, London SW8 4JS, United Kingdom",51.4771134,-0.1387218,church,0,0
+ChIJPzWz1MIEdkgRwgGebfBMh-4,Emmanuel Evangelical Church,"Emmanuel Centre, 9-23 Marsham St, London SW1P 3DW, United Kingdom",51.496435,-0.1291977,church,4.5,0
+ChIJF68XP2kPdkgRi4qsgRDqFfs,West Hill Baptist Church,"West Hill Baptist Church, Haldon Rd, London SW18 1QD, United Kingdom",51.45596,-0.2036981,church,4.4,0
+ChIJ82iME1QbdkgRtpGtv-8yDeA,St Bartholomew the Great,"Cloth Fair, Barbican, London EC1A 7JQ, United Kingdom",51.5189119,-0.09959480000000001,church,4.8,0
+ChIJ-9AX1k0DdkgRBucVmbfb4z0,All Hallows by the Tower,"Byward St, London EC3R 5BJ, United Kingdom",51.5094167,-0.0793083,church,4.6,0
+ChIJHS0tClMDdkgRT7OXcctKL3g,St Edmund's Church,"St Edmund the King, 57, 59 Lombard St, London EC3V 9EA, United Kingdom",51.51244750000001,-0.0863116,church,4.5,0
+ChIJdYqIq4cFdkgRmlvVRI01pGA,Saint John the Evangelist Church,"361-369 A3, London SW9 9BT, United Kingdom",51.4673983,-0.1290525,church,0,0
+ChIJ1Xi5GfoEdkgRrXXEvtfeKLE,Southfields New Testament Assembly Church,"Johnson House, Wandsworth Rd, London SW8 4ST, United Kingdom",51.4774737,-0.1300626,church,0,0
+ChIJLXDddakGdkgRTN5v4Nwfmkw,Bethesda House of Mercy,"118 Norwood High St, Norwood, London SE27 9NH, United Kingdom",51.4282051,-0.1006347,church,0,0
+ChIJKToQL3QBdkgRy8VjDLFndL8,Christ Central Church,"The Kings Hall, Green Ln, London SE20 7JA, United Kingdom",51.4152741,-0.0483191,church,4.6,0
+ChIJYXUN2IEEdkgR5_PwOrH22cU,House of Praise Camberwell,"254-270 Camberwell Rd, London SE5 0DP, United Kingdom",51.4763975,-0.0941056,church,4.6,0
+ChIJWaepVoEEdkgRW6Ms3o_usHc,"Brandon Baptist Church, Camberwell","Redcar St, Camberwell SE5 0NA, United Kingdom",51.4779308,-0.0991962,church,4,0
+ChIJa1u9vgIddkgRgTpt0VSSDd4,Amen Church Of Christ,"Cambridge House, 1 Addington Square, London SE5 0HF, United Kingdom",51.4807358,-0.0939162,church,5,0
+ChIJOd74uIMDdkgReIQmf0HBcQw,Grove Chapel Evangelical Church,"96A Camberwell Grove, London SE5 8RF, United Kingdom",51.4694495,-0.08639999999999999,church,4.6,0
+ChIJT0CyTYEEdkgRj3U4I46t5pk,Calvary Temple United Church,"1 Councillor St, London SE5 0LY, United Kingdom",51.4771509,-0.09961919999999999,church,4.7,0
+ChIJ5y-rU_4EdkgRbORj3ea5RBY,St George C of E Church,"11 Patmore St, Nine Elms, London SW8 4JD, United Kingdom",51.4753207,-0.1378484,church,0,0
+ChIJ4VnlXV8EdkgRICwLEjgr0kM,IGREJA PENTECOSTAL DEUS E AMOR - GOD IS LOVE PENTECOSTAL CHURCH,"209 Clapham Rd, London SW9 0QH, United Kingdom",51.4725382,-0.121717,church,5,0
+ChIJxVqHTfgEdkgRD4dZm8lBnSc,A Toca Restaurant,"341 Wandsworth Rd, London SW8 2JH, United Kingdom",51.4753596,-0.1311737,church,4.4,2
+ChIJS3lNU7AIdkgR1RwF_2J0XaY,"Everyday Church, Wimbledon","30 Queen's Rd, London SW19 8LR, United Kingdom",51.42214000000001,-0.202923,church,4.8,0
+ChIJs7PCd9IadkgRnYSBfN33VYc,St James' Roman Catholic Church,"22 Spanish Pl, George St, London W1U 3QY, United Kingdom",51.5180866,-0.1524085,church,4.7,0
+ChIJx-sBJHYcdkgR5l-WtcM1f8c,St. Olave's Church,"Woodberry Down, London N4 2TW, United Kingdom",51.5711606,-0.09366150000000001,church,4.3,0
+ChIJG4OWprsEdkgRR0vR5hbqxzg,Bulgarian Evangelical Church “Spring of life” London Българска Евангелска Църква Лондон,"1 Coral St, London SE1 7BE, United Kingdom",51.5009266,-0.1088699,church,5,0
+ChIJpwRUtKcEdkgRaiKZSyyUnpg,The Borough Welsh Congregational Chapel,"90 Southwark Bridge Rd, London SE1 0EX, United Kingdom",51.5029489,-0.0967492,church,4.4,0
+ChIJFUlbxKwEdkgRhCoprQmlVUI,The Guild Church of Saint Martin within Ludgate,"40 Ludgate Hill, London EC4M 7DE, United Kingdom",51.5140925,-0.1019682,church,4.8,0
+ChIJQxcRNckFdkgRCFxhFiSjhCA,Balham Pentecostal Church,"18 Balham New Rd, London SW12 9PG, United Kingdom",51.4466714,-0.1474148,church,3.3,0
+ChIJqeauOnwEdkgRFyAZKuQEN84,Loughborough Evangelical Church,"Loughborough Hall, 3 Flaxman Rd, London SE5 9DP, United Kingdom",51.4698477,-0.1001061,church,5,0
+ChIJ_75IohAEdkgRiAHh2wfVRqI,Lord's Church International Ministries,"3 Weaver Walk, Norwood, London SE27 0AH, United Kingdom",51.4283194,-0.1027893,church,5,0
+ChIJZQr6W3oOdkgRmqd1eXNZ_28,St Paul's Church,"56-62 Grove Park Rd, Chiswick, London W4 3SD, United Kingdom",51.48147669999999,-0.273387,church,4.8,0
+ChIJPbARw98EdkgRGHSo_2fxUDw,Roman Catholic Diocese of Westminster,"46 Francis St, London SW1P 1QN, United Kingdom",51.4947114,-0.1391785,church,4.5,0
+ChIJ5ddWoIKg2EcRvHY38tfxrjQ,"Parish Church of St Peter & St Paul, Chingford","The Green Walk, London E4 7EN, United Kingdom",51.6313083,0.0013372,church,4.6,0
+ChIJnSkMZDQFdkgRNTnrUf4jrjs,Iglesia Formacion Cristiana Monte Sinaí,"209 Clapham Rd, London SW9 0QH, United Kingdom",51.4725711,-0.1217461,church,5,0
+ChIJGUu-VJwFdkgRjgWHaA_W8f4,Battersea Central Methodist Mission Church and Centre,"20-22 York Rd, London SW11 3QJ, United Kingdom",51.4700685,-0.1728579,church,3.7,0
+ChIJBc3FoWwFdkgRVVmHn0b2-dQ,Welsh Congregational Church,"2 Radnor Walk, London SW3 4BP, United Kingdom",51.4883472,-0.1656995,church,0,0
+ChIJIyjWJ8McdkgR5SWmO7GZAhM,Lithuanian RC Church of St. Casimir,"21 The Oval, Cambridge Heath, London E2 9DT, United Kingdom",51.5327733,-0.05945549999999999,church,4.9,0
+ChIJLf76U8QcdkgRpCsXa_ob75Q,Mansford Street Unitarian Church,"117 Mansford St, London E2 6LX, United Kingdom",51.5289016,-0.0621333,church,0,0
+ChIJ-QVX1cIcdkgRN1Fbep6pd0Y,RCCG Place Of Victory Church,"SPACE, 7, 8 The Oval, Cambridge Heath, London E2 9DT, United Kingdom",51.5333365,-0.05869029999999999,church,4.8,0
+ChIJzeduQ98cdkgR9TdMnIFL60U,"St James-the-Less, Bethnal Green","St James's Ave, Globe Town, London E2 9JD, United Kingdom",51.5318599,-0.04790920000000001,church,4.4,0
+ChIJV_erAsQcdkgRmfEmMeFIrdM,St Peter's Bethnal Green,"St Peter's Cl, Bethnal Green, London E2 7AE, United Kingdom",51.5301219,-0.0645719,church,4.5,0
+ChIJhZb-TtocdkgRCxq1ganf4zk,St John on Bethnal Green,"200 Cambridge Heath Rd, Bethnal Green, London E2 9PA, United Kingdom",51.5275283,-0.0547752,church,4.2,0
+ChIJlwu6SWgbdkgRyX2krLw_78E,Holy Trinity,"Cloudesley Square, London N1 0HN, United Kingdom",51.5374086,-0.1082083,church,5,0
+ChIJRRj3vPMddkgRDZmsUHcb3Co,Bethnal Green Mission Church,"305 Cambridge Heath Rd, London E2 9LH, United Kingdom",51.5284661,-0.055863,church,4.6,0
+ChIJAaJot94cdkgRcukuQ9Z0JtM,Bethnal Green Methodist Church,"Approach Rd, Bethnal Green, London E2 9JP, United Kingdom",51.53221509999999,-0.05091039999999999,church,4.6,0
+ChIJF_zjz0QEdkgRY-BekfpXHbo,Brixton Baptist Church,"75 Solon Rd, London SW2 5UX, United Kingdom",51.46174999999999,-0.1252778,church,4.5,0
+ChIJ-5IbNr0CdkgR58Fx5NMIXdA,Zion City Church,"St John's community center, 37-43 Glengall Grove, London E14 3NE, United Kingdom",51.495344,-0.0121278,church,5,0
+ChIJh2VI5jsEdkgRKqxtontK-vA,Brixton Hill URC Church,"235 Brixton Hill, London SW2 1NR, United Kingdom",51.4461314,-0.1237299,church,4,0
+ChIJn8JhEx4FdkgR3kuoepncp3I,"St Gabriel's, Pimlico","Warwick Square, Pimlico, London SW1V 2AD, United Kingdom",51.489627,-0.142199,church,4.5,0
+ChIJV3ikGfMPdkgRM9x0rr8BytU,St Philip's Church,"Earls Ct Rd, London W8 6QH, United Kingdom",51.4958306,-0.1962338,church,4.3,0
+ChIJQWW4e5IPdkgRhNwDFcyoA2w,"St Cuthbert's, Earls Court","50 Philbeach Gardens, London SW5 9EB, United Kingdom",51.4912602,-0.2003904,church,4.4,0
+ChIJmRc7dKocdkgRntgQB2wvnd8,St Giles Cripplegate,"Fore St Ave, Barbican, London EC2Y 8DA, United Kingdom",51.5187013,-0.09387859999999999,church,4.5,0
+ChIJNbdtjzYFdkgRN0YX7S_j3cU,Christ Apostolic Church Clapham Winning Image Training Centre,"61 Lyham Road Clapham Youth Centre, London SW2 5DH, United Kingdom",51.4562773,-0.1279402,church,5,0
+ChIJ7x4kC0MFdkgRjqKCjD2l3GI,Hyde Park Chapel – The Church of Jesus Christ of Latter-day Saints,"64 - 68 Exhibition Rd, London SW7 2PA, United Kingdom",51.4981625,-0.1737119,church,4.8,0
+ChIJT2xDU2UFdkgRAx3ubzXCmyE,Fetter Lane Moravian Church,"381 King's Rd, London SW10 0LP, United Kingdom",51.48361620000001,-0.1762479,church,4.3,0
+ChIJIfQOMUcFdkgR7Ic7qr-EwxI,Deutsche Evangelische Christuskirche,"18 Montpelier Pl, London SW7 1HJ, United Kingdom",51.499677,-0.166394,church,4.3,0
+ChIJj-22N2EEdkgR5-8dxPTkMJA,Living Word Ministries,"336 Brixton Rd, London SW9 7AA, United Kingdom",51.4681813,-0.1129511,church,0,0
+ChIJy7igLVUbdkgRlfhAZb-OFJA,St Vedast alias Foster,"4 Foster Ln, London EC2V 6HH, United Kingdom",51.5149254,-0.0962523,church,4.6,0
+ChIJdR2xtC4bdkgROwDELo5JhCQ,American International Church,"79a Tottenham Court Rd, London W1T 4TD, United Kingdom",51.5210327,-0.1354313,church,4.4,0
+ChIJu1-fz_0adkgR633qRtxtbY4,New Life Church North London,"Acland Burghley School, Burghley Rd, London NW5 1UJ, United Kingdom",51.55711059999999,-0.1384429,church,4.8,0
+ChIJO8GsY2wFdkgR5Los2iAaOv0,Word International Ministries,"155 King's Rd, London SW3 5TX, United Kingdom",51.4878215,-0.1672926,church,0,0
+ChIJ6TwFmnQFdkgRX5e_5Lqcz2Q,Living Streams International (London Branch),"60 Worfield St, London SW11 4RA, United Kingdom",51.47748550000001,-0.1661549,church,0,0
+ChIJAZv93ekFdkgRzQ5nedvDbKU,Royal Hospital Chelsea Chapel,"Royal Hospital Rd, London SW3 4SR, United Kingdom",51.4873236,-0.158369,church,4.8,0
+ChIJLfKQDQQEdkgRupwklyqM4DI,Iglesia Bautista de Londres - IBL,"Chatsworth Way, Norwood, London SE27 9HN, United Kingdom",51.436007,-0.1012996,church,4.8,0
+ChIJA8PvGsMFdkgRroDGLMJxa6w,St Judes Free Church,"Heslop Rd, London SW12 8EG, United Kingdom",51.4424479,-0.1599541,church,4.3,0
+ChIJywUG-1kPdkgRYHesDeO90-s,London Baptist Church,"Unit 1, 148-150 Penwith Rd, London SW18 4QB, United Kingdom",51.4423529,-0.1898632,church,5,0
+ChIJE5V9MQgFdkgRwhsq3jvlMqo,Shaftesbury Christian Centre Community Church,"Shaftesbury Christian Centre, 2 Austin Rd, London SW11 5JP, United Kingdom",51.4737293,-0.1549398,church,4.4,0
+ChIJf7SZhpcPdkgRcqH5wcTR_lE,West London Family Church Fulham,"230 Lillie Rd, London SW6 7QA, United Kingdom",51.4837132,-0.2088918,church,4.9,0
+ChIJ1Qg7ANMEdkgRBi3LW-cB1rs,St Anne's Church,"55 Dean St, London W1D 6AF, United Kingdom",51.5124332,-0.1318838,church,4.5,0
+ChIJG3BDsKIPdkgRe7n-9XsKrCA,London Fulham Seventh-day Adventist Church,"259 Lillie Rd, London SW6 7LL, United Kingdom",51.48300829999999,-0.2110806,church,4.9,0
+ChIJVdL0Vk0DdkgRhdRB66IPGiE,St Andrew Undershaft Church,"St Mary Axe, London EC3A 8BN, United Kingdom",51.51385,-0.0811667,church,4.9,0
+ChIJA02x5dwEdkgRaI5C4CUBIX8,St Matthew's Westminster,"20 Great Peter St, London SW1P 2BU, United Kingdom",51.4969512,-0.1305271,church,4.5,0
+ChIJeY15JlIDdkgR-383mirmLPI,St Mary-At-Hill,"Lovat Ln, London EC3R 8EE, United Kingdom",51.5100253,-0.0835226,church,4.5,0
+ChIJmXOaEUYEdkgRCJxpRb6WXcI,King's Acre Church,"59 Lyham Rd, Brixton Hill, London SW2 5DH, United Kingdom",51.4564275,-0.1278057,church,4,0
+ChIJaX4QynsEdkgROERwGjfGlKw,Sureway International Christian Ministries,"Higgs Industrial Estate Herne Hill Rd, London SE24 0AU, United Kingdom",51.4659963,-0.1017128,church,4.8,0
+ChIJFYUzhLcFdkgRbXnchHT7rxA,Franciscan Sisters,"19 Clapham Common West Side SW, London SW4 9AL, United Kingdom",51.4539852,-0.1521814,church,0,0
+ChIJO_SOxKEDdkgRHszuR6edJRQ,All Saints Church,"7 Blenheim Grove, London SE15 4QS, United Kingdom",51.4693213,-0.0694629,church,4.6,0
+ChIJtyCyl9YEdkgRmLDsf1NLqk8,St James's Piccadilly,"197 Piccadilly, St. James's, London W1J 9LL, United Kingdom",51.50872889999999,-0.1366489,church,4.5,0
+ChIJQxAzhjkbdkgReNvYfy1yNuM,"Holy Cross Church, St Pancras","98 Cromer St, London WC1H 8JU, United Kingdom",51.5274827,-0.1231866,church,4.5,0
+ChIJcwWukqUIdkgRcPsMRj5uzGw,Holy Trinity South Wimbledon,"234 The Broadway, London SW19 1SB, United Kingdom",51.41962059999999,-0.1953149,church,3.8,0
+ChIJZdo8RtsEdkgRYtQOCooiDM0,Methodist Church,"Methodist Central Hall, Storey's Gate, London SW1H 9NH, United Kingdom",51.50002139999999,-0.129638,church,4.7,0
+ChIJQ3y9OPMCdkgRdXrvOFDe4sU,"The Parish Church of Saint Paul, Deptford","Mary Ann Gardens, London SE8 3DP, United Kingdom",51.4796158,-0.0244434,church,4.4,0
+ChIJb6wKMs4adkgRV8_Hu-GprNw,Methodist Church House,"25 Marylebone Rd, London NW1 5JR, United Kingdom",51.5225827,-0.1535563,church,4.1,0
+ChIJB7uw9awEdkgRF4d58ZsiUIs,St. Andrew Holborn Church Foundation,"5 St Andrew St, London EC4A 3AF, United Kingdom",51.5170239,-0.1067244,church,4.5,0
+ChIJF_2OGZsFdkgRKwSyp8sjPtU,Newlife Fellowship Victoria,"55 Palace St, London SW1E 5HJ, United Kingdom",51.497885,-0.1393649,church,5,0
+ChIJP4hrk7cadkgRFmlb7rC27Rs,Parish of Old St Pancras,"Parish Office, St Paul's Church, Camden Square, London NW1 9XG, United Kingdom",51.5457163,-0.1306879,church,0,0
+ChIJD8bznVIFdkgROxK8v-dlpdk,"St James's Church, Sussex Gardens","Sussex Gardens, London W2 3UD, United Kingdom",51.5133494,-0.1765067,church,4.7,0
+ChIJlY6TmZ0DdkgRXP_Ba6olma0,South London Tabernacle Baptist Church,"57-63 Bushey Hill Rd, London SE5 8QF, United Kingdom",51.4719188,-0.0785732,church,4.7,0
+ChIJR73oxHsDdkgR_tJk9-gfHGQ,Elim Foursquare Gospel Alliance,"9-11 Cottage Grn, London SE5 7ST, United Kingdom",51.4789459,-0.085974,church,3,0
+ChIJRfo-lAUDdkgREZ8XHAcKobc,Behold He Cometh Church,"801 Old Kent Rd, London SE15 1NX, United Kingdom",51.4799248,-0.05704959999999999,church,3,0
+ChIJOTe8ftIBdkgRWnAOSCfA5C8,New Covenant Church-Equipping People,"2 Berridge Rd, Norwood, London SE19 1EF, United Kingdom",51.4250647,-0.08875190000000001,church,5,0
+ChIJiQYLHU0CdkgRYsaV0g25uuw,"RCCG, Living Faith House Church, London","Gateley House, 29 Coston Walk, London SE4 2JF, United Kingdom",51.4599527,-0.0447908,church,4.8,0
+ChIJx2YL704EdkgR-HFEKxFd0iw,Salvation Army Hall,"London SW4 7DE, United Kingdom",51.459045,-0.1328198,church,5,1
+ChIJw6WdMCUbdkgR7hXkfLmp15s,St Pancras New Church,"Euston Rd, London NW1 2BA, United Kingdom",51.527206,-0.1299512,church,4.5,0
+ChIJV1SghsgcdkgRPfomREpEyL0,St Matthews Church,"St Matthew's Row, Bethnal Green, London E2 6DT, United Kingdom",51.5250773,-0.0669307,church,4.5,0
+ChIJG3t8t5wFdkgRN9qMz13Lep8,Battersea Chapel Baptist Church,"6 Wye St, London SW11 2SR, United Kingdom",51.4682259,-0.1752674,church,4.6,0
+ChIJe76MdlsFdkgRr0d60cAqHis,Holy Trinity Church,"Prince Consort Rd, South Kensington, London SW7 2BA, United Kingdom",51.4998776,-0.1787865,church,4.3,0
+ChIJC-0XSz8bdkgRhQ6vTglKYM4,Ethiopian Christian Fellowship Church UK,"178 King's Cross Rd, London WC1X 9DE, United Kingdom",51.5308217,-0.1184893,church,4.5,0
+ChIJXS_mIssEdkgRMaXgjEKvUjM,Crown Court Church,"Russell St, London WC2B 5EZ, United Kingdom",51.5132653,-0.1207694,church,4.6,0
+ChIJw-E01J0FdkgRtU-RJk32_Iw,Christ Church & St Stephen's Battersea,"London SW11 2PN, United Kingdom",51.47023040000001,-0.1698282,church,3.3,0
+ChIJTXyYcoIEdkgRaAgv6bmsMZU,Power Church International,"116 Camberwell Rd, London SE5 0EE, United Kingdom",51.480585,-0.0945192,church,5,0
+ChIJAQBArH0EdkgRFmDat57ZMjI,supreme church camberwell uk,"Lilford Business Centre, 61 Lilford Rd, Vassal, London SE5 9HY, United Kingdom",51.4705449,-0.1021256,church,0,0
+ChIJ5czPx3sDdkgResmb3dHFln8,Liberty Christian Fellowship,"Liberty House, 11 Cottage Grn, London SE5 7ST, United Kingdom",51.47937200000001,-0.0857926,church,4.4,0
+ChIJn6vZyIwFdkgRCA0QO1YYPsc,100% HOLY SPIRIT,"55 Camberwell Rd, London SE5 0EZ, United Kingdom",51.48335059999999,-0.0941518,church,0,0
+ChIJY3XdU4IDdkgRnE3vhWIU7J0,B I C C,"14 Grace's Mews, London SE5 8JF, United Kingdom",51.47060949999999,-0.0854464,church,5,0
+ChIJCZX7CoIEdkgRTOQ_vcG15CM,Christ Apostolic Church,"London SE5 7HY, United Kingdom",51.47936079999999,-0.0939675,church,0,0
+ChIJpS5n2u0ddkgR_ClnthlIzMM,Hillsong Church North London Campus,"Bernie Grant Arts Centre, Town Hall Approach Rd, London N15 4RX, United Kingdom",51.5875888,-0.07240959999999999,church,4.6,0
+ChIJ_7i0hFMbdkgRN3kow5iKXO0,St Bartholomew the Less,"57A W Smithfield, London EC1A 9DS, United Kingdom",51.51796299999999,-0.1006224,church,4.4,0
+ChIJef3A-bsFdkgRrRaqFWU5K3g,Fresh Ground Church of the Nazarene,"68 Battersea Rise, London SW11 1EQ, United Kingdom",51.4609329,-0.1665944,church,4.3,2
+ChIJF1j-o3EbdkgRPLC_jw_R3H4,Holy Trinity Church,"Marylebone Rd, London NW1 5RZ, United Kingdom",51.5224304,-0.1554705,church,0,0
+ChIJfa72LnMHdkgRs2wiffdH7HE,Hillsong Church Croydon,"Fairfield Halls, Park Ln, Croydon CR9 1DG, United Kingdom",51.3722705,-0.0955318,church,4.9,0
+ChIJUVzFNNAadkgRN7ZLACBruAY,St Marylebone Parish Church,"17 Marylebone Rd, London NW1 5LT, United Kingdom",51.52273,-0.152321,church,4.5,0
+ChIJXz_toBsFdkgRsoo2SzBUGiA,Angelus Temple Foursquare Church,"177 Walworth Rd, London SE17 1JJ, United Kingdom",51.490103,-0.0966533,church,5,0
+ChIJgeuJEv4adkgRYV4twcA-Jew,Christ Apostolic Church,"23 Highgate Rd, London NW5 1JY, United Kingdom",51.5524352,-0.1423273,church,5,0
+ChIJwcfT52EBdkgRpMe92ksf5hU,St Bartholomew's Church,"4 Westwood Hill, London SE26 6QR, United Kingdom",51.42794989999999,-0.0580917,church,4.6,0
+ChIJPU40lRcEdkgR9m3QFB9w0do,Victory Believers Church International,"Christchurch Rd, London SW2 3DQ, United Kingdom",51.44262029999999,-0.1156591,church,0,0
+ChIJYwatRcwCdkgREafo_Ia4MMc,"St Anne's Church, Limehouse","St Anne's Church, Three Colt St, London E14 7HA, United Kingdom",51.5117187,-0.0305686,church,4.6,0
+ChIJHdfkl5MXdkgR3OAg5DzCBp0,Christ Church Barnet,"Christ Church, Barnet EN5 4LA, United Kingdom",51.6586696,-0.2043533,church,4.6,0
+ChIJc6X5le8adkgRUy_3Odu_Bf4,London International Christian Church,"Porchester Hall, London W2 5HS, United Kingdom",51.5172631,-0.1886998,church,4,0
+ChIJVReI41gPdkgRZBW2iRXorT8,The Parish Church of St Barnabas Southfields,"146 Lavenham Rd, London SW18 5EP, United Kingdom",51.4425621,-0.1978801,church,4.4,0
+ChIJEWo1Ea0cdkgRvYmGaUyTrk0,All Hallows-On-The Wall : London,"83 London Wall, London EC2M 5ND, United Kingdom",51.51662820000001,-0.08439959999999999,church,4.7,0
+ChIJ__-SspkEdkgREULaQ87tpH8,Fngr'd By Faith,"3 Kennington Ln, London SE11 4RG, United Kingdom",51.4911995,-0.1034744,church,5,0
+ChIJ71IERkAEdkgRichlvW3fxV8,Raleigh Park Baptist Church,"Arodene Rd, London SW2 2BH, United Kingdom",51.4538739,-0.1188975,church,3.7,0
+ChIJe4yiGWQPdkgRUmHoMqGA3ys,"Church Row, Wandsworth","1-6 Wandsworth Plain, London SW18, United Kingdom",51.4575754,-0.194736,church,0,0
+ChIJaexoqYoPdkgRqw-EZKaC_Ms,HTB Courtfield Gardens,"24 Collingham Rd, London SW5 0LX, United Kingdom",51.4935044,-0.1874907,church,4.8,0
+ChIJC703xV4EdkgRhUgVk4z-Qx4,St Andrews Church,"7a Stockwell Grn, London SW9 9HF, United Kingdom",51.4677929,-0.1211591,church,0,0
+ChIJ19X-ap0GdkgR42Bc7JeaC9s,Church of God Seventh Day,"16 Wellfield Rd, London SW16 2BP, United Kingdom",51.4297249,-0.1272004,church,0,0
+ChIJpwutTbwPdkgRyUP5O9OGhz4,Saint Alban with Saint Augustine Church of England,"4 Margravine Rd, London W6 8HJ, United Kingdom",51.4866876,-0.214655,church,0,0
+ChIJlb8HlloadkgRT2emZX57Ubg,"St Anne's Church, Highgate","106 Highgate W Hill, London N6 6AP, United Kingdom",51.5626709,-0.1510878,church,4.4,0
+ChIJuVUv2mp1dkgRVc9H0Xb1tsA,All Saints Catholic Church,"13 Queens Rd, Hersham, Walton-on-Thames KT12 5LU, United Kingdom",51.3665286,-0.4009761,church,4.7,0
+ChIJVbDv9zsLdkgR-8ZVkcbaF0M,St Barnabas RC Church,"28 Vine Rd, Molesey, East Molesey KT8 9LF, United Kingdom",51.4031631,-0.3565987,church,4.9,0
+ChIJBWqehcxF30cR2qcFh40K_uc,"St John's Church, Tunbridge Wells","Amherst Rd, Tunbridge Wells TN4 9LG, United Kingdom",51.1403714,0.2611368,church,4.5,0
+ChIJyd9xFu0GdkgRY5QbHcdHc7k,Norbury Baptist Church,"49 Semley Rd, Norbury, London SW16 4PL, United Kingdom",51.4082145,-0.1255528,church,4.6,0
+ChIJDbEpjHwcdkgRX6RihWePGDw,The Old Church,"Stoke Newington Church St, London N16 9ES, United Kingdom",51.56135159999999,-0.08469879999999999,church,4.5,0
+ChIJr8DdrKUEdkgRXW0LKipzzRI,St. Alphege,"King's Bench St, London SE1 0BJ, United Kingdom",51.5020207,-0.1026492,church,4,0
+ChIJLx01vncBdkgRcIAqnUFWnfk,Holy Trinity SE20,"66 Lennard Rd, London SE20 7LX, United Kingdom",51.4187458,-0.0487324,church,4.4,0
+ChIJ0UcGwoQFdkgRJGKOZjZnxNQ,St Peter's Church,"23 Plough Rd, Winstanley Estate, London SW11 2DE, United Kingdom",51.4654884,-0.1773156,church,4.9,0
+ChIJLVgZqj4EdkgRv4BUYfhy7PY,Quakers Religious Society of Friends,"Friends Meeting House, Redlands Way, Redlands Way, London SW2 3LU, United Kingdom",51.446728,-0.1226992,church,4,0
+ChIJE7mh5SobdkgRBp7IskXIF54,The Welsh Church of Central London,"30 Eastcastle St, London W1W 8DJ, United Kingdom",51.516633,-0.13863,church,4.4,0
+ChIJxTKgFnMGdkgRuR6utnxEBMM,"St Boniface RC Church, Tooting","185 Mitcham Rd, London SW17 9PG, United Kingdom",51.4240112,-0.1616937,church,4.4,0
+ChIJO-5OyDYbdkgRVs96NiyQ5hI,St George the Martyr Church,"44 Queen Square, London WC1N 3AH, United Kingdom",51.5209846,-0.1224565,church,4.5,0
+ChIJLWzjCR0QdkgRPpmnGrYwMVA,"All Saints' Church, Notting Hill","Clydesdale Rd, London W11 1JE, United Kingdom",51.5165237,-0.2029022,church,4.6,0
+ChIJsdKPXr4BdkgR_lcOEiR00iw,"St George's Church, Beckenham","High St, Beckenham BR3 1AX, United Kingdom",51.40912909999999,-0.0246414,church,4.3,0
+ChIJixLNrO2o2EcROclJBw0N_hw,New Wine Church,"Gateway House, John Wilson St, London SE18 6QQ, United Kingdom",51.4932096,0.0606011,church,4.6,0
+ChIJ4wyvsF8ZdkgRnbO1vULVrjo,St Barnabas Church,"Finsbury Road, London N22 8PA, United Kingdom",51.6010364,-0.1147318,church,4.5,0
+ChIJWygZdrJydkgRhYijBTYPqvU,"St Anselm's Church, Southall","The Green, Southall UB2 4BE, United Kingdom",51.5037701,-0.3805488,church,4.7,0
+ChIJW6A7xFMEdkgR7D-ZsVDMmpc,Parafia Świętych Piotra i Pawła w Londynie,"77 Navy St, London SW4 6EY, United Kingdom",51.4658884,-0.1358906,church,0,0
+ChIJa1irP4EHdkgRdJDw2Yz_H74,"Keys Of The Kingdom Ministries Life in the Spirit Fellowship Int'l Church (KKM-LSFI Tooting, London)","268 Mitcham Rd, London SW17 9NT, United Kingdom",51.4211006,-0.1610553,church,5,0
+ChIJyQ84MEQddkgRm_tDrrfvpio,Bow Church,"230 Bow Rd, Bow, London E3 3AH, United Kingdom",51.5287729,-0.016626,church,4.4,0
+ChIJFftqtA0PdkgR5VIfFSRzxnA,C3 LONDON,"33 Parsons Green Ln, London SW6 4HH, United Kingdom",51.4758925,-0.2004455,church,5,0
+ChIJb50PpdUadkgRE0tuAdQyYQM,All Souls Langham Place,"All Souls C of E Church, 2 All Souls' Pl, London W1B 3DA, United Kingdom",51.5179999,-0.1432069,church,4.6,0
+ChIJNcQdMG0DdkgRHp-7sCs33hs,Family Life Christian Centre,"460 Old Kent Rd, London SE1 5AG, United Kingdom",51.48551089999999,-0.0710107,church,4.1,0
+ChIJseqrLN0EdkgReUiTTcxTCBQ,Emmanuel Centre,"9-23 Marsham St, London SW1P 3DW, United Kingdom",51.49643589999999,-0.1291966,church,4.4,0
+ChIJbUmcjZ4EdkgRj8ueReElyYg,Voice of Comfort intl. Church,"3, 9 Amelia St, London SE17 3PY, United Kingdom",51.48982789999999,-0.09745490000000001,church,0,0
+ChIJD2YoL9sFdkgRRF1e4UZ7peg,Christ the King Polish RC Church,"232-234 Balham High Rd, London SW17 7AW, United Kingdom",51.4408152,-0.1555152,church,4.4,0
+ChIJO2HT1R0FdkgRItOxxB-WO_Y,Holy Apostles Church,"47 Cumberland St, Pimlico, London SW1V 4LY, United Kingdom",51.4885242,-0.1433389,church,4.6,0
+ChIJz2H0-TEEdkgROSljlC_VOQE,Saint Thomas's Church,"St. Thomas's Church, 101 Telford Ave, London SW2 4XW, United Kingdom",51.4418483,-0.1346088,church,0,0
+ChIJIbKDGxoGdkgRYybWQDwQV30,"Oasis Church, Colliers Wood","Fortescue Rd, London SW19 2EA, United Kingdom",51.4154892,-0.1770207,church,4.7,0
+ChIJjc3RNFoHdkgRfRzNbhkTBjk,His Life Church,"Harris Academy Purley, Kendra Hall Rd, South Croydon CR2 6DT, United Kingdom",51.35331830000001,-0.1079652,church,0,0
+ChIJeUo2elUDdkgRNOffSm5h-sM,St Mary Aldermary,"Watling St, London EC4M 9BW, United Kingdom",51.512833,-0.0932988,church,4.7,0
+ChIJY7EUq6sEdkgRmW1CiGAMEW8,St Nicholas Cole Abbey,"114 Queen Victoria St, London EC4V 4BJ, United Kingdom",51.5120945,-0.0969712,church,4.7,0
+ChIJX91Lav4FdkgRvWaG3Lg2x90,St Mary's Summerstown Church,"Wimbledon Rd, London SW17 0UQ, United Kingdom",51.4323195,-0.1829069,church,4.4,0
+ChIJZwdmvasDdkgRq8uXOF-T4Bo,St Swithin London Stone,"London EC4N 8AH, United Kingdom",51.5118933,-0.0896334,church,5,0
+ChIJn5hjOTAddkgRCuJCSF_9jkg,East London Tabernacle Baptist Church,"Burdett Rd, Bow, London E3 4TU, United Kingdom",51.52379750000001,-0.0340841,church,4.7,0
+ChIJr-mkblUbdkgREjbXimBqskE,"St Mary Staining, Oat Lane, London, United Kingdom","2A Bell Green Ln, London SE26 5TB, United Kingdom",51.42795169999999,-0.0373859,church,0,0
+ChIJ62vw8LQCdkgRgIsySDkydEw,Tower Hamlets Community Church,"117 Ricardo St, London E14 6EQ, United Kingdom",51.5128358,-0.0196641,church,0,0
+ChIJb9emcWUEdkgRag4zyxBSzH4,Gresham Baptist Chapel,"36 Barrington Rd, London SW9 7JE, United Kingdom",51.4633495,-0.1078048,church,5,0
+ChIJL3Zzh2EDdkgRbp82WZyvQjI,East Street Baptist Church,"100 East St, London SE17 2DQ, United Kingdom",51.4888181,-0.0915116,church,4.7,0
+ChIJucS6NQ4DdkgRLPaujGta-h4,Redeemed Christian Church of God,"685-689 Old Kent Rd, London SE15 1JS, United Kingdom",51.48209980000001,-0.0617358,church,4.8,0
+ChIJqWrW7vEEdkgRJBaBXRRBhG8,Lady Chapel,"78 S Lambeth Rd, London SW8 1QU, United Kingdom",51.4825796,-0.1242707,church,0,0
+ChIJIdF17QEFdkgRSvsv2kACZz4,Only Believe Christian Assembly,"Rose Community Hall, Ascalon Street, London SW8 4DJ, United Kingdom",51.4774172,-0.1420716,church,5,0
+ChIJKS5LC0sFdkgRgqBpWTPllQg,Camberwell,"Wyvil Rd, London SW8, United Kingdom",51.4813834,-0.1249014,church,5,0
+ChIJq6paNzsGdkgR4sfbaWvtVO0,Mitcham Parish Church,"Church Rd, Mitcham CR4 3BP, United Kingdom",51.4029928,-0.1749139,church,4.4,0
+ChIJX9VIkrYHdkgRQC6ZjFH4IBY,All Saints Church,"New Rd, Mitcham CR4 4JL, United Kingdom",51.3825151,-0.1576372,church,4.1,0
+ChIJFYDGYDAGdkgRZCol989nrsc,The Church of Jesus Christ of Latter-day Saints - Mitcham,"484 London Rd, Mitcham CR4 4BG, United Kingdom",51.3980399,-0.1728904,church,4.9,0
+ChIJsbjd1PAGdkgR7KQV7Nz5P5A,Pollards Hill Baptist Church,"Wide Way, Mitcham CR4 1BN, United Kingdom",51.4005461,-0.1338285,church,4.1,0
+ChIJAa2mp_AGdkgR4yuPy5LnENM,St Michael's Catholic Church,"9 Fern Ave, Mitcham CR4 1LS, United Kingdom",51.39950330000001,-0.1336099,church,4.5,0
+ChIJ6zDWJaQcdkgR73axhWIr3kY,True Jesus Church London,"True Jesus Church, East Rd, London N1 6AH, United Kingdom",51.528776,-0.0877022,church,4.9,0
+ChIJV6XoEaQadkgRKqWUzeNoCiA,St Mark's Church,"114 Hamilton Terrace, London NW8 9UT, United Kingdom",51.53214699999999,-0.1823386,church,4.8,0
+ChIJvUH7YgYFdkgR9gNIQoYC32w,All Saints Church,"100 Prince of Wales Dr, London SW11 4BD, United Kingdom",51.4773101,-0.1496155,church,4.5,0
+ChIJrb4u8gkFdkgRnPK03F0A514,St Saviour Battersea Park,"351 Battersea Park Rd, London SW11 4LH, United Kingdom",51.4738511,-0.1577072,church,4.6,0
+ChIJT5ckbKsFdkgRRgG_8ObavDc,Vineyard 61 Church - Battersea,"34 Lavender Rd, London SW11 2UG, United Kingdom",51.4672308,-0.1777275,church,4.8,0
+ChIJ9yyTIycFdkgRqsizyqYxDkY,Vineyard 61 Church - Offices,"10, Station Parade, Balham High Rd, London SW12 9AZ, United Kingdom",51.4423737,-0.153356,church,0,0
+ChIJnXOkbVMEdkgRhAqagkl_zHY,Ebenezer Strict Baptist Church,"2 Fitzwilliam Rd, London SW4 0DN, United Kingdom",51.4665064,-0.1386349,church,5,0
+ChIJ23yZfB0FdkgRv6ajzrajyUY,St. Peter West Cheap Church,"St Peters House, 130 Wood St, London EC2V 6DL, United Kingdom",51.5144448,-0.09478969999999999,church,3,0
+ChIJMRVYuLAcdkgReGvdlajaMIo,Shoreditch Church,"119 Shoreditch High St, London E1 6JN, United Kingdom",51.5268671,-0.0775109,church,4.4,0
+ChIJ3c1Dru4DdkgRjRGMTFn5pI8,St. Mary Colechurch,"37 Old Jewry, London EC2R 8DD, United Kingdom",51.5138633,-0.0915869,church,0,0
+ChIJuTcnLvkcdkgRAMOH_LHPOOs,St Luke at Hackney Church,"Homerton Terrace, London E9 6RT, United Kingdom",51.5462923,-0.0493876,church,4.4,0
+ChIJUwqoEocadkgRyMpgkZzHHpc,St John-at-Hampstead Church,"Church Row, London NW3 6UU, United Kingdom",51.5553307,-0.1810877,church,4.5,0
+ChIJR1ZCSM6p2EcRI3ckcTbmUbQ,St Michael & All Angels Parish Office,"1 Pond Rd, London SE3 9JL, United Kingdom",51.464715,0.0135636,church,4.5,0
+ChIJUVLfpkwDdkgRk69mmAZ2TjQ,Saint Botolph Without Aldgate,"Aldgate High St, London EC3N 1AB, United Kingdom",51.5140611,-0.0764628,church,4.4,0
+ChIJP0Jz_ucZdkgRaD_ElNp7J3k,St Barnabas Church,"913 High Rd, London N12 8QJ, United Kingdom",51.61971810000001,-0.1770182,church,4.8,0
+ChIJeVCSUGym2EcRqbOaLXl5fXU,Barking Baptist Church,"28 Linton Rd., Barking IG11 8HG, United Kingdom",51.5391079,0.0788031,church,4.8,0
+ChIJaQwMYgIEdkgRFbmrpdDMpkA,"St Matthew's Roman Catholic Church, West Norwood","37 Norwood High St, Norwood, London SE27 9JU, United Kingdom",51.4318348,-0.102375,church,4.4,0
+ChIJxzO-7AIEdkgR7uMU39IAwlE,"St Luke's Church, West Norwood","13 Norwood High St, Norwood, London SE27 0DT, United Kingdom",51.4324617,-0.1028604,church,4.2,0
+ChIJYS_HqhwEdkgRJ3DhHbZ-Igg,All Nations Christian Centre Church,"15 York Hill, Norwood, London SE27 0BU, United Kingdom",51.4355802,-0.1053565,church,4.6,0
+ChIJa2f7dwMEdkgRvODsuvC8EUg,Chatsworth Baptist Church,"Chatsworth Way, Norwood, London SE27 9HN, United Kingdom",51.4359352,-0.101272,church,4.6,0
+ChIJA281T9cBdkgRBGl_Bxq5EzA,Cathedral International,"Langmead St, Norwood, London SE27 0DL, United Kingdom",51.43035039999999,-0.102421,church,4.9,0
+ChIJ8dWN5RwEdkgR5xNfjNADgtE,Lansdowne Evangelical Free Church,"Lansdowne Hill, Norwood, London SE27 0AR, United Kingdom",51.4339697,-0.1044976,church,4.8,0
+ChIJyXD_PqgGdkgR8sD9_CuwYro,Christ Embassy Streatham Church,"38-42 Ernest Ave, Norwood, London SE27 0DJ, United Kingdom",51.4298718,-0.1038307,church,0,0
+ChIJOSUqxwAEdkgRlkNoIquN4iM,Chancellor Grove Methodist Church,"9 Park Hall Rd, Norwood, London SE21 8EH, United Kingdom",51.4352056,-0.0953349,church,0,0
+ChIJKR2czf8DdkgRmZv3ODin7Qg,Emmanuel Church West Dulwich,"96 Clive Rd, Norwood, London SE21 8BU, United Kingdom",51.4316724,-0.0903808,church,4.3,0
+ChIJsb611KkGdkgR7Yh1CybsfJo,Alive,"Langmead St, Norwood, London SE27 0DL, United Kingdom",51.4309936,-0.1016133,church,5,0
+ChIJEU24YKoGdkgRW_0rzOe8Z9c,Worldwide Mission Fellowship,"43 Auckland Hill, Norwood, London SE27 9PF, United Kingdom",51.429576,-0.0970047,church,5,0
+ChIJHVNV36kGdkgRY1NrY3XKgA4,Bethesda House of Mercy,"11-13 East Pl, Norwood, London SE27 9JW, United Kingdom",51.4309126,-0.1013394,church,4,0
+ChIJ6QnOnlYBdkgRzNisj0KXv_Y,The Vestry,"226C Gipsy Rd, Norwood, London SE27 9RB, United Kingdom",51.42727559999999,-0.0872763,church,0,0
+ChIJ1QwjmpAadkgR2luVD7Ts2Xs,Lebanese Maronite Catholic Church,"17 Cirencester St, London W2 5SR, United Kingdom",51.521417,-0.1915909,church,4.8,0
+ChIJW-zKLpgPdkgR4Sh8Wqo_Oo4,Kingdomcity London,"532 Fulham Rd., London SW6 5BD, United Kingdom",51.47934850000001,-0.1995913,church,0,0
+ChIJh4TsaVIPdkgRTNFagnhRd48,Christ the King Roman Catholic Church,"9 Crescent Gardens, London SW19 8AJ, United Kingdom",51.434786,-0.1982915,church,4.7,0
+ChIJYS_HqhwEdkgRSfKn5pxdilE,Sure Word International Church,"15 York Hill, Norwood, London SE27 0BU, United Kingdom",51.4355834,-0.1053499,church,5,0
+ChIJD77w4BoEdkgRqHWfkToJSGs,The Gospel Faith Mission,"151 Palace Rd, London SW2 3LE, United Kingdom",51.4389741,-0.1069975,church,0,0
+ChIJB-NS5PMPdkgRtHFE__imumo,"St Mark's Coptic Orthodox Church, London","Allen St, London W8 6UX, United Kingdom",51.49714969999999,-0.1945935,church,4.8,0
+ChIJ4xh4rUEEdkgRIalJdth0MNk,Open Door Ministries international,"101, 103 Brixton Hill, London SW2 1AA, United Kingdom",51.4546852,-0.1194342,church,0,0
+ChIJm_y-wjEEdkgR2RqCxczHV2M,Laymens Evangelical Fellowship,"77 Telford Ave, London SW2 4XN, United Kingdom",51.44206089999999,-0.1322807,church,5,0
+ChIJh_y_EjAbdkgRq74s8pzoxvU,The Lutheran Church In Great Britain,"30 Thanet St, London WC1H 9QH, United Kingdom",51.5269059,-0.1251247,church,0,0
+ChIJGV-VX34DdkgRdEUF5suxg4I,Salvation Army (Camberwell Corps),"105 Lomond Grove, London SE5 7HG, United Kingdom",51.4767411,-0.09135380000000001,church,4.6,1
+ChIJVVXRLG0FdkgR4RO3WI5vagU,Bulgarian Evangelical Church,"1 Robinson St, London SW3 4AA, United Kingdom",51.4855167,-0.1643508,church,3.7,0
+ChIJs_uONvMDdkgR_bvPTHuy8UQ,St Barnabas Parish Hall,"23 Dulwich Village, London SE21 7BT, United Kingdom",51.4516327,-0.0862172,church,4.4,0
+ChIJo7J-Y_EDdkgReWytDUO1Xy4,St Barnabas with Christ’s Chapel,"40 Calton Ave, London SE21 7DG, United Kingdom",51.4528487,-0.0823652,church,4.4,0
+ChIJL8zzAesDdkgRUduCmYiV3Rk,Christ Church,"263 Barry Rd, London SE22 0JT, United Kingdom",51.4490604,-0.0734552,church,4.7,0
+ChIJY1jDY_EDdkgRkMrcx4oF7yA,Christ's Chapel,"14 Gallery Rd, London SE21 7AD, United Kingdom",51.4463151,-0.08642649999999999,church,4.4,0
+ChIJpa-AvOsDdkgRt2NXU3uEqVk,Saint Thomas More Roman Catholic Church,"St Thomas More Rc Church, 380 Lordship Ln, London SE22 8ND, United Kingdom",51.4485963,-0.0742859,church,4.5,0
+ChIJVbls4MIDdkgRfQfz3_l7I7s,Deeper Life Bible Church,"522 Lordship Ln, London SE22 8LD, United Kingdom",51.4427884,-0.0673187,church,4.5,0
+ChIJqa_0U5MDdkgRfp6CJRaMZd4,Lordship Lane Baptist Church,"287 A2216, London SE22 9JT, United Kingdom",51.4522023,-0.0764778,church,4.6,0
+ChIJoYmuYPkPdkgRb36KhZAfnDo,Second Church of Christ Scientist,"104 Palace Gardens Terrace, London W8 4RT, United Kingdom",51.5083498,-0.1935111,church,4.3,0
+ChIJqWLbaDYDdkgR5ktvMuWT2nk,IMPRINT Church London,"St Edmund the King, 59, Lombard St, London EC3V 9EA, United Kingdom",51.51244750000001,-0.0863116,church,4.9,0
+ChIJCclWd1QDdkgRDClSzx7Tacg,St Mary Abchurch,"Abchurch Yard, London EC4N 7BA, United Kingdom",51.511484,-0.08836609999999999,church,4.2,0
+ChIJ0bmi17kPdkgRZyCqHoe2evY,"St Augustine's Catholic Church, Hammersmith","Augustinian Centre, 55 Fulham Palace Rd, London W6 8AU, United Kingdom",51.4904988,-0.2232929,church,4.7,0
+ChIJWzIzXPAedkgRHJI2lZLWukU,"St Edmund's RC Church, Edmonton","115 Hertford Rd, London N9 7EN, United Kingdom",51.62911,-0.05652530000000001,church,4.6,0
+ChIJcdkKIkun2EcR72nU6abgsxA,St Mary's Woodford,"207 High Rd, London E18 2PA, United Kingdom",51.5979739,0.0202844,church,4.7,0
+ChIJh2zhLbSu2EcR05hSh3V2OhE,Days Lane Baptist Church,"257 Days Ln, Sidcup DA15 8JX, United Kingdom",51.4490061,0.09888609999999999,church,4.7,0
+ChIJW9fMw3QPdkgRWX5XRZdvrk0,London Hillsong Church Office,"425 New Kings Rd, London SW6 4RN, United Kingdom",51.4691585,-0.2101666,church,5,0
+ChIJsya9tNIcdkgRmtdAdYfYTcE,THE REDEEMED CHRISTIAN CHURCH OF GOD,"80-82 Nelson St, London E1 2DY, United Kingdom",51.5150666,-0.057535,church,5,0
+ChIJcd-5Q8oDdkgRfZaeafSigNg,St Augustine Church,"Honor Oak Park, London SE23 3LE, United Kingdom",51.4504314,-0.05075379999999999,church,4.8,0
+ChIJvz7BpwIGdkgRf3gGYUD64PM,Redeemed Christian Church Of God,"Haydons Rd, London SW19 8TB, United Kingdom",51.4210372,-0.1872897,church,4.6,0
+ChIJD16-qd8OdkgRHGnUsmR61Gc,"Holy Trinity Church, Roehampton","7 Ponsonby Rd, London SW15 4LA, United Kingdom",51.4492382,-0.2372997,church,4.8,0
+ChIJwRDauFUDdkgRsDqykkv9GA4,St Michael's Church : Paternoster Royal,"College Hill, London EC4R 2RL, United Kingdom",51.51118719999999,-0.0922368,church,5,0
+ChIJAxECjYsOdkgRGpVnMrakpzY,"St Mary Magdalen Roman Catholic Church, Mortlake","61 N Worple Way, London SW14 8PR, United Kingdom",51.467833,-0.2616901,church,4.6,0
+ChIJ4ekgtLkedkgR7G3Dt4CA6Ng,St Aldhelms Church,"2 Windmill Rd, London N18 1PA, United Kingdom",51.6168501,-0.0804646,church,4.4,0
+ChIJ-2YFa8UFdkgRG61OgbsRWMs,Saint Mary And Saint John The Divine,"Balham High Rd, London SW12 9BS, United Kingdom",51.4425576,-0.1541752,church,4.6,0
+ChIJX43bdcUFdkgRwRv6ElvUya8,Christ Church Balham,"Christ Church Balham Office, 15 Chestnut Grove, London SW12 8JA, United Kingdom",51.4438298,-0.1535016,church,5,0
+ChIJ32hR88UFdkgRBk8oY7W8Qxc,Balham Baptist Church,"21 Ramsden Rd, London SW12 8QX, United Kingdom",51.4452778,-0.1527778,church,4.4,0
+ChIJF8jFucYFdkgR8Qgya5v-ZXk,"Holy Ghost Catholic Church, Balham","27 Nightingale Square, London SW12 8QJ, United Kingdom",51.44772709999999,-0.1569515,church,4.7,0
+ChIJ-5WECicFdkgRpVxUBHaSnVw,C3 Reflect | Balham,"Endlesham Hall, 48 Endlesham Rd, London SW12 8JL, United Kingdom",51.447515,-0.1553302,church,5,0
+ChIJpxe8NswFdkgRPoIYMooRsZA,Saint Andrew's United Reformed Church,"135 Laitwood Rd, London SW12 9QH, United Kingdom",51.4443633,-0.1452406,church,4.7,0
+ChIJnSMJKr8FdkgRqgsOK3eUY-k,Broomwood Methodist Church,"Broomwood Rd, London SW11 6BD, United Kingdom",51.4548527,-0.157636,church,4.5,0
+ChIJi-XsmTQEdkgRx7nCRhezaCI,South London Hispanic,"Clapham Park, St Stephens Church, Weir Rd, London SW12 0NU, United Kingdom",51.4472084,-0.1388514,church,3.7,0
+ChIJaRQ9SfYEdkgRwZH7RXVkg6w,Come Global Church,"MRN House, Binfield Rd, London SW4 6TB, United Kingdom",51.47446799999999,-0.1255826,church,0,0
+ChIJA_Hzo74EdkgRGC383vbqDuw,Christ Church & Upton Chapel,"The Oasis Centre, 75 Westminster Bridge Rd, London SE1 7HS, United Kingdom",51.4983138,-0.1116668,church,4.5,0
+ChIJUcDCshgEdkgRPv3hxdMIDes,Hitherfield Road Baptist Church,"Hitherfield Rd, Streatham Hill SW16 2LN, United Kingdom",51.4361608,-0.1163131,church,3,0
+ChIJ-wOMz2gCdkgRmC4b36W0q_w,The Tab London,"233 Lewisham High St, London SE13 6NQ, United Kingdom",51.4650478,-0.0187107,church,4.8,0
+ChIJO4twQUoDdkgRPCXSOiX4snI,Roman Catholic Church of the English Martyrs,"30 Prescot St, London E1 8BB, United Kingdom",51.5112289,-0.0720772,church,4.8,0
+ChIJawJortgFdkgRNvwabKW_mw0,St. Jude's New Testament Church Of God,"St George's Rd, London SE1 6EZ, United Kingdom",51.4965719,-0.1054789,church,5,0
+ChIJy5GCyG8DdkgRtumgDEqvk7k,Iglesia Cristiana Fix the Weak London Church,"220 Old Kent Rd, London SE1 5UB, United Kingdom",51.4897941,-0.07989589999999999,church,5,0
+ChIJwR8zdqoEdkgR8amZ9uXa_Fg,St James Garlickhythe,"Garlick Hill, London EC4V 2AF, United Kingdom",51.51113549999999,-0.09367629999999999,church,4.7,0
+ChIJU2Jc8Y8IdkgR9u55T5P1SzI,St Lawrence Church,"London Rd, Morden SM4 5QT, United Kingdom",51.3922692,-0.2041431,church,4.6,0
+ChIJZTHVFF8FdkgRrP3Vv1kCgzE,Christ Church Kensington,"Victoria Rd, London W8 5RQ, United Kingdom",51.49760879999999,-0.1865181,church,4.8,0
+ChIJhZglZWEFdkgRMfH7TfLsLPc,St. Mary The Boltons,"8 The Boltons, London SW10 9TB, United Kingdom",51.4891643,-0.1838915,church,4.5,0
+ChIJWxGHF4DI2EcRFBW7IzqhXxw,"St Margaret's Church, Stanford-le-Hope","The Green, Stanford-le-Hope SS17 0EP, United Kingdom",51.5141727,0.4261137,church,4.3,0
+ChIJM2gBZOsFdkgRxRXVciwdkzo,AD PERENE UK,"15 York Hill, Norwood, London SE27 0BU, United Kingdom",51.4356343,-0.1053906,church,5,0
+ChIJ-1NkN6gGdkgRiICkvxIXSoA,Messiah C & S Church,"8, 28 Ernest Ave, Norwood, London SE27 0DJ, United Kingdom",51.4298172,-0.103134,church,4.6,0
+ChIJy50nMlUBdkgRcNzMVK2WXLI,Praise Generation Foundation,"153 Rommany Rd, Norwood, London SE27 9PR, United Kingdom",51.4284709,-0.0929892,church,0,0
+ChIJEwIPXgIEdkgR4-8o3mxvlxU,Bethel Chapel,"Dunbar St, Norwood, London SE27 9JY, United Kingdom",51.4322588,-0.1021166,church,0,0
+ChIJsckudU0DdkgR2-VqziWZGNg,St. Benet Sherehog Church,"London EC2R 8EJ, United Kingdom",51.513255,-0.0912588,church,0,0
+ChIJIxdFeSAQdkgRE6NpSMHvT0w,Notting Hill Methodist Church,"240 Lancaster Rd, London W11 4AH, United Kingdom",51.5150198,-0.2139442,church,4.5,0
+ChIJB0ow6ooNdkgRGcVxTUTH8aw,Redeemer Church London,"University of West, Weston Hall, London W5 5RF, United Kingdom",51.5069096,-0.3027795,church,4.7,0
+ChIJ-SA0WD4EdkgRg6rz18JgRyc,Saint Matthias Gospel Tabernacle Assembly,"41 Upper Tulse Hill, London SW2 2SG, United Kingdom",51.4484752,-0.1199668,church,5,0
+ChIJfe5a2BEDdkgRriTY_jlFfEk,The Reality of Grace Ministries Int'l,"7 Ruby Triangle, London SE15 1LG, United Kingdom",51.4837207,-0.0627549,church,5,0
+ChIJt1SeZSsddkgRMAPHrSLbiZ8,St Dunstan & All Saints Church,"Stepney High St, London E1 0NR, United Kingdom",51.516788,-0.041735,church,4.7,0
+ChIJ6RyEa6wXdkgRtyVVxdiilRw,St Peter's Church,"113 Barnet Rd, Arkley, Barnet EN5 3JF, United Kingdom",51.6473699,-0.2320137,church,4.6,0
+ChIJJbiZb40EdkgRwAEW7d9Kblg,Kennington Community Fellowship,"58 Kennington Oval, London SE11 5SW, United Kingdom",51.4826942,-0.1152496,church,0,0
+ChIJbf_FutoFdkgRhcLd8wnaIVA,London Balham Seventh-day Adventist Church,"83 Elmfield Rd, London SW17 8AD, United Kingdom",51.4407253,-0.1548032,church,4.6,0
+ChIJa_UNVMQFdkgRxSr3sJMXbVU,Christ Church Balham,"Chestnut Grove School, Boundaries Rd, London SW12 8HQ, United Kingdom",51.4444756,-0.155214,church,5,0
+ChIJ63fo8BoEdkgRq0g8DZ28aGQ,Alpha Church,"12 Probyn Rd, London SW2 3LH, United Kingdom",51.4391702,-0.1084846,church,0,0
+ChIJ5YiPtC4bdkgRX6KSoRCDz3E,London Chinese Lutheran Church,"American International Church in, 79A Tottenham Court Rd, London W1T 4TD, United Kingdom",51.52111439999999,-0.1352106,church,4.7,0
+ChIJ2zzR0jQOdkgRyss427qPkYo,The Church of The Holy Innocents,"Paddenswick Rd, London W6 0UB, United Kingdom",51.4971641,-0.2355056,church,4.5,0
+ChIJUZ7wtS0OdkgRttSTqHlYmX8,St Luke's,"450 Uxbridge Rd, London W12 0NS, United Kingdom",51.5067191,-0.2399249,church,4.6,0

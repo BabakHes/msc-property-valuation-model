@@ -1,0 +1,268 @@
+code,restaurant_rating,restaurant_hygiene,restaurant_bad,exist_Retailers,post_Retailers_500,post_Retailers_1000,post_Retailers_1000,exist_Restaurant,post_Restaurant_500,post_Restaurant_1000,post_Restaurant_1500,exist_Manufacturers,post_Manufacturers_500,post_Manufacturers_1000,post_Manufacturers_1500,exist_Hotel,post_Hotel_500,post_Hotel_1000,post_Hotel_1500,exist_Importers,post_Importers_500,post_Importers_1000,post_Importers_1500,exist_Mobile,post_Mobile_500,post_Mobile_1000,post_Mobile_1500,exist_Pub,post_Pub_500,post_Pub_1000,post_Pub_1500,exist_Hospitals,post_Hospitals_500,post_Hospitals_1000,post_Hospitals_1500,exist_Takeaway,post_Takeaway_500,post_Takeaway_1000,post_Takeaway_1500,exist_School,post_School_500,post_School_1000,post_School_1500,exist_catering,post_catering_500,post_catering_1000,post_catering_1500,exist_shops,post_shops_500,post_shops_1000,post_shops_1500
+SW16 5TA,Good restaurant hygiene,4.10,5,True,1,0,0,True,5,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,True,1,0,0,True,1,0,0,True,3,0,0,True,1,0,0,True,1,0,0,True,7,0,0
+SE11 6EH,Average restaurant hygiene,3.94,10,False,0,0,0,True,7,0,0,False,0,0,0,True,1,0,0,False,0,0,0,False,0,0,0,True,1,0,0,True,1,0,0,True,3,0,0,True,1,0,0,True,2,0,0,True,4,0,0
+SW8 2NH,Very poor restaurant hygiene,3.05,30,True,1,0,0,True,7,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,True,4,0,0,False,0,0,0,True,3,0,0,False,0,0,0,True,1,0,0,True,4,0,0
+SW2 5TX,Poor restaurant hygiene,3.37,15,False,0,0,0,True,8,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,True,1,0,0,False,0,0,0,True,7,0,0,False,0,0,0,True,1,0,0,True,3,0,0
+SW8 3LP,Good restaurant hygiene,3.89,5,False,0,0,0,True,5,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,True,1,0,0,True,2,0,0,True,8,0,0,True,1,0,0,False,0,0,0,True,3,0,0
+SE27 0RN,Average restaurant hygiene,3.95,10,False,0,0,0,True,5,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,True,1,0,0,True,2,0,0,True,3,0,0,True,1,0,0,True,2,0,0,True,6,0,0
+SE11 5SU,Good restaurant hygiene,4.53,5,False,0,0,0,True,2,0,0,False,0,0,0,False,0,0,0,False,0,0,0,True,4,0,0,True,3,0,0,False,0,0,0,True,2,0,0,True,1,0,0,True,6,0,0,True,2,0,0
+SW2 4NA,Very poor restaurant hygiene,3.94,20,True,2,0,0,True,3,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,True,2,0,0,False,0,0,0,True,2,0,0,True,1,0,0,True,5,0,0,True,5,0,0
+SE27 0EE,Average restaurant hygiene,4.00,10,False,0,0,0,True,2,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,True,1,0,0,True,1,0,0,True,4,0,0,True,5,0,0,False,0,0,0,True,7,0,0
+SW4 6DB,Poor restaurant hygiene,4.21,15,False,0,0,0,True,9,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,True,4,0,0,True,1,0,0,True,2,0,0,False,0,0,0,False,0,0,0,True,4,0,0
+SW16 1QB,Average restaurant hygiene,3.75,10,False,0,0,0,True,4,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,True,1,0,0,True,5,0,0,True,5,0,0,False,0,0,0,True,1,0,0,True,4,0,0
+SW8 1NB,Good restaurant hygiene,4.56,5,False,0,0,0,True,3,0,0,False,0,0,0,False,0,0,0,False,0,0,0,True,3,0,0,True,1,0,0,False,0,0,0,False,0,0,0,True,3,0,0,True,9,0,0,True,1,0,0
+SW2 2QP,Very good restaurant hygiene,4.25,0,False,0,1,1,False,0,1,0,False,0,0,0,True,1,0,0,False,0,0,0,False,0,0,0,True,1,0,0,True,1,0,0,True,4,4,0,True,1,0,0,True,1,0,0,True,3,2,0
+SW9 8FH,Average restaurant hygiene,4.00,10,False,0,0,0,False,0,0,0,True,1,0,0,False,0,0,0,False,0,0,0,True,1,0,0,True,1,1,0,True,2,0,0,True,3,0,0,True,4,0,0,True,2,1,0,True,4,0,0
+SW2 4DN,Very poor restaurant hygiene,3.53,20,True,1,0,0,True,8,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,True,1,0,0,True,1,0,0,True,3,0,0,False,0,0,0,True,1,0,0,True,5,0,0
+SE19 1AP,Good restaurant hygiene,4.18,5,False,0,0,0,True,6,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,True,3,0,0,True,1,0,0,True,2,0,0,False,0,0,0,True,3,0,0,True,5,0,0
+SW8 2SE,Average restaurant hygiene,4.06,10,False,0,0,0,True,4,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,True,2,0,0,True,2,0,0,True,2,0,0,True,2,0,0,True,2,0,0,True,5,0,0
+SW9 0ES,Poor restaurant hygiene,3.84,15,True,1,0,0,True,6,0,0,False,0,0,0,True,1,0,0,False,0,0,0,False,0,0,0,False,0,0,0,True,1,0,0,True,2,0,0,True,2,0,0,True,2,0,0,True,5,0,0
+SW2 4DP,Very poor restaurant hygiene,3.53,20,True,1,0,0,True,8,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,True,1,0,0,True,1,0,0,True,3,0,0,False,0,0,0,True,1,0,0,True,5,0,0
+SW2 4LY,Very poor restaurant hygiene,3.94,20,True,2,0,0,True,3,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,True,2,0,0,False,0,0,0,True,2,0,0,True,1,0,0,True,5,0,0,True,5,0,0
+SE24 0NS,Average restaurant hygiene,4.06,10,False,0,0,0,True,4,0,0,False,0,0,0,False,0,0,0,False,0,0,0,True,1,0,0,True,3,0,0,True,2,0,0,True,3,0,0,True,1,0,0,True,1,0,0,True,5,0,0
+SW2 4UT,Very poor restaurant hygiene,3.75,25,True,2,0,0,True,7,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,True,2,0,0,False,0,0,0,True,2,0,0,True,1,0,0,True,3,0,0,True,3,0,0
+SW9 9JW,Very poor restaurant hygiene,3.72,20,False,0,0,0,True,6,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,True,3,0,0,True,3,0,0,True,2,0,0,True,1,0,0,True,5,0,0
+SW2 2BU,Average restaurant hygiene,3.94,10,False,0,0,0,True,5,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,True,1,0,0,True,3,0,0,True,3,0,0,True,2,0,0,True,3,0,0,True,3,0,0
+SW9 7LW,Very poor restaurant hygiene,3.53,25,True,1,0,0,True,4,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,True,2,0,0,False,0,0,0,True,3,0,0,True,2,0,0,True,6,0,0,True,2,0,0
+SW8 2HS,Very poor restaurant hygiene,3.44,25,False,0,0,0,True,5,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,True,4,0,0,False,0,0,0,True,2,0,0,True,1,0,0,True,1,0,0,True,7,0,0
+SW9 0UY,Average restaurant hygiene,3.89,10,False,0,0,0,True,6,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,True,1,0,0,True,1,0,0,True,2,0,0,True,2,0,0,True,2,0,0,True,6,0,0
+SE1 8YW,Good restaurant hygiene,4.75,5,False,0,0,0,True,19,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,True,1,0,0,False,0,0,0,False,0,0,0,False,0,0,0
+SE27 9LA,Good restaurant hygiene,3.84,5,True,3,0,0,True,6,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,True,3,0,0,True,1,0,0,False,0,0,0,True,1,0,0,True,6,0,0
+SW4 0DN,Very good restaurant hygiene,4.16,0,False,0,0,0,True,7,0,0,False,0,0,0,False,0,0,0,False,0,0,0,True,1,0,0,True,4,0,0,True,1,0,0,True,2,0,0,True,1,0,0,False,0,0,0,True,4,0,0
+SW2 1EZ,Very poor restaurant hygiene,3.79,20,True,1,0,0,True,4,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,True,2,0,0,True,2,0,0,True,1,0,0,False,0,0,0,True,2,0,0,True,8,0,0
+SW8 2RE,Very poor restaurant hygiene,3.59,25,False,0,0,0,True,4,0,0,False,0,0,0,False,0,0,0,False,0,0,0,True,1,0,0,True,1,0,0,True,2,0,0,True,4,0,0,False,0,0,0,True,1,0,0,True,6,0,0
+SW4 6QL,Poor restaurant hygiene,3.67,15,True,2,0,0,True,5,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,True,2,0,0,True,1,0,0,False,0,0,0,True,10,0,0
+SW16 2LA,Very good restaurant hygiene,4.60,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,True,3,1,0,False,0,0,0,True,7,0,0,True,2,0,0,True,6,1,0
+SW16 5JY,Good restaurant hygiene,3.53,5,True,1,0,0,True,5,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,True,4,0,0,False,0,0,0,False,0,0,0,True,10,0,0
+SE11 6HU,Poor restaurant hygiene,3.78,15,False,0,0,0,True,6,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,True,1,0,0,True,1,0,0,True,4,0,0,True,1,0,0,True,2,0,0,True,5,0,0
+SE11 4PJ,Very poor restaurant hygiene,3.72,25,False,0,0,0,True,5,0,0,False,0,0,0,False,0,0,0,False,0,0,0,True,1,0,0,True,3,0,0,True,1,0,0,True,4,0,0,True,2,0,0,False,0,0,0,True,4,0,0
+SW16 2DF,Good restaurant hygiene,4.06,5,False,0,0,0,True,4,0,0,False,0,0,0,False,0,0,0,False,0,0,0,True,1,0,0,True,1,0,0,True,5,0,0,False,0,0,0,True,3,0,0,True,1,0,0,True,5,0,0
+SW9 9AW,Very poor restaurant hygiene,3.79,20,False,0,0,0,True,6,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,True,2,0,0,True,3,0,0,True,2,0,0,True,2,0,0,True,5,0,0
+SW16 1EG,Poor restaurant hygiene,3.95,15,False,0,0,0,True,10,0,0,True,1,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,True,4,0,0,False,0,0,0,False,0,0,0,True,5,0,0
+SW9 9HB,Average restaurant hygiene,3.89,10,True,1,0,0,True,6,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,True,2,0,0,True,2,0,0,True,1,0,0,True,1,0,0,True,7,0,0
+SW8 2BU,Very poor restaurant hygiene,3.61,20,True,1,0,0,True,5,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,True,5,0,0,True,1,0,0,True,2,0,0,True,2,0,0,False,0,0,0,True,4,0,0
+SW12 0NN,Very good restaurant hygiene,4.58,0,True,1,0,0,True,1,0,0,True,1,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,True,7,0,0,False,0,0,0,True,6,2,0,False,0,0,0,True,2,0,0
+SE21 8RF,Very good restaurant hygiene,4.67,0,True,1,0,0,True,4,0,0,True,1,0,0,False,0,0,0,False,0,0,0,False,0,0,0,True,2,0,0,True,4,0,0,False,0,0,0,True,1,1,0,False,0,0,0,True,6,0,0
+SE27 0LU,Average restaurant hygiene,4.00,10,True,1,0,0,True,2,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,1,0,False,0,0,0,True,2,0,0,True,1,0,0,True,2,1,0,True,2,1,0,True,7,0,0
+SE1 7XH,Average restaurant hygiene,4.37,10,False,0,0,0,True,6,0,0,False,0,0,0,True,2,0,0,False,0,0,0,False,0,0,0,True,2,0,0,False,0,0,0,True,1,0,0,False,0,0,0,True,6,0,0,True,3,0,0
+SW8 2SS,Very poor restaurant hygiene,3.94,20,True,1,0,0,True,5,0,0,False,0,0,0,True,1,0,0,False,0,0,0,False,0,0,0,True,2,0,0,False,0,0,0,True,3,0,0,True,2,0,0,True,2,0,0,True,4,0,0
+SW16 1JQ,Good restaurant hygiene,4.35,5,False,0,0,0,True,11,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,True,2,0,0,True,3,0,0,True,1,0,0,True,1,0,0,False,0,0,0,True,2,0,0
+SE24 0NY,Average restaurant hygiene,4.11,10,False,0,0,0,True,4,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,True,3,0,0,True,2,1,0,True,3,0,0,True,1,0,0,True,1,0,0,True,5,0,0
+SW2 2AP,Average restaurant hygiene,4.17,10,True,1,0,0,True,2,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,True,1,0,0,True,3,0,0,True,1,0,0,True,3,0,0,True,3,0,0,True,6,0,0
+SW4 0QB,Good restaurant hygiene,4.28,5,True,2,0,0,True,4,0,0,False,0,0,0,True,1,0,0,True,1,0,0,False,0,0,0,True,1,0,0,True,3,0,0,True,3,0,0,True,3,0,0,True,1,0,0,True,1,0,0
+SE24 0QG,Poor restaurant hygiene,3.71,15,True,1,0,0,True,5,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,True,8,0,0,False,0,0,0,True,1,0,0,True,5,0,0
+SW4 6AA,Very poor restaurant hygiene,3.33,25,False,0,0,0,True,5,0,0,False,0,0,0,False,0,0,0,False,0,0,0,True,2,0,0,True,1,0,0,True,1,0,0,True,7,0,0,False,0,0,0,True,1,0,0,True,3,0,0
+SW12 0LB,Good restaurant hygiene,4.41,5,True,2,0,0,True,2,0,0,False,0,0,0,False,0,0,0,False,0,0,0,True,1,0,0,False,0,0,0,True,4,0,0,False,0,0,0,True,3,0,0,True,2,0,0,True,5,1,0
+SW16 2EL,Average restaurant hygiene,4.25,10,True,1,0,0,True,2,0,0,False,0,0,0,False,0,0,0,False,0,0,0,True,1,0,0,True,1,0,0,True,6,0,0,True,5,0,0,True,1,0,0,True,1,0,0,True,2,0,0
+SW2 1SR,Average restaurant hygiene,3.75,10,True,1,0,0,True,6,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,True,6,0,0,True,3,0,0,True,1,0,0,True,3,0,0
+SW9 0UD,Average restaurant hygiene,3.94,10,True,1,0,0,True,7,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,True,1,0,0,True,2,0,0,False,0,0,0,True,2,0,0,True,2,0,0,True,5,0,0
+SW2 4EH,Very poor restaurant hygiene,3.59,30,True,2,0,0,True,7,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,True,2,0,0,False,0,0,0,True,4,0,0,True,1,0,0,True,1,0,0,True,3,0,0
+SW4 7BQ,Average restaurant hygiene,4.12,10,True,1,0,0,True,7,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,True,3,0,0,False,0,0,0,True,3,0,0,True,1,0,0,True,2,0,0,True,3,0,0
+SW9 8LE,Poor restaurant hygiene,4.05,15,False,0,0,0,True,8,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,True,2,0,0,False,0,0,0,True,1,0,0,False,0,0,0,False,0,0,0,True,9,0,0
+SE1 7RB,Very poor restaurant hygiene,3.72,20,False,0,0,0,True,6,0,0,False,0,0,0,True,1,0,0,False,0,0,0,False,0,0,0,True,1,0,0,True,2,0,0,True,4,0,0,True,4,0,0,False,0,0,0,True,2,0,0
+SE11 5TW,Very poor restaurant hygiene,3.65,20,False,0,0,0,True,3,0,0,False,0,0,0,False,0,0,0,False,0,0,0,True,1,0,0,True,2,0,0,False,0,0,0,True,5,0,0,True,1,0,0,True,4,0,0,True,4,0,0
+SW9 9LZ,Good restaurant hygiene,3.71,5,False,0,0,0,True,6,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,True,3,0,0,True,1,0,0,True,5,0,0,False,0,0,0,False,0,0,0,True,5,0,0
+SW2 5SA,Good restaurant hygiene,4.23,5,True,1,0,0,True,5,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,True,2,0,0,False,0,0,0,True,4,0,0,False,0,0,0,True,3,0,0,True,5,0,0
+SW9 8JX,Poor restaurant hygiene,3.71,15,True,3,0,0,True,5,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,True,1,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,True,11,0,0
+SE5 9DQ,Poor restaurant hygiene,3.69,15,True,2,0,0,True,2,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,True,1,0,0,False,0,0,0,True,4,0,0,False,0,0,0,True,3,0,0,True,8,0,0
+SE11 5SQ,Good restaurant hygiene,4.63,5,True,1,0,0,True,2,0,0,False,0,0,0,False,0,0,0,False,0,0,0,True,3,0,0,True,1,0,0,False,0,0,0,True,1,0,0,True,4,0,0,True,8,0,0,False,0,0,0
+SW16 1HJ,Average restaurant hygiene,3.94,10,True,2,0,0,True,6,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,True,3,0,0,False,0,0,0,True,2,0,0,False,0,0,0,True,1,0,0,True,6,0,0
+SE11 6UD,Poor restaurant hygiene,3.72,15,True,1,0,0,True,3,0,0,False,0,0,0,False,0,0,0,False,0,0,0,True,1,0,0,True,4,0,0,True,1,0,0,True,1,0,0,True,3,0,0,True,2,0,0,True,4,0,0
+SE11 4HR,Very poor restaurant hygiene,3.89,20,True,1,0,0,True,3,0,0,False,0,0,0,False,0,0,0,False,0,0,0,True,1,0,0,True,6,0,0,True,1,0,0,True,1,0,0,True,2,0,0,True,1,0,0,True,4,0,0
+SW8 2XS,Very poor restaurant hygiene,3.17,30,False,0,0,0,True,5,0,0,False,0,0,0,False,0,0,0,False,0,0,0,True,2,0,0,True,1,0,0,False,0,0,0,True,6,0,0,False,0,0,0,True,1,0,0,True,4,0,0
+SW8 2FL,Very poor restaurant hygiene,3.78,20,True,1,0,0,True,6,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,True,2,0,0,False,0,0,0,True,3,0,0,True,1,0,0,True,2,0,0,True,5,0,0
+SE1 8YR,Good restaurant hygiene,4.75,5,False,0,0,0,True,19,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,True,1,0,0,False,0,0,0,False,0,0,0,False,0,0,0
+SW2 4HF,Very good restaurant hygiene,4.31,0,False,0,0,0,True,4,0,0,False,0,0,0,False,0,0,0,False,0,0,0,True,1,0,0,False,0,0,0,True,4,1,0,True,2,1,0,False,0,0,0,True,2,0,0,True,5,0,0
+SW9 0LS,Very poor restaurant hygiene,3.35,25,False,0,0,0,True,5,0,0,False,0,0,0,True,1,0,0,False,0,0,0,False,0,0,0,True,2,0,0,False,0,0,0,True,5,0,0,False,0,0,0,True,1,0,0,True,6,0,0
+SW4 6LX,Average restaurant hygiene,3.44,10,False,0,0,0,True,6,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,True,3,0,0,False,0,0,0,True,9,0,0,False,0,0,0,False,0,0,0,True,2,0,0
+SE27 9RP,Poor restaurant hygiene,4.00,15,False,0,0,0,True,2,0,0,True,3,0,0,False,0,0,0,False,0,0,0,False,0,0,0,True,2,0,0,True,1,3,0,True,1,0,0,True,3,0,0,True,1,0,0,True,3,1,0
+SW2 4EX,Very poor restaurant hygiene,3.65,25,True,1,0,0,True,3,1,0,False,0,0,0,False,0,0,0,False,0,0,0,True,1,0,0,True,3,0,0,True,1,1,0,True,2,0,0,True,1,0,0,True,3,0,0,True,3,0,0
+SE5 9LP,Very good restaurant hygiene,4.32,0,True,1,0,0,True,4,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,True,2,0,0,False,0,0,0,True,5,0,0,True,3,0,0,True,2,0,0,True,3,0,0
+SE24 0DF,Average restaurant hygiene,3.50,10,False,0,0,0,True,5,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,True,3,0,0,False,0,0,0,True,7,0,0,False,0,0,0,True,1,0,0,True,4,0,0
+SW9 0PF,Very good restaurant hygiene,4.17,0,True,1,0,0,True,5,0,0,False,0,0,0,True,1,0,0,False,0,0,0,False,0,0,0,False,0,0,0,True,3,0,0,True,1,0,0,True,3,0,0,True,1,0,0,True,5,0,0
+SE11 6TU,Average restaurant hygiene,3.95,10,True,2,0,0,True,3,0,0,False,0,0,0,False,0,0,0,False,0,0,0,True,2,0,0,True,6,0,0,True,1,0,0,True,1,0,0,True,3,0,0,False,0,0,0,True,2,0,0
+SW12 0EP,Good restaurant hygiene,4.32,5,False,0,0,0,True,2,0,0,True,1,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,True,3,1,0,True,1,0,0,True,7,0,0,False,0,1,0,True,3,1,0
+SW9 6PE,Poor restaurant hygiene,3.61,15,True,1,0,0,True,8,0,0,False,0,0,0,False,0,0,0,False,0,0,0,True,1,0,0,True,2,0,0,False,0,0,0,True,2,0,0,True,1,0,0,True,1,0,0,True,4,0,0
+SE11 5SZ,Good restaurant hygiene,4.55,5,False,0,0,0,True,2,0,0,False,0,0,0,False,0,0,0,False,0,0,0,True,4,0,0,True,3,0,0,False,0,0,0,True,2,0,0,True,1,0,0,True,6,0,0,True,2,0,0
+SW16 2HP,Very good restaurant hygiene,4.59,0,False,0,0,0,True,1,0,0,False,0,0,0,False,0,0,0,False,0,0,0,True,1,0,0,True,1,0,0,True,6,3,0,False,0,0,0,True,4,0,0,True,1,1,0,True,2,0,0
+SW4 6LB,Very poor restaurant hygiene,3.33,25,False,0,0,0,True,4,0,0,False,0,0,0,False,0,0,0,False,0,0,0,True,2,0,0,True,1,0,0,True,1,0,0,True,7,0,0,True,1,0,0,True,1,0,0,True,3,0,0
+SW9 9QA,Very poor restaurant hygiene,3.89,20,True,1,0,0,True,6,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,True,2,0,0,True,3,0,0,True,1,0,0,True,2,0,0,True,5,0,0
+SW4 7QP,Average restaurant hygiene,3.53,10,False,0,0,0,True,6,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,True,4,0,0,False,0,0,0,True,7,0,0,False,0,0,0,False,0,0,0,True,3,0,0
+SW16 2XW,Very good restaurant hygiene,4.53,0,False,0,0,0,False,0,1,0,False,0,0,0,False,0,0,0,False,0,0,0,True,1,0,0,True,1,0,0,True,2,2,0,False,0,0,0,True,5,1,0,True,1,0,0,True,4,2,0
+SE11 5TN,Good restaurant hygiene,4.53,5,False,0,0,0,True,2,0,0,False,0,0,0,False,0,0,0,False,0,0,0,True,4,0,0,True,3,0,0,False,0,0,0,True,2,0,0,True,1,0,0,True,6,0,0,True,2,0,0
+SE1 7GL,Very good restaurant hygiene,4.25,0,False,0,0,0,True,12,0,0,False,0,0,0,True,2,0,0,False,0,0,0,False,0,0,0,True,2,0,0,False,0,0,0,True,2,0,0,False,0,0,0,False,0,0,0,True,2,0,0
+SW4 9QS,Good restaurant hygiene,4.19,5,True,2,0,0,True,7,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,True,2,0,0,False,0,0,0,True,2,0,0,True,2,0,0,False,0,0,0,True,5,0,0
+SW8 1LS,Good restaurant hygiene,4.50,5,False,0,0,0,True,5,0,0,False,0,0,0,False,0,0,0,False,0,0,0,True,3,0,0,True,2,0,0,True,1,0,0,False,0,0,0,True,3,0,0,True,5,0,0,True,1,0,0
+SW16 2TG,Average restaurant hygiene,4.28,10,False,0,0,0,True,11,0,0,False,0,0,0,True,1,0,0,False,0,0,0,False,0,0,0,True,1,0,0,True,3,0,0,True,1,0,0,False,0,0,0,True,2,0,0,True,1,0,0
+SW4 6ND,Average restaurant hygiene,3.72,10,True,1,0,0,True,4,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,True,5,0,0,False,0,0,0,True,8,0,0,False,0,0,0,False,0,0,0,True,2,0,0
+SW16 1NQ,Average restaurant hygiene,3.89,10,True,1,0,0,True,10,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,True,1,0,0,False,0,0,0,True,2,0,0,False,0,0,0,False,0,0,0,True,6,0,0
+SW9 6DT,Very poor restaurant hygiene,3.06,35,False,0,0,0,True,7,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,True,6,0,0,False,0,0,0,True,2,0,0,True,5,0,0
+SE24 0PQ,Poor restaurant hygiene,3.74,15,False,0,0,0,True,3,0,0,True,1,0,0,False,0,0,0,False,0,0,0,True,1,0,0,True,1,0,0,True,1,0,0,True,6,0,0,True,2,0,0,True,2,0,0,True,3,0,0
+SW4 6RY,Average restaurant hygiene,3.82,10,True,3,0,0,True,5,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,True,2,0,0,False,0,0,0,False,0,0,0,True,10,0,0
+SW9 0AB,Poor restaurant hygiene,3.84,15,True,1,0,0,True,7,0,0,False,0,0,0,False,0,0,0,False,0,0,0,True,1,0,0,True,1,0,0,True,2,0,0,True,5,0,0,False,0,0,0,False,0,0,0,True,3,0,0
+SW2 3HG,Average restaurant hygiene,4.00,10,True,2,0,0,True,7,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,True,1,0,0,False,0,0,0,True,4,0,0,True,1,0,0,False,0,0,0,True,5,0,0
+SW4 8EP,Average restaurant hygiene,4.50,10,True,2,0,0,True,1,1,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,1,0,True,2,0,0,True,2,0,0,False,0,0,0,True,3,1,0,True,3,0,0,True,4,0,0
+SE27 0TY,Average restaurant hygiene,3.94,10,False,0,0,0,True,4,0,0,True,1,0,0,False,0,0,0,False,0,0,0,False,0,0,0,True,1,0,0,True,1,0,0,True,4,0,0,True,1,0,0,True,1,0,0,True,7,0,0
+SW8 2BE,Very poor restaurant hygiene,3.44,25,False,0,0,0,True,6,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,True,3,0,0,False,0,0,0,True,2,0,0,True,1,0,0,True,1,0,0,True,7,0,0
+SE11 6BX,Average restaurant hygiene,3.95,10,True,2,0,0,True,6,0,0,False,0,0,0,False,0,0,0,False,0,0,0,True,1,0,0,True,6,0,0,True,1,0,0,True,2,0,0,True,1,0,0,False,0,0,0,True,1,0,0
+SW9 8DZ,Average restaurant hygiene,4.00,10,False,0,0,0,True,5,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,True,2,0,0,True,1,0,0,True,4,0,0,False,0,0,0,True,3,0,0,True,5,0,0
+SW4 6JQ,Poor restaurant hygiene,3.89,15,True,1,0,0,True,2,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,True,2,0,0,True,3,0,0,True,4,0,0,True,3,0,0,False,0,0,0,True,5,0,0
+SW16 3DT,Very good restaurant hygiene,4.44,0,False,0,2,2,False,0,1,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,1,0,True,6,2,0,False,0,2,0,False,0,1,0,True,1,1,0,False,0,3,0
+SE11 5PX,Average restaurant hygiene,3.75,10,True,1,0,0,True,9,0,0,False,0,0,0,False,0,0,0,False,0,0,0,True,1,0,0,True,2,0,0,True,1,0,0,True,6,0,0,False,0,0,0,False,0,0,0,False,0,0,0
+SW12 9PA,Good restaurant hygiene,4.20,5,True,2,0,0,True,8,0,0,False,0,0,0,True,1,0,0,False,0,0,0,False,0,0,0,True,1,0,0,True,1,0,0,True,5,0,0,False,0,0,0,False,0,0,0,True,2,0,0
+SW4 7SE,Very good restaurant hygiene,3.89,0,False,0,0,0,True,8,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,True,2,0,0,False,0,0,0,True,1,0,0,False,0,0,0,True,2,0,0,True,7,0,0
+SW8 2RX,Good restaurant hygiene,4.24,5,False,0,0,0,True,4,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,True,1,0,0,True,2,0,0,True,3,0,0,False,0,0,0,False,0,0,0,True,9,0,0
+SE1 7XB,Good restaurant hygiene,3.94,5,True,1,0,0,True,6,0,0,False,0,0,0,True,1,0,0,False,0,0,0,False,0,0,0,True,1,0,0,True,1,0,0,True,3,0,0,True,3,0,0,False,0,0,0,True,4,0,0
+SE27 0SH,Poor restaurant hygiene,3.72,15,False,0,0,0,True,6,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,True,1,0,0,True,1,0,0,True,4,0,0,False,0,0,0,True,2,0,0,True,6,0,0
+SW9 9JB,Good restaurant hygiene,4.00,5,False,0,0,0,True,6,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,True,3,0,0,True,2,0,0,True,2,0,0,True,2,0,0,True,5,0,0
+SW16 5NE,Average restaurant hygiene,4.15,10,True,1,0,0,True,5,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,True,2,0,0,True,2,0,0,True,5,0,0,False,0,0,0,True,1,0,0,True,4,0,0
+SE11 6ND,Very good restaurant hygiene,4.64,0,False,0,0,0,True,2,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,True,1,0,0,True,11,0,0,True,1,0,0,True,5,0,0,False,0,0,0
+SW2 1SP,Average restaurant hygiene,3.75,10,True,1,0,0,True,6,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,True,6,0,0,True,3,0,0,True,1,0,0,True,3,0,0
+SW8 2AL,Very poor restaurant hygiene,3.53,25,False,0,0,0,True,5,0,0,False,0,0,0,False,0,0,0,False,0,0,0,True,1,0,0,True,2,0,0,True,1,0,0,True,5,0,0,False,0,0,0,True,1,0,0,True,4,0,0
+SW16 3RB,Very good restaurant hygiene,4.32,0,True,1,0,0,True,2,1,0,False,0,0,0,True,1,0,0,False,0,0,0,False,0,0,0,False,0,0,0,True,3,2,0,True,2,1,0,True,2,1,0,False,0,0,0,True,3,1,0
+SW4 7NE,Very poor restaurant hygiene,4.20,20,True,1,0,0,True,8,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,True,5,0,0,False,0,0,0,True,2,0,0,False,0,0,0,True,1,0,0,True,3,0,0
+SW2 2RL,Good restaurant hygiene,4.39,5,False,0,0,0,True,2,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,True,1,0,0,True,4,0,0,True,1,0,0,True,5,0,0,True,2,0,0,True,4,1,0
+SE11 5TA,Good restaurant hygiene,4.55,5,False,0,0,0,True,2,0,0,False,0,0,0,False,0,0,0,False,0,0,0,True,4,0,0,True,3,0,0,False,0,0,0,True,2,0,0,True,1,0,0,True,6,0,0,True,2,0,0
+SE1 8YU,Good restaurant hygiene,4.75,5,False,0,0,0,True,19,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,True,1,0,0,False,0,0,0,False,0,0,0,False,0,0,0
+SW2 3PH,Very good restaurant hygiene,4.31,0,True,1,0,0,False,0,0,0,False,0,0,0,True,1,0,0,False,0,0,0,True,1,0,0,True,1,0,0,True,1,0,0,True,6,0,0,True,3,0,0,True,2,0,0,True,4,0,0
+SW4 9QP,Good restaurant hygiene,4.25,5,True,2,0,0,True,8,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,True,1,0,0,False,0,0,0,True,2,0,0,True,2,0,0,False,0,0,0,True,5,0,0
+SW4 7GJ,Average restaurant hygiene,3.56,10,False,0,0,0,True,6,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,True,4,0,0,False,0,0,0,True,8,0,0,False,0,0,0,False,0,0,0,True,2,0,0
+SE11 4XA,Poor restaurant hygiene,4.00,15,True,1,0,0,True,1,0,0,False,0,0,0,False,0,0,0,True,1,0,0,True,1,0,0,True,5,0,0,True,2,0,0,True,1,0,0,True,3,0,0,True,1,0,0,True,4,0,0
+SW9 6JZ,Very poor restaurant hygiene,3.61,20,True,1,0,0,True,5,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,True,1,0,0,True,1,0,0,True,2,0,0,True,4,0,0,True,6,0,0
+SW2 3EH,Very good restaurant hygiene,4.53,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,1,0,False,0,0,0,True,1,0,0,False,0,0,0,True,4,0,0,True,2,1,0,True,4,2,0,True,2,0,0,True,3,0,0
+SE1 8DQ,Average restaurant hygiene,4.10,10,True,2,0,0,True,12,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,True,2,0,0,False,0,0,0,True,2,0,0,False,0,0,0,True,1,0,0,True,1,0,0
+SE19 1JL,Very good restaurant hygiene,4.59,0,False,0,0,0,True,3,1,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,True,1,0,0,True,2,1,0,True,1,2,0,True,2,1,0,True,4,0,0,True,1,1,0
+SE21 8DE,Good restaurant hygiene,4.47,5,True,1,0,0,True,3,0,0,True,3,0,0,False,0,0,0,False,0,0,0,False,0,0,0,True,3,0,0,True,4,0,0,False,0,0,0,True,1,0,0,False,0,0,0,True,5,0,0
+SE11 5NF,Poor restaurant hygiene,3.76,15,True,1,0,0,True,3,0,0,False,0,0,0,False,0,0,0,False,0,0,0,True,1,0,0,True,2,0,0,True,1,0,0,True,4,0,0,True,2,0,0,True,2,0,0,True,4,0,0
+SW8 2BD,Very poor restaurant hygiene,3.44,25,False,0,0,0,True,6,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,True,3,0,0,False,0,0,0,True,2,0,0,True,1,0,0,True,1,0,0,True,7,0,0
+SE27 0SE,Very good restaurant hygiene,4.42,0,False,0,1,1,False,0,2,0,False,0,0,0,True,1,0,0,False,0,0,0,False,0,0,0,False,0,0,0,True,4,1,0,False,0,2,0,True,3,0,0,True,1,2,0,True,1,2,0
+SE1 8YS,Good restaurant hygiene,4.75,5,False,0,0,0,True,19,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,True,1,0,0,False,0,0,0,False,0,0,0,False,0,0,0
+SW4 9RH,Poor restaurant hygiene,4.00,15,True,1,0,0,True,7,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,True,3,0,0,False,0,0,0,True,3,0,0,True,1,0,0,True,1,0,0,True,4,0,0
+SW8 2FN,Very poor restaurant hygiene,3.78,20,True,1,0,0,True,6,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,True,2,0,0,False,0,0,0,True,3,0,0,True,1,0,0,True,2,0,0,True,5,0,0
+SE11 4BW,Average restaurant hygiene,4.31,10,False,0,0,0,True,5,0,0,True,1,0,0,False,0,0,0,True,1,0,0,True,3,0,0,True,1,0,0,True,2,0,0,True,1,0,0,True,1,0,0,True,4,0,0,True,1,0,0
+SW2 5QA,Average restaurant hygiene,4.32,10,False,0,0,0,True,4,1,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,True,2,2,0,True,2,0,0,False,0,0,0,True,3,1,0,True,2,1,0,True,2,0,0
+SW16 2SB,Good restaurant hygiene,4.21,5,False,0,0,0,False,0,1,0,False,0,0,0,False,0,1,0,False,0,0,0,False,0,0,0,False,0,0,0,True,3,0,0,False,0,0,0,True,1,3,0,True,3,0,0,True,2,6,0
+SE11 4PG,Poor restaurant hygiene,3.89,15,True,1,0,0,True,3,0,0,False,0,0,0,False,0,0,0,False,0,0,0,True,1,0,0,True,5,0,0,True,1,0,0,True,1,0,0,True,3,0,0,False,0,0,0,True,5,0,0
+SW8 2LE,Good restaurant hygiene,4.45,5,True,2,0,0,True,6,0,0,False,0,0,0,True,1,0,0,False,0,0,0,False,0,0,0,True,2,0,0,False,0,0,0,True,8,0,0,False,0,0,0,False,0,0,0,True,1,0,0
+SE1 8NA,Poor restaurant hygiene,4.00,15,True,1,0,0,True,14,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,True,2,0,0,False,0,0,0,True,1,0,0,False,0,0,0,True,1,0,0,True,1,0,0
+SE24 0EJ,Average restaurant hygiene,3.95,10,False,0,0,0,True,7,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,True,3,0,0,True,1,0,0,True,6,0,0,True,1,0,0,False,0,0,0,True,2,0,0
+SW16 2BW,Average restaurant hygiene,3.63,10,False,0,0,0,True,9,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,True,2,0,0,True,3,0,0,True,2,0,0,False,0,0,0,False,0,0,0,True,4,0,0
+SW8 2NT,Very poor restaurant hygiene,3.42,20,True,1,0,0,True,8,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,True,4,0,0,False,0,0,0,True,4,0,0,False,0,0,0,True,1,0,0,True,2,0,0
+SW4 9HR,Good restaurant hygiene,4.44,5,True,2,0,0,True,10,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,True,1,0,0,True,2,0,0,True,1,0,0,False,0,0,0,True,4,0,0
+SW2 2PE,Very good restaurant hygiene,4.44,0,False,0,0,0,True,1,0,0,False,0,0,0,True,1,0,0,False,0,0,0,True,1,0,0,False,0,0,0,True,3,0,0,True,1,0,0,True,5,1,0,True,3,0,0,True,4,0,0
+SW12 0JE,Good restaurant hygiene,4.26,5,False,0,0,0,True,2,0,0,True,1,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,True,3,2,0,True,1,0,0,True,7,0,0,True,1,0,0,True,3,0,0
+SW4 8HF,Poor restaurant hygiene,4.19,15,True,2,0,0,True,1,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,1,0,True,2,0,0,True,2,0,0,False,0,0,0,True,2,1,0,True,5,0,0,True,4,0,0
+SW2 3TF,Good restaurant hygiene,4.33,5,False,0,0,0,True,2,1,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,True,1,0,0,True,3,0,0,True,1,1,0,True,5,0,0,False,0,0,0,True,4,2,0
+SW8 1RU,Good restaurant hygiene,4.21,5,True,2,0,0,True,5,0,0,False,0,0,0,True,1,0,0,False,0,0,0,False,0,0,0,True,1,0,0,False,0,0,0,True,8,0,0,False,0,0,0,False,0,0,0,True,3,0,0
+SE5 9EH,Good restaurant hygiene,4.27,5,True,1,0,0,True,2,0,0,False,0,0,0,False,0,0,0,True,1,0,0,True,1,0,0,True,2,0,0,True,1,0,0,True,5,0,0,True,1,0,0,True,1,0,0,True,5,0,0
+SW2 2PD,Very good restaurant hygiene,4.56,0,False,0,0,0,False,0,0,0,False,0,0,0,True,1,0,0,False,0,0,0,True,1,0,0,False,0,0,0,True,3,0,0,True,1,0,0,True,5,2,0,True,3,0,0,True,4,0,0
+SW4 8HD,Average restaurant hygiene,4.35,10,True,2,0,0,False,0,1,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,1,0,True,1,0,0,True,2,1,0,False,0,0,0,True,2,3,0,True,3,0,0,True,4,0,0
+SW16 3RE,Very good restaurant hygiene,4.37,0,True,1,0,0,True,2,1,0,False,0,0,0,True,1,0,0,False,0,0,0,False,0,0,0,False,0,0,0,True,3,2,0,True,2,1,0,True,2,1,0,False,0,0,0,True,3,1,0
+SE11 5TB,Good restaurant hygiene,4.55,5,False,0,0,0,True,2,0,0,False,0,0,0,False,0,0,0,False,0,0,0,True,4,0,0,True,3,0,0,False,0,0,0,True,2,0,0,True,1,0,0,True,6,0,0,True,2,0,0
+SE1 8YP,Good restaurant hygiene,4.75,5,False,0,0,0,True,19,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,True,1,0,0,False,0,0,0,False,0,0,0,False,0,0,0
+SW16 2EN,Average restaurant hygiene,4.24,10,False,0,0,0,True,1,0,0,False,0,0,0,False,0,0,0,False,0,0,0,True,1,0,0,True,1,0,0,True,9,0,0,True,3,0,0,True,1,0,0,True,2,0,0,True,2,0,0
+SW9 9EY,Poor restaurant hygiene,3.79,15,False,0,0,0,True,9,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,True,3,0,0,True,1,0,0,True,1,0,0,True,1,0,0,True,5,0,0
+SW4 6DW,Very good restaurant hygiene,4.12,0,False,0,0,0,True,8,0,0,False,0,0,0,False,0,0,0,False,0,0,0,True,1,0,0,True,5,0,0,True,1,0,0,True,2,0,0,False,0,0,0,True,1,0,0,True,2,0,0
+SW9 9AA,Poor restaurant hygiene,3.89,15,True,1,0,0,True,9,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,True,2,0,0,True,1,0,0,True,1,0,0,True,1,0,0,True,5,0,0
+SW12 0HS,Very good restaurant hygiene,4.50,0,False,0,1,1,True,3,0,0,False,0,0,0,False,0,0,0,False,0,0,0,True,1,0,0,False,0,0,0,True,5,1,0,False,0,0,0,True,3,1,0,False,0,1,0,True,3,1,0
+SE24 0QF,Poor restaurant hygiene,3.71,15,True,1,0,0,True,5,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,True,8,0,0,False,0,0,0,True,1,0,0,True,5,0,0
+SW9 0XY,Poor restaurant hygiene,3.73,15,False,0,0,0,True,12,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,True,4,0,0,True,1,0,0,False,0,0,0,True,3,0,0
+SW8 2LJ,Good restaurant hygiene,4.45,5,True,2,0,0,True,7,0,0,False,0,0,0,True,1,0,0,False,0,0,0,False,0,0,0,True,1,0,0,False,0,0,0,True,8,0,0,False,0,0,0,False,0,0,0,True,1,0,0
+SW12 0BP,Good restaurant hygiene,4.26,5,False,0,0,0,True,6,0,0,True,1,0,0,False,0,0,0,False,0,0,0,False,0,0,0,True,1,0,0,True,2,0,0,True,2,0,0,True,4,0,0,True,1,0,0,True,3,0,0
+SE11 6PX,Good restaurant hygiene,4.29,5,False,0,0,0,True,3,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,True,1,0,0,True,1,0,0,True,7,0,0,True,1,0,0,True,5,0,0,True,2,0,0
+SE21 8HY,Very good restaurant hygiene,4.50,0,False,0,0,0,True,3,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,True,1,0,0,True,7,1,0,False,0,0,0,True,2,2,0,True,2,0,0,True,2,0,0
+SW4 6QH,Very poor restaurant hygiene,3.61,20,True,2,0,0,True,4,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,True,1,0,0,True,3,0,0,True,1,0,0,False,0,0,0,True,9,0,0
+SE11 5HB,Poor restaurant hygiene,3.75,15,False,0,0,0,True,9,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,True,2,0,0,False,0,0,0,True,3,0,0,True,1,0,0,False,0,0,0,True,5,0,0
+SW4 0HR,Very good restaurant hygiene,4.26,0,False,0,0,0,True,10,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,True,5,0,0,False,0,0,0,True,3,0,0,False,0,0,0,False,0,0,0,True,2,0,0
+SW16 2JP,Good restaurant hygiene,4.13,5,False,0,0,0,True,5,0,0,False,0,0,0,False,0,0,0,False,0,0,0,True,1,0,0,False,0,0,0,False,0,1,0,True,3,0,0,True,2,0,0,True,2,0,0,True,6,0,0
+SW4 6RS,Poor restaurant hygiene,3.83,15,True,3,0,0,True,5,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,True,1,0,0,True,1,0,0,True,2,0,0,True,1,0,0,False,0,0,0,True,7,0,0
+SW8 2SX,Very poor restaurant hygiene,3.89,20,True,1,0,0,True,6,0,0,False,0,0,0,True,1,0,0,False,0,0,0,False,0,0,0,True,1,0,0,False,0,0,0,True,3,0,0,True,2,0,0,True,2,0,0,True,4,0,0
+SE11 4EL,Average restaurant hygiene,3.88,10,False,0,0,0,True,3,0,0,False,0,0,0,False,0,0,0,True,1,0,0,True,1,0,0,True,5,0,0,True,1,0,0,True,2,0,0,True,1,0,0,True,1,0,0,True,5,0,0
+SW4 7RJ,Average restaurant hygiene,3.50,10,False,0,0,0,True,5,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,True,3,0,0,False,0,0,0,True,8,0,0,False,0,0,0,False,0,0,0,True,4,0,0
+SE11 6TZ,Average restaurant hygiene,4.00,10,True,1,0,0,True,2,0,0,False,0,0,0,False,0,0,0,False,0,0,0,True,1,0,0,True,4,0,0,True,2,0,0,True,3,0,0,True,2,0,0,True,2,0,0,True,3,0,0
+SW2 5RH,Average restaurant hygiene,3.47,10,False,0,0,0,True,8,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,True,1,0,0,False,0,0,0,True,6,0,0,False,0,0,0,True,2,0,0,True,3,0,0
+SE19 1NL,Very good restaurant hygiene,4.53,0,True,2,0,0,True,11,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,True,2,0,0,False,0,0,0,True,2,0,0,False,0,0,0,True,1,0,0,True,2,0,0
+SE27 9PG,Poor restaurant hygiene,3.74,15,False,0,0,0,True,4,0,0,True,1,0,0,False,0,0,0,False,0,0,0,False,0,0,0,True,1,0,0,False,0,0,0,True,4,0,0,True,2,0,0,True,1,0,0,True,7,0,0
+SW2 3JD,Very good restaurant hygiene,4.50,0,False,0,0,0,True,1,0,0,False,0,0,0,False,0,0,0,False,0,0,0,True,1,0,0,False,0,0,0,True,2,0,0,False,0,1,0,True,4,2,0,True,1,2,0,True,5,1,0
+SE11 4EW,Good restaurant hygiene,3.94,5,True,1,0,0,True,7,0,0,False,0,0,0,False,0,0,0,True,1,0,0,True,1,0,0,True,3,0,0,True,1,0,0,True,3,0,0,False,0,0,0,False,0,0,0,True,3,0,0
+SW16 2JJ,Very good restaurant hygiene,4.68,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,1,0,False,0,0,0,True,1,4,0,False,0,0,0,True,4,3,0,True,1,1,0,True,5,0,0
+SW2 1AD,Very poor restaurant hygiene,3.32,25,False,0,0,0,True,7,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,True,1,0,0,False,0,0,0,True,5,0,0,False,0,0,0,True,1,0,0,True,6,0,0
+SE21 8HT,Very good restaurant hygiene,4.63,0,True,1,0,0,True,4,0,0,True,1,0,0,False,0,0,0,False,0,0,0,False,0,0,0,True,2,0,0,True,5,0,0,False,0,0,0,True,1,0,0,True,1,0,0,True,5,0,0
+SE11 4PD,Very poor restaurant hygiene,3.72,25,False,0,0,0,True,5,0,0,False,0,0,0,False,0,0,0,False,0,0,0,True,1,0,0,True,3,0,0,True,1,0,0,True,4,0,0,True,2,0,0,False,0,0,0,True,4,0,0
+SW9 9EU,Good restaurant hygiene,3.88,5,True,1,0,0,True,8,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,True,1,0,0,True,2,0,0,False,0,0,0,True,1,0,0,True,7,0,0
+SW4 7EF,Average restaurant hygiene,3.57,10,False,0,0,0,True,6,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,True,3,0,0,False,0,0,0,True,7,0,0,False,0,0,0,False,0,0,0,True,4,0,0
+SE1 7XQ,Average restaurant hygiene,4.37,10,False,0,0,0,True,6,0,0,False,0,0,0,True,2,0,0,False,0,0,0,False,0,0,0,True,2,0,0,False,0,0,0,True,1,0,0,False,0,0,0,True,6,0,0,True,3,0,0
+SW16 3QY,Very good restaurant hygiene,4.35,0,False,0,1,1,False,0,2,0,False,0,0,0,True,1,0,0,False,0,0,0,False,0,0,0,False,0,0,0,True,2,4,0,False,0,2,0,True,3,0,0,False,0,1,0,False,0,4,0
+SW4 8QL,Good restaurant hygiene,4.47,5,True,2,0,0,True,9,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,True,4,0,0,False,0,0,0,True,1,0,0,False,0,0,0,True,4,0,0
+SW9 9PD,Very good restaurant hygiene,4.06,0,False,0,0,0,True,5,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,True,2,0,0,True,3,0,0,True,2,0,0,True,1,0,0,True,2,0,0,True,5,0,0
+SW16 3HH,Very good restaurant hygiene,4.63,0,True,1,0,0,True,5,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,1,0,True,10,0,0,False,0,0,0,True,1,0,0,False,0,0,0,True,2,0,0
+SW2 4TL,Poor restaurant hygiene,3.67,15,True,1,0,0,True,6,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,True,1,0,0,False,0,0,0,True,4,0,0,False,0,0,0,False,0,0,0,True,8,0,0
+SW16 3NW,Good restaurant hygiene,4.28,5,True,1,0,0,True,5,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,True,2,0,0,True,5,0,0,True,2,0,0,True,1,0,0,True,1,0,0,True,3,0,0
+SE27 9AN,Average restaurant hygiene,3.94,10,True,1,0,0,True,5,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,True,1,0,0,True,1,0,0,True,4,0,0,False,0,0,0,False,0,0,0,True,8,0,0
+SW16 5UE,Good restaurant hygiene,3.94,5,False,0,0,0,True,5,1,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,True,2,1,0,True,3,0,0,True,1,0,0,False,0,0,0,True,7,0,0
+SW9 8AF,Very poor restaurant hygiene,3.85,25,True,1,0,0,True,7,0,0,False,0,0,0,False,0,0,0,False,0,0,0,True,1,0,0,True,2,0,0,True,1,0,0,True,2,0,0,True,1,0,0,True,3,0,0,True,2,0,0
+SW4 0QU,Very good restaurant hygiene,4.17,0,True,2,0,0,True,3,0,0,False,0,0,0,False,0,0,0,True,1,0,0,False,0,0,0,True,3,0,0,True,2,0,0,True,4,0,0,True,1,0,0,True,2,0,0,True,2,0,0
+SW16 6LN,Good restaurant hygiene,3.83,5,False,0,0,0,True,6,0,0,False,0,0,0,True,2,0,0,False,0,0,0,False,0,0,0,True,1,0,0,True,5,1,0,True,3,0,0,True,1,0,0,True,1,0,0,False,0,0,0
+SW2 3LT,Very poor restaurant hygiene,3.53,20,True,1,0,0,True,6,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,True,1,0,0,True,1,0,0,True,4,0,0,True,2,0,0,False,0,0,0,True,5,0,0
+SW4 6HB,Good restaurant hygiene,4.21,5,False,0,0,0,True,5,0,0,False,0,0,0,False,0,0,0,True,1,0,0,True,2,0,0,True,4,0,0,True,2,0,0,False,0,0,0,True,1,0,0,True,1,0,0,True,4,0,0
+SW4 7PQ,Average restaurant hygiene,3.58,10,False,0,0,0,True,7,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,True,1,0,0,False,0,0,0,True,6,0,0,False,0,0,0,True,2,0,0,True,4,0,0
+SW4 9JH,Very poor restaurant hygiene,3.65,25,False,0,0,0,True,5,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,True,3,0,0,True,2,0,0,True,5,0,0,True,1,0,0,True,1,0,0,True,3,0,0
+SW9 9AR,Average restaurant hygiene,3.94,10,True,1,0,0,True,4,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,True,3,0,0,True,2,0,0,True,4,0,0,True,2,0,0,False,0,0,0,True,4,0,0
+SW8 2LQ,Good restaurant hygiene,4.35,5,True,2,0,0,True,6,0,0,False,0,0,0,True,1,0,0,False,0,0,0,False,0,0,0,True,1,0,0,False,0,0,0,True,8,0,0,False,0,0,0,False,0,0,0,True,2,0,0
+SW9 7HL,Poor restaurant hygiene,4.11,15,False,0,0,0,True,6,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,True,2,0,0,False,0,0,0,True,5,0,0,True,1,0,0,True,4,0,0,True,2,0,0
+SW4 7EZ,Average restaurant hygiene,3.88,10,False,0,0,0,True,6,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,True,2,0,0,True,1,0,0,True,4,1,0,True,1,0,0,False,0,0,0,True,5,0,0
+SW9 9SY,Very poor restaurant hygiene,3.00,30,False,0,0,0,True,12,0,0,False,0,0,0,False,0,0,0,False,0,0,0,True,1,0,0,False,0,0,0,False,0,0,0,True,3,0,0,False,0,0,0,True,2,0,0,True,2,0,0
+SW16 3QU,Very good restaurant hygiene,4.35,0,False,0,1,1,False,0,1,0,False,0,0,0,True,1,0,0,False,0,0,0,False,0,0,0,False,0,0,0,True,3,4,0,False,0,2,0,True,2,1,0,False,0,1,0,False,0,4,0
+SW12 9NJ,Good restaurant hygiene,4.26,5,True,3,0,0,True,7,0,0,False,0,0,0,True,1,0,0,False,0,0,0,False,0,0,0,True,2,0,0,True,1,0,0,True,3,0,0,False,0,0,0,False,0,0,0,True,3,0,0
+SW4 6AX,Average restaurant hygiene,4.05,10,True,2,0,0,True,2,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,True,2,0,0,True,3,0,0,True,2,0,0,True,3,0,0,False,0,0,0,True,6,0,0
+SE11 6PU,Good restaurant hygiene,4.12,5,False,0,0,0,True,6,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,True,2,0,0,True,1,0,0,True,3,0,0,True,2,0,0,True,2,0,0,True,4,0,0
+SW2 3RJ,Average restaurant hygiene,4.11,10,False,0,0,0,True,2,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,True,1,0,0,True,3,0,0,True,3,0,0,True,5,0,0,True,1,0,0,True,5,0,0
+SE27 9PX,Good restaurant hygiene,4.35,5,False,0,0,0,True,6,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,True,2,0,0,True,2,0,0,True,2,0,0,True,1,0,0,True,2,0,0,True,5,0,0
+SW12 0LE,Very good restaurant hygiene,4.56,0,True,2,0,0,True,2,0,0,False,0,0,0,False,0,0,0,False,0,0,0,True,1,0,0,False,0,0,0,True,4,2,0,False,0,0,0,True,3,0,0,True,2,0,0,True,3,1,0
+SE21 8HX,Very good restaurant hygiene,4.50,0,False,0,0,0,True,3,1,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,True,1,0,0,True,6,1,0,False,0,0,0,True,2,2,0,True,2,0,0,True,2,0,0
+SW4 9PP,Average restaurant hygiene,4.18,10,False,0,0,0,True,3,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,True,4,0,0,True,1,0,0,True,3,0,0,True,3,0,0,True,2,0,0,True,4,0,0
+SE27 0NF,Average restaurant hygiene,4.11,10,False,0,0,0,False,0,2,0,False,0,0,0,False,0,1,0,False,0,0,0,False,0,1,0,False,0,1,0,True,3,0,0,False,0,1,0,True,1,2,0,True,3,0,0,True,2,3,0
+SW2 4LH,Very poor restaurant hygiene,3.94,20,True,1,0,0,True,3,0,0,False,0,0,0,False,0,0,0,False,0,0,0,True,1,0,0,True,2,0,0,True,2,0,0,True,1,0,0,True,3,0,0,True,3,1,0,True,3,0,0
+SW2 1RE,Good restaurant hygiene,4.38,5,True,1,0,0,True,4,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,True,2,0,0,True,1,0,0,True,3,0,0,True,5,0,0,True,1,0,0,True,3,0,0
+SE5 0RS,Good restaurant hygiene,4.18,5,True,1,0,0,True,1,0,0,True,1,0,0,False,0,0,0,False,0,0,0,False,0,0,0,True,2,0,0,True,2,0,0,True,4,0,0,True,1,0,0,True,1,0,0,True,7,0,0
+SW12 0PG,Good restaurant hygiene,4.39,5,False,0,0,0,True,5,0,0,True,1,0,0,False,0,0,0,False,0,0,0,False,0,0,0,True,1,0,0,True,2,0,0,True,1,0,0,True,3,2,0,True,2,0,0,True,3,0,0
+SW12 0DP,Good restaurant hygiene,4.33,5,False,0,1,1,True,1,5,0,True,1,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,True,4,0,0,False,0,0,0,True,4,0,0,False,0,0,0,True,2,2,0
+SE27 9AQ,Average restaurant hygiene,3.94,10,True,1,0,0,True,5,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,True,1,0,0,True,1,0,0,True,4,0,0,False,0,0,0,False,0,0,0,True,8,0,0
+SW16 2UY,Very good restaurant hygiene,4.63,0,False,0,0,0,True,1,0,0,False,0,0,0,False,0,0,0,False,0,0,0,True,1,0,0,True,1,0,0,True,7,0,0,False,0,0,0,True,4,2,0,True,1,0,0,True,3,0,0
+SW16 2HR,Very good restaurant hygiene,4.74,0,False,0,0,0,False,0,0,0,False,0,0,0,True,1,0,0,False,0,0,0,False,0,0,0,False,0,1,0,True,2,5,0,False,0,0,0,True,5,1,0,True,1,1,0,True,2,1,0
+SE1 8YT,Good restaurant hygiene,4.75,5,False,0,0,0,True,19,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,True,1,0,0,False,0,0,0,False,0,0,0,False,0,0,0
+SW8 1UA,Average restaurant hygiene,4.00,10,False,0,0,0,True,8,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,True,3,0,0,True,2,0,0,True,2,0,0,True,2,0,0,True,1,0,0,True,2,0,0
+SW8 2BB,Very poor restaurant hygiene,3.28,25,True,1,0,0,True,5,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,True,4,0,0,False,0,0,0,True,3,0,0,False,0,0,0,True,1,0,0,True,6,0,0
+SW4 6HD,Poor restaurant hygiene,3.88,15,False,0,0,0,True,5,0,0,False,0,0,0,False,0,0,0,True,1,0,0,True,3,0,0,True,3,0,0,True,1,0,0,True,2,0,0,True,1,0,0,True,1,0,0,True,3,0,0
+SW9 7QA,Good restaurant hygiene,3.89,5,False,0,0,0,True,9,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,True,1,0,0,True,4,0,0,True,1,0,0,True,1,0,0,True,4,0,0
+SE1 7UN,Good restaurant hygiene,4.11,5,True,2,0,0,True,10,0,0,False,0,0,0,True,1,0,0,False,0,0,0,True,1,0,0,True,3,0,0,False,0,0,0,True,2,0,0,False,0,0,0,False,0,0,0,True,1,0,0
+SW8 2AT,Very poor restaurant hygiene,3.56,25,False,0,0,0,True,5,0,0,False,0,0,0,False,0,0,0,False,0,0,0,True,2,0,0,True,2,0,0,True,1,0,0,True,3,0,0,False,0,0,0,True,1,0,0,True,5,0,0
+SW4 6AN,Very poor restaurant hygiene,3.61,20,True,3,0,0,True,4,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,True,1,0,0,True,1,0,0,True,2,0,0,True,1,0,0,False,0,0,0,True,8,0,0
+SW12 0DX,Good restaurant hygiene,4.26,5,False,0,0,0,True,2,0,0,True,1,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,True,3,1,0,True,1,0,0,True,7,0,0,False,0,0,0,True,5,0,0
+SW2 3AZ,Poor restaurant hygiene,3.81,15,True,2,0,0,True,8,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,True,3,0,0,True,3,0,0,False,0,0,0,True,4,0,0
+SW16 5NF,Average restaurant hygiene,4.15,10,True,1,0,0,True,5,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,True,2,0,0,True,2,0,0,True,5,0,0,False,0,0,0,True,1,0,0,True,4,0,0
+SW8 2BJ,Very poor restaurant hygiene,3.44,25,False,0,0,0,True,6,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,True,3,0,0,False,0,0,0,True,2,0,0,True,1,0,0,True,1,0,0,True,7,0,0
+SE11 5PZ,Good restaurant hygiene,3.94,5,True,1,0,0,True,8,0,0,False,0,0,0,False,0,0,0,False,0,0,0,True,1,0,0,True,2,0,0,False,0,0,0,True,7,0,0,False,0,0,0,False,0,0,0,True,1,0,0
+SE24 9DH,Average restaurant hygiene,3.94,10,False,0,0,0,True,6,0,0,True,1,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,True,4,0,0,False,0,0,0,True,3,0,0,True,6,0,0
+SW2 1NA,Very poor restaurant hygiene,3.35,25,True,1,0,0,True,5,0,0,True,1,0,0,False,0,0,0,False,0,0,0,True,1,0,0,True,2,0,0,True,1,0,0,True,5,0,0,True,1,0,0,False,0,0,0,True,3,0,0
+SW8 1HS,Good restaurant hygiene,4.25,5,True,2,0,0,True,11,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,True,1,0,0,True,1,0,0,True,2,0,0,True,1,0,0,False,0,0,0,True,2,0,0
+SW9 7TW,Very poor restaurant hygiene,3.37,30,True,1,0,0,True,5,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,True,1,0,0,True,1,0,0,True,5,0,0,True,2,0,0,True,2,0,0,True,3,0,0
+SW8 2LP,Good restaurant hygiene,4.35,5,True,2,0,0,True,6,0,0,False,0,0,0,True,1,0,0,False,0,0,0,False,0,0,0,True,1,0,0,False,0,0,0,True,8,0,0,False,0,0,0,False,0,0,0,True,2,0,0
+SE5 9RL,Poor restaurant hygiene,3.71,15,False,0,0,0,True,7,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,True,1,0,0,True,1,0,0,True,4,0,0,True,1,0,0,False,0,0,0,True,6,0,0
+SW12 0PF,Good restaurant hygiene,4.39,5,False,0,0,0,True,5,0,0,True,1,0,0,False,0,0,0,False,0,0,0,False,0,0,0,True,1,0,0,True,2,0,0,True,1,0,0,True,3,2,0,True,2,0,0,True,3,0,0
+SW8 1AQ,Good restaurant hygiene,4.61,5,True,2,0,0,True,6,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,True,1,0,0,True,3,0,0,False,0,0,0,True,3,0,0,True,1,0,0,True,4,0,0
+SW4 0RH,Good restaurant hygiene,4.50,5,False,0,0,0,True,8,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,1,0,True,4,1,0,True,1,0,0,False,0,0,0,True,2,0,0,False,0,1,0,True,2,0,0
+SW4 7DJ,Average restaurant hygiene,4.00,10,False,0,0,0,True,3,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,True,3,0,0,True,1,0,0,True,5,0,0,True,2,0,0,True,2,0,0,True,4,0,0
+SE5 9QF,Poor restaurant hygiene,3.69,15,True,2,0,0,True,2,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,True,1,0,0,False,0,0,0,True,4,0,0,False,0,0,0,True,3,0,0,True,8,0,0
+SW8 1ED,Very poor restaurant hygiene,3.55,20,False,0,0,0,True,9,0,0,False,0,0,0,True,1,0,0,False,0,0,0,False,0,0,0,True,1,0,0,True,1,0,0,True,2,0,0,True,1,0,0,True,1,0,0,True,4,0,0
+SE24 0EE,Average restaurant hygiene,3.79,10,False,0,0,0,True,6,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,True,2,0,0,True,1,0,0,True,8,0,0,True,1,0,0,True,1,0,0,True,1,0,0
+SE5 8ED,Very good restaurant hygiene,4.53,0,True,1,0,0,True,3,2,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,True,1,0,0,True,1,2,0,False,0,2,0,True,2,0,0,False,0,0,0,True,3,3,0
+SW9 0BN,Very poor restaurant hygiene,3.37,25,True,1,0,0,True,5,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,True,1,0,0,True,2,0,0,True,4,0,0,True,1,0,0,False,0,0,0,True,6,0,0
+SE11 6TP,Poor restaurant hygiene,3.85,15,True,1,0,0,True,5,0,0,False,0,0,0,False,0,0,0,False,0,0,0,True,2,0,0,True,5,0,0,True,1,0,0,True,2,0,0,True,3,0,0,False,0,0,0,True,1,0,0
+SW16 1DN,Average restaurant hygiene,3.95,10,False,0,0,0,True,11,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,True,2,0,0,True,1,0,0,True,1,0,0,False,0,0,0,False,0,0,0,True,5,0,0
+SW8 2BL,Very poor restaurant hygiene,3.33,25,False,0,0,0,True,6,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,True,4,0,0,False,0,0,0,True,2,0,0,True,1,0,0,True,1,0,0,True,6,0,0
+SE21 8BT,Good restaurant hygiene,4.67,5,True,1,0,0,True,1,0,0,True,3,0,0,False,0,0,0,False,0,0,0,False,0,0,0,True,2,0,0,True,2,0,0,False,0,2,0,True,3,1,0,False,0,0,0,True,3,2,0
+SW9 0NT,Very good restaurant hygiene,4.47,0,True,1,0,0,True,3,0,0,False,0,0,0,False,0,0,0,False,0,0,0,True,2,0,0,False,0,0,0,True,3,0,0,True,4,0,0,True,4,0,0,True,2,0,0,True,1,0,0
+SW2 2AB,Very poor restaurant hygiene,3.94,20,True,1,0,0,True,3,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,True,1,0,0,True,2,0,0,True,2,0,0,True,1,0,0,True,2,0,0,True,8,0,0
+SW8 2FP,Very poor restaurant hygiene,3.78,20,True,1,0,0,True,6,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,True,2,0,0,False,0,0,0,True,3,0,0,True,1,0,0,True,2,0,0,True,5,0,0
+SW4 6QN,Average restaurant hygiene,3.78,10,True,2,0,0,True,6,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,True,1,0,0,True,2,0,0,False,0,0,0,False,0,0,0,True,9,0,0

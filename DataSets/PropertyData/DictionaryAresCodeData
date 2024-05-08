@@ -1,0 +1,61 @@
+Area code	String	Local		
+Year_1_Value	Numeric	PropertyData	/growth	five-year capital growth figures: initial year
+Year_2_Value	Numeric	PropertyData	/growth	1º Year return
+Year_2_growth%	Numeric	PropertyData	/growth	1º Year %
+Year_3_Value	Numeric	PropertyData	/growth	2º Year return
+Year_3_growth%	Numeric	PropertyData	/growth	2º Year %
+Year_4_Value	Numeric	PropertyData	/growth	3º Year return
+Year_4_growth%	Numeric	PropertyData	/growth	3º Year %
+Year_5_Value	Numeric	PropertyData	/growth	4º Year return
+Year_5_growth%	Numeric	PropertyData	/growth	4º Year %
+population	Numeric	PropertyData 	/crime	 analytics on local crime
+crimes_per_thousand	Numeric	PropertyData 	/crime	 analytics on local crime
+crime_rating	"Low crime",…	PropertyData 	/crime	 analytics on local crime
+Anti-social behaviour	Numeric	PropertyData 	/crime	 analytics on local crime
+Burglary	Numeric	PropertyData 	/crime	 analytics on local crime
+Violence and sexual offences	Numeric	PropertyData 	/crime	 analytics on local crime
+Vehicle crime	Numeric	PropertyData 	/crime 	 analytics on local crime
+Other theft	Numeric	PropertyData 	/crime 	 analytics on local crime
+Bicycle theft	Numeric	PropertyData 	/crime 	 analytics on local crime
+Criminal damage and arson	Numeric	PropertyData 	/crime 	 analytics on local crime
+Public order	Numeric	PropertyData 	/crime 	 analytics on local crime
+Shoplifting	Numeric	PropertyData 	 /crime 	 analytics on local crime
+Robbery	Numeric	PropertyData 	/crime 	 analytics on local crime
+Theft from the person	Numeric	PropertyData 	/crime 	 analytics on local crime
+deprivation	Numeric	PropertyData 	/demographics	population demographic data
+health	Numeric	PropertyData 	/demographics	population demographic data
+social_grade_ab	Numeric	PropertyData 	/demographics	population demographic data
+social_grade_c1	Numeric	PropertyData 	/demographics	population demographic data
+social_grade_c2	Numeric	PropertyData 	/demographics	population demographic data
+social_grade_de	Numeric	PropertyData 	/demographics	population demographic data
+Age_0-4	Numeric	PropertyData 	/demographics	population demographic data
+Age_5-9	Numeric	PropertyData 	/demographics	population demographic data
+Age_10-14	Numeric	PropertyData 	/demographics	population demographic data
+Age_15-19	Numeric	PropertyData 	/demographics	population demographic data
+Age_20-24	Numeric	PropertyData 	/demographics	population demographic data
+Age_25-29	Numeric	PropertyData 	/demographics	population demographic data
+Age_30-34	Numeric	PropertyData 	/demographics	population demographic data
+Age_35-39	Numeric	PropertyData 	/demographics	population demographic data
+Age_40-44	Numeric	PropertyData 	/demographics	population demographic data
+Age_45-49	Numeric	PropertyData 	/demographics	population demographic data
+Age_50-54	Numeric	PropertyData 	/demographics	population demographic data
+Age_55-59	Numeric	PropertyData 	/demographics	population demographic data
+Age_60-64	Numeric	PropertyData 	/demographics	population demographic data
+Age_65-70	Numeric	PropertyData 	/demographics	population demographic data
+Age_75-79	Numeric	PropertyData 	/demographics	population demographic data
+Age_80-84	Numeric	PropertyData 	/demographics	population demographic data
+Age_85-89	Numeric	PropertyData 	/demographics	population demographic data
+proportion_with_degree	Numeric	PropertyData 	/demographics	population demographic data
+vehicles_per_household_at_home	Numeric	PropertyData 	/demographics	population demographic data
+commute_method_underground_light_rail	Numeric	PropertyData 	/demographics	population demographic data
+commute_method_train	Numeric	PropertyData 	/demographics	population demographic data
+commute_method_bus	Numeric	PropertyData 	/demographics	population demographic data
+commute_method_taxi	Numeric	PropertyData 	/demographics	population demographic data
+commute_method_motorcycle	Numeric	PropertyData 	/demographics	population demographic data
+commute_method_car_driver	Numeric	PropertyData 	/demographics	population demographic data
+commute_car_passenger	Numeric	PropertyData 	/demographics	population demographic data
+commute_bicycle	Numeric	PropertyData 	/demographics	population demographic data
+commute_bicycle	Numeric	PropertyData 	/demographics	population demographic data
+commute_foot	Numeric	PropertyData 	/demographics	population demographic data
+commute_other	Numeric	PropertyData 	/demographics	population demographic data
+

@@ -1,0 +1,284 @@
+place_id,name,formatted_address,lat,lng,types,rating,price_level
+ChIJcz7SYWMFdkgRfxbShx-Sw5A,Chelsea and Westminster Hospital,"369 Fulham Rd., London SW10 9NH, United Kingdom",51.4843947,-0.1817018,hospital,4,0
+ChIJqzEGXWkFdkgRJW4aL0N7BCU,Royal Brompton Hospital,"Sydney St, London SW3 6NP, United Kingdom",51.48920380000001,-0.1705546,hospital,4.3,0
+ChIJY4oLWxoFdkgRWtNSBPfK4iI,The Lister Hospital part of HCA Healthcare UK,"Chelsea Bridge Rd, London SW1W 8RH, United Kingdom",51.4864726,-0.1501081,hospital,3.4,0
+ChIJi3Mm72gFdkgRYnBlr3gdQG4,Royal Brompton Fulham Wing,"Dovehouse St, London SW3 6JY, United Kingdom",51.4900962,-0.1737789,hospital,4,0
+ChIJ69Amvc0cdkgRLNOj6dq9K9k,The Royal London Hospital,"Whitechapel Rd, London E1 1FR, United Kingdom",51.51738169999999,-0.0598748,hospital,3.3,0
+ChIJOWSKcyQFdkgRlDBpn_YZLTE,Cleveland Clinic London Hospital,"33 Grosvenor Pl, London SW1X 7HY, United Kingdom",51.4994785,-0.1484999,hospital,0,0
+ChIJi7ccWVcDdkgRYTy6QMHZuiA,Guy's Hospital,"Great Maze Pond, London SE1 9RT, United Kingdom",51.5031901,-0.08682369999999999,hospital,4.2,0
+ChIJe4cW3cAEdkgR0RK8zGZJPAQ,St Thomas' Hospital,"Westminster Bridge Rd, London SE1 7EH, United Kingdom",51.4991539,-0.1188859,hospital,4.3,0
+ChIJE52681ADdkgR6Sv8TJwvcXU,London Bridge Hospital part HCA Healthcare UK,"27 Tooley St, London SE1 2PR, United Kingdom",51.5062543,-0.0860519,hospital,4.1,0
+ChIJGQJ64bwadkgRQUHJ8H8eQGY,St John & St Elizabeth Hospital,"60 Grove End Rd, London NW8 9NH, United Kingdom",51.5334443,-0.1755479,hospital,3,0
+ChIJjc9of1MbdkgRGvFEbt0j_vc,St Bartholomew's Hospital,"W Smithfield, London EC1A 7BE, United Kingdom",51.51749599999999,-0.1000463,hospital,4.2,0
+ChIJjef2qoADdkgRC-xkLjIcQX0,King's College Hospital,"kings college hospital, Denmark Hill, London SE5 9RS, United Kingdom",51.46780140000001,-0.0938193,hospital,4,0
+ChIJP_LG8LIadkgRs3wufNnBwDI,St Mary's Hospital,"Praed St, London W2 1NY, United Kingdom",51.5175558,-0.1742676,hospital,3.5,0
+ChIJn8F5SosadkgR7j4MU24CXFM,Royal Free Hospital,"Pond St, London NW3 2QG, United Kingdom",51.5530368,-0.1653391,hospital,3.4,0
+ChIJxzHmdVwEdkgRtrwEoe5unYg,The Lambeth Hospital,"108 Landor Rd, London SW9 9NU, United Kingdom",51.46588089999999,-0.1230276,hospital,3,0
+ChIJb1nNvggGdkgRZAURrMhPQZg,St George's Hospital,"Blackshaw Rd, London SW17 0QT, United Kingdom",51.42656299999999,-0.1752284,hospital,3.8,0
+ChIJGfJhHtURdkgRKj2DTIF-j4Y,Queen Charlotte's and Chelsea Hospital,"Du Cane Rd, London W12 0HS, United Kingdom",51.5163586,-0.2373884,hospital,3.6,0
+ChIJ_RZKoCgbdkgRi8sLmI1Ka8Y,University College Hospital,"235 Euston Rd, London NW1 2BU, United Kingdom",51.5250869,-0.1364556,hospital,3.8,0
+ChIJ-dsIG9URdkgRlmfb4pkrhVA,Hammersmith Hospital,"72 Du Cane Rd, London W12 0HS, United Kingdom",51.5171557,-0.2350796,hospital,4.1,0
+ChIJYZOsWf8MdkgRAMcp4apSmlw,West Middlesex University Hospital,"Twickenham Rd, Isleworth, Middlesex TW7 6AF, United Kingdom",51.4734184,-0.3244425,hospital,3,0
+ChIJG7iI3IADdkgRwdVOC6m_JYc,Maudsley Hospital,"Denmark Hill, London SE5 8AZ, United Kingdom",51.469445,-0.0911732,hospital,3.7,0
+ChIJ9-pDiEer2EcRnXvpZRuyFV0,AT Medics,"26-28 Streatham Pl, Brixton Hill, London SW2 4QY, United Kingdom",51.4463533,-0.1265988,hospital,4.3,0
+ChIJ01JQF-QFdkgRWNsGnXRUSH8,Springfield University Hospital,"61 Glenburnie Rd, London SW17 7DJ, United Kingdom",51.4369932,-0.1702364,hospital,2.2,0
+ChIJwzqIKYcDdkgRx4CZjQFaSp0,South London and Maudsley NHS Foundation Trust,"Michael Rutter Centre, London SE5 8AZ, United Kingdom",51.4682907,-0.0909383,hospital,1.5,0
+ChIJ4aCZfRoEdkgR4ORPpFKr8aE,Tulse Hill Practice,"4 Hardel Rise, Norwood, London SW2 3DX, United Kingdom",51.4407315,-0.1084756,hospital,2.6,0
+ChIJxzDFhNEadkgRfLwJRhLjAG8,King Edward VII's Hospital,"5-10 Beaumont St, London W1G 6AA, United Kingdom",51.5208573,-0.1503295,hospital,4.1,0
+ChIJ33qSj9QadkgRIVH1Wgfnazk,London clinic,"5 Harley St, London W1G 9QJ, United Kingdom",51.5169588,-0.1463451,hospital,3.5,0
+ChIJqRHlHrwadkgRPPNeBaFY4uE,The Wellington Hospital part of HCA Healthcare UK,"Wellington Hospital South Bldg, The, 8A Wellington Pl, London NW8 9LE, United Kingdom",51.5315695,-0.1714235,hospital,3.5,0
+ChIJi6nYLOEFdkgRJGEbGSYBKs0,South West London and St George's Mental Health NHS Trust,"Springfield University Hospital, 61 Glenburnie Rd, London SW17 7DJ, United Kingdom",51.435901,-0.167684,hospital,3.2,0
+ChIJde33x7sPdkgR9bu4O8Rl0Gw,Charing Cross Hospital,"Fulham Palace Rd, London W6 8RF, United Kingdom",51.4868889,-0.2195543,hospital,3.9,0
+ChIJ16zE0tMadkgRL_XleuaYzz0,University College Hospital at Westmoreland Street,"16-18 Westmoreland St, London W1G 8PH, United Kingdom",51.5196199,-0.1497263,hospital,4,0
+ChIJUfr4YmsCdkgRELaSMxNWBDw,University Hospital Lewisham,"Lewisham High St, London SE13 6LH, United Kingdom",51.4538715,-0.0173012,hospital,3.1,0
+ChIJMVjhsRkCdkgRDrCBwSeqjLQ,Bromley Road | Elysium Healthcare,"84-86 Bromley Rd, London SE6 2UR, United Kingdom",51.4392517,-0.0201766,hospital,4,0
+ChIJwwKKBNcadkgR6CahIF8eBDk,The Portland Hospital Hospital part HCA Healthcare UK,"205, 209 Great Portland St, London W1W 5AH, United Kingdom",51.5230072,-0.1442722,hospital,3.3,0
+ChIJOxC9_NMadkgR8iqY5NoSYxU,The Harley Street Clinic part HCA Healthcare UK,"35 Weymouth St, London W1G 8BJ, United Kingdom",51.5204137,-0.1478178,hospital,3.4,0
+ChIJ1-WHz_QPdkgR-vkhQLd210I,Cromwell Hospital,"164-178 Cromwell Rd, London SW5 0TU, United Kingdom",51.4951651,-0.1913567,hospital,3.8,0
+ChIJQ_Fc7VwEdkgRhMla923HFlY,Pulross Centre,"47A Pulross Rd, London SW9 8AE, United Kingdom",51.4642478,-0.1215862,hospital,2.7,0
+ChIJK-5bCloDdkgR9rCf6EHGtKQ,HCA UK at The Shard,"The Shard, 32 St Thomas St, London SE1 9BS, United Kingdom",51.5040493,-0.086312,hospital,3.2,0
+ChIJjc9of1MbdkgRwDocqBMWZe0,Barts Health NHS Trust,"The Royal Hospital, Whitechapel Rd, London E1 1BB, United Kingdom",51.5178708,-0.0588687,hospital,3.1,0
+ChIJ8YminyIZdkgRHy22trvKqMs,Priory Hospital North London,"Grovelands House, The Bourne, London N14 6RA, United Kingdom",51.632234,-0.1176901,hospital,2.8,0
+ChIJJSgM61gDdkgRzNh1qWqZtm4,Guys & St Thomas Nhs Foundation Trust,"200 Great Dover St, London SE1 4YB, United Kingdom",51.5007438,-0.09226419999999999,hospital,4.5,0
+ChIJS_iiscAEdkgRYsdrhxsYUk4,Guy's and St Thomas' NHS Foundation Trust,"St Thomas' Hospital, Westminster Bridge Rd, London SE1 7EH, United Kingdom",51.5003456,-0.1180423,hospital,3.7,0
+ChIJHw_yKLkEdkgRxcQyw7zdKXs,Evelina London Children's Hospital,"Westminster Bridge Rd, London SE1 7EH, United Kingdom",51.4983258,-0.1184793,hospital,4.5,0
+ChIJZ-1cargEdkgR2WGlpK_FM0s,General Lying-In Hospital,"York Rd, London SE1 7NZ, United Kingdom",51.5016437,-0.1168022,hospital,0,0
+ChIJO-i6hlkDdkgRfb0hwjY26G0,"Private Care at Guy's, London Bridge Hospital","Bridge Hospital Private Care at Guy's, Great Maze Pond, London SE1 9RT, United Kingdom",51.5022803,-0.0880097,hospital,4.1,0
+ChIJj-xlKFoDdkgRjy3q46hrymY,Guy's Cancer Centre,"Cancer Centre, Great Maze Pond, London SE1 9RT, United Kingdom",51.502435,-0.08787450000000001,hospital,4.4,0
+ChIJDYfhWKAFdkgRbFSt0zFd8Sk,Guy's and St Thomas' Hospital Private Healthcare,"St Thomas' Hospital, Westminster Bridge Rd, London SE1 7EH, United Kingdom",51.4990409,-0.1189714,hospital,5,0
+ChIJj9peT7wEdkgRZ-zGscOBvzk,Cygnet Churchill,"22 Barkham Terrace, London SE1 7PW, United Kingdom",51.497192,-0.1096509,hospital,2.7,0
+ChIJndev-lADdkgRLgxGYWf9iOQ,London Bridge Hospital :Cardiology,"The London Bridge Hospital, 27 Tooley St, London SE1 2PR, United Kingdom",51.5059834,-0.0860542,hospital,5,0
+ChIJySdZ7DYbdkgR0I1S8gTZGDk,Royal London Hospital for Integrated Medicine,"60 Great Ormond St, London WC1N 3HR, United Kingdom",51.521736,-0.1214039,hospital,4.3,0
+ChIJIe7CwX4EdkgRR_5XQoDkHZI,King's College Hospital Delivery Bay,"125-129 Coldharbour Ln, London SE5 9NU, United Kingdom",51.467415,-0.09618,hospital,0,0
+ChIJPU3ll3UFdkgRUBpUJHpQo44,"Venetian MRI, King's College Hospital","Caldecot Rd, London SE5 9RP, United Kingdom",51.46892640000001,-0.0942378,hospital,0,0
+ChIJgTmsb3AFdkgRytMOYgDCc7E,Kings college,"Brixton Hill, London SW2 9RS, United Kingdom",51.45667299999999,-0.1265643,hospital,0,0
+ChIJNwx2DmgEdkgRVyMcYvX5XV0,Pavilion Medical Centre,"9 Brighton Terrace, London SW9 8DJ, United Kingdom",51.4617668,-0.1165363,hospital,2.3,0
+ChIJK4W1TlkEdkgRojBp1NYjxAE,Beckett House Practice,"Grantham Rd, London SW9 9DL, United Kingdom",51.469626,-0.1235507,hospital,4.2,0
+ChIJ1T1KLIYEdkgRv_MjmPqquX8,Iveagh Surgery,"60 Patmos Rd, Vassal, London SW9 6AF, United Kingdom",51.47575430000001,-0.105217,hospital,0,0
+ChIJvxD8sXgEdkgRxqXmzrzcS04,NIHR/Wellcome King's Clinical Research Facility,"Ward and Lister Ward, 1st Floor Cheyne Wing, King's College Hospital, Denmark Hill, London, between Twining SE5 9RS, United Kingdom",51.46780140000001,-0.0938193,hospital,0,0
+ChIJZyF9j9QadkgR6qrgzDD2ONE,9 Harley Street,"9 Harley St, London W1G 9QY, United Kingdom",51.5171114,-0.1462771,hospital,4.2,0
+ChIJjfwJeakbdkgRzLmK1bUV6sg,Phoenix Hospital Group,"9 Harley St, London W1G 9QY, United Kingdom",51.5170313,-0.1465614,hospital,3.5,0
+ChIJi2fxA-sFdkgR4Etk4VjCFV8,NHS,"Blind Side Recordings Ltd, 12A Queenstown Rd, London SW8 3RX, United Kingdom",51.4668577,-0.1503093,hospital,0,0
+ChIJi3kwiNEadkgR2PV8xwxW0TY,Weymouth Street Hospital,"42-46 Weymouth St, London W1G 6NP, United Kingdom",51.5202319,-0.1505428,hospital,4.1,0
+ChIJ6_VVShsFdkgRs4c5j2jTw2Q,Chelsea Bridge Clinic,"368 Queenstown Rd, Nine Elms, London SW11 8NN, United Kingdom",51.4832839,-0.1479752,hospital,4.9,0
+ChIJeaxBrKccdkgRGAnW_ijcwu4,Moorfields Private Eye Hospital London,"9-11 Bath St, London EC1V 9LF, United Kingdom",51.52769499999999,-0.09129849999999999,hospital,3.9,0
+ChIJjbHNbkoDdkgRaznwEwWLb6s,Barts Health NHS Trust,"9 Prescot St, London E1 8PR, United Kingdom",51.5114552,-0.07014759999999999,hospital,3.4,0
+ChIJucg_wtEadkgRMravjXH47es,London Medical,"49 Marylebone High St, London W1U 5HJ, United Kingdom",51.5215355,-0.1516502,hospital,4,0
+ChIJURk8Kc4adkgRilIagE7HIeg,The Princess Grace Hospital part of HCA Healthcare UK,"42-52 Nottingham Pl, London W1U 5NY, United Kingdom",51.5226412,-0.1530504,hospital,4.1,0
+ChIJSWPgxagFdkgRGGZ5O1cQN4c,Queenstown Road Medical Practice,"The Surgery, 14 Queenstown Rd, London SW8 3RX, United Kingdom",51.4670357,-0.1503712,hospital,2.6,0
+ChIJ7fgkxuAEdkgRkMZTSQuoe6g,The Gordon Hospital,"Bloomburg St, London SW1V 2RH, United Kingdom",51.4922346,-0.135967,hospital,2.2,0
+ChIJq4b5HgMFdkgR-aCAnIJZQzM,The Kensington Wing,"Westminster Hospital, 3rd Floor, Chelsea and, 369 Fulham Rd., London SW10 9NH, United Kingdom",51.4839583,-0.1813397,hospital,4.5,0
+ChIJ15HX2EEFdkgRmjfwLM-2dwI,The Smart Clinics,"30 Thurloe Pl, South Kensington, London SW7 2JE, United Kingdom",51.4949597,-0.1738123,hospital,4.5,0
+ChIJD_0wnlsDdkgR-eDV-HkoNBI,Community Outpatients,"Unit 132-136 Metal Box Factory, 30 Great Guildford St, London SE1 0HS, United Kingdom",51.5046431,-0.0970603,hospital,1.4,0
+ChIJE52681ADdkgRnjGqDG0zhJA,London Arrhythmia Centre,"29 Tooley St, London SE1 2PR, United Kingdom",51.50590039999999,-0.08584649999999999,hospital,0,0
+ChIJl4cP-SkddkgR8OgPGTXYMdU,BMI The London Independent Hospital,"1 Beaumont Square, London E1 4NL, United Kingdom",51.5204508,-0.0464694,hospital,3.4,0
+ChIJbZR0DWwFdkgRKFtQ7tyEFiU,HCA UK at Sydney Street - Outpatient Centre,"102 Sydney St, London SW3 6NR, United Kingdom",51.48799380000001,-0.1687981,hospital,3,0
+ChIJ1fn6TpEEdkgRYY53YrtInBU,Kennington Osteopaths & Physiotherapy,"2 Cleaver St, London SE11 4DP, United Kingdom",51.488364,-0.110801,hospital,4.9,0
+ChIJfQIuLxcFdkgRpwq8gkIry_M,Lister Fertility Clinic,"Chelsea Bridge Rd, London SW1W 8RH, United Kingdom",51.486352,-0.1501664,hospital,3.5,0
+ChIJl7REWdIbdkgRMoyInGPQ6js,Mary’s hospital UK,"2 Merchant Sq, London W2 1AF, United Kingdom",51.5187848,-0.1726786,hospital,0,0
+ChIJB2K7VX8EdkgRaxgO1olIAVw,King's College Hospital NHS Foundation Trust : Cardiology,"Golden Jubilee, Denmark Hill, London SE5 9RS, United Kingdom",51.46839079999999,-0.0929673,hospital,3,0
+ChIJjdxLoycEdkgRK6TuVlmcRnM,Streatham High Practice,"1st, 2-8 Gracefield Gardens, London SW16 2ST, United Kingdom",51.4326164,-0.1279198,hospital,4.1,0
+ChIJQezehqgGdkgRyg9wfIN4M2I,Knights Hill Surgery,"West Norwood Health and Leisure Centre, 25 Devane Way, London SE27 0DF, United Kingdom",51.432525,-0.106057,hospital,4.4,0
+ChIJQcaatVoEdkgRs-P1tpUYByo,Sandmere NHS Practice,"10-14 Sandmere Rd, London SW4 7QJ, United Kingdom",51.4626186,-0.1282861,hospital,3.7,0
+ChIJP-k_RVAEdkgRpPwYRrioc5U,Medicspot Clinic Clapham,"31 Clapham High St, London SW4 7TR, United Kingdom",51.4642756,-0.1310406,hospital,3.4,0
+ChIJ97x4N7gFdkgRPJAFpp5B4ss,Kiki's Children's Clinic,"124 Thurleigh Rd, London SW12 8TU, United Kingdom",51.4539184,-0.1533632,hospital,4.7,0
+ChIJmcF1cBgbdkgROO0N72V3twM,St Pancras Hospital,"4 Saint Pancras Way Inpatient Unit, South Wing, Pancras Rd, London NW1 0PE, United Kingdom",51.5365741,-0.1314263,hospital,3.7,0
+ChIJnzTTU6YcdkgRCWPihH6laYg,"Cayton Street Clinic, Moorfields Eye Hospital","4-12 Cayton St, London EC1V 2NT, United Kingdom",51.5276477,-0.0906547,hospital,5,0
+ChIJdc5GyowFdkgR7xTlTg--5Po,The Smart Clinics - Wandsworth,"15 Bellevue Rd, London SW17 7EG, United Kingdom",51.4453484,-0.1662959,hospital,4.5,0
+ChIJhzIzD5UFdkgR1UsbKCLVPW4,The Battersea Clinic Limited,"25 Patcham Terrace, Nine Elms, London SW8 4EX, United Kingdom",51.4765121,-0.1471094,hospital,0,0
+ChIJez91THIFdkgRvX-3OEaFFzw,"Dental Center,St Thomas Hospital","London SE1 7EH, United Kingdom",51.4985957,-0.1198219,hospital,0,0
+ChIJM_dkt2gFdkgRbQ2by4Zxb2M,Royal Brompton Centre for Sleep,"1 Dudmaston Mews, London SW3 6JH, United Kingdom",51.4901644,-0.1738221,hospital,5,0
+ChIJU9eu_rIadkgRQBl8NbXFQ-E,Imperial College Healthcare NHS Trust,"The Bays, S Wharf Rd, London W2 1NY, United Kingdom",51.5178108,-0.1743487,hospital,2.9,0
+ChIJ69PzmOYFdkgR6FoFhzXWuxQ,South West London Recovery College,"Building 32, Springfield University Hospital, 61 Glenburnie Rd, London SW17 7DJ, United Kingdom",51.4383306,-0.1739419,hospital,5,0
+ChIJffeixygbdkgR0vDP0R-fFC0,University College Hospital Grafton Way Building,"1 Grafton Way, London WC1E 6AS, United Kingdom",51.5243119,-0.1356849,hospital,3.9,0
+ChIJ9Tt_dG0FdkgRUXH5yfZRLHE,Dr Maria Jalmbrant,"11 Sloane Ct W, London SW3 4TD, United Kingdom",51.4895388,-0.1573714,hospital,0,0
+ChIJiT8WuRoFdkgRZI8UbnE6LYk,Miss Marianne Shiew,"369 Fulham Rd., London SW10 9NH, United Kingdom",51.4839583,-0.1813397,hospital,0,0
+ChIJQdAFSfQFdkgRwjTFIDba1dI,Dr Owen Woghiren,"369 Fulham Rd., London SW10 9NH, United Kingdom",51.4839583,-0.1813397,hospital,0,0
+ChIJ7aZ5I6AFdkgRNlCD4zOP5qs,Mr Gianluca Bonanomi,"369 Fulham Rd., London SW10 9NH, United Kingdom",51.4839583,-0.1813397,hospital,0,0
+ChIJFf47-RwFdkgRQWZW1a2JFJU,Mr Julian Norman-Taylor,"369 Fulham Rd., London SW10 9NH, United Kingdom",51.4839583,-0.1813397,hospital,0,0
+ChIJ54BhVCgFdkgRikui2rLwgX0,"Paediatric Dept, First Floor,Lift D","369 Fulham Rd., London SW10 9NH, United Kingdom",51.4843862,-0.1811986,hospital,0,0
+ChIJXSa9TN4IdkgREteR4OzfG90,Kingston Hospital Outpatients - Raynes Park Health Centre,"Ground Floor, 1 Lambton Rd, Raynes Park, London SW20 0LW, United Kingdom",51.4101052,-0.2306687,hospital,3.1,0
+ChIJMT5VfX4GdkgRFaIkDbD0h-0,Thrale Road Hospital Hostel,"40 Thrale Rd, London SW16 1NX, United Kingdom",51.4265523,-0.1432026,hospital,0,0
+ChIJDTU9g9gGdkgRIUoI4rpW9_I,Croydon University Hospital,"530 London Rd, Thornton Heath CR7 7YE, United Kingdom",51.38992229999999,-0.1102978,hospital,2.9,0
+ChIJderafVMbdkgRbqKLGU1YHis,Barts Health,"W Smithfield, London EC1A 7BE, United Kingdom",51.51722909999999,-0.09994779999999999,hospital,4.4,0
+ChIJxwXn9OMFdkgRKmKqUwZotHc,Phoenix (Building 6),"Hebdon Rd, London SW17 7NJ, United Kingdom",51.43585789999999,-0.1712481,hospital,0,0
+ChIJ07g6VuQFdkgRGeBdF-Cexa4,Ghodse (Building 17),"College Gardens, London SW17 0AN, United Kingdom",51.4382596,-0.172804,hospital,5,0
+ChIJMVpb_ucGdkgRG_OKOMy-D4E,NHS,"Thornton Heath CR7 6JE, United Kingdom",51.39928270000001,-0.117208,hospital,0,0
+ChIJ6-7W4ggGdkgRgra_wQWV-zI,St George's Hospital-Paediatric Neurology & Surgery,"Blackshaw Rd, London SW17 0QT, United Kingdom",51.4275648,-0.1730409,hospital,4.6,0
+ChIJ96LZLIYEdkgR-83yBqE6hsE,Minet Green Health Practice,"Akerman Health Centre, 60 Patmos Rd, Vassal, London SW9 6AF, United Kingdom",51.4757544,-0.105217,hospital,2.4,0
+ChIJtZyHt9AFdkgRwIU7PSutra4,"The Venetian Building, King's College Hospital","Caldecot Rd, London SE5 9RP, United Kingdom",51.4690607,-0.0938065,hospital,5,0
+ChIJs3Mg79IadkgRsiTRqVlQ0SE,Schoen Clinic Orthopaedic and Spinal Hospital London,"66 Wigmore St, London W1U 2SB, United Kingdom",51.5163175,-0.1498299,hospital,4.7,0
+ChIJCSmU4zcGdkgRaytSuYKLl98,The Wilson Hospital,"Cranmer Rd, London CR4 4LD, United Kingdom",51.3973193,-0.162985,hospital,3.6,0
+ChIJMZF668IFdkgRT-SECgN9Ir0,12 Old Hospital Close,"London SW12 8SS, United Kingdom",51.4429496,-0.1624398,hospital,5,0
+ChIJs9UTJTkJdkgRvbdcLvSMVSc,New Victoria Hospital,"184 Coombe Lane West, Kingston upon Thames KT2 7EG, United Kingdom",51.415848,-0.25396,hospital,4.1,0
+ChIJy4fFeeUDdkgRD-9W9j4TlW8,Kings college hospital se5 9rs,"8-18 London Bridge St, London SE1 9SG, United Kingdom",51.5049558,-0.0874736,hospital,0,0
+ChIJvwxIkVkDdkgR1mnMme9yEzA,Guys Hospital Urology - Nuffield House,"18 Newcomen St, London SE1 1UL, United Kingdom",51.5027722,-0.0898364,hospital,3.7,0
+ChIJM7K5v1MDdkgRChUk6h4RakU,DocTap Private GP,"6 Hay's Ln, London SE1 2HB, United Kingdom",51.505554,-0.0849373,hospital,4.8,0
+ChIJS6FJsCIDdkgRSgNPuieBaok,Mr Sachin Malde,"27 Tooley St, London SE1 2PR, United Kingdom",51.50634909999999,-0.08589089999999999,hospital,0,0
+ChIJE52681ADdkgRArXM_nNEoDo,London Breast Centre,"27 Tooley St, London SE1 2PR, United Kingdom",51.506353,-0.0859177,hospital,5,0
+ChIJ1-JYhdAFdkgRMrIt1SWmvEo,Neeraj Kumar Garg - Private Breast Cancer Surgeon in London,"King's Private, The Guthrie Private Clinic King's College Hospital, Denmark Hill, London SE5 9RS, United Kingdom",51.4678832,-0.0944083,hospital,0,0
+ChIJWZ68VX8EdkgRCYPRD3uWnwg,King's College Hospital NHS Foundation Trust : Paediatric Neurology,"Hambleden Wing, Denmark Hill, London SE5 9RS, United Kingdom",51.4679665,-0.09381969999999999,hospital,0,0
+ChIJXVJ57JQEdkgRwFARE9TSagk,Child & Psychiatric Day Hospital,"35 Black Prince Rd, London SE11 6JJ, United Kingdom",51.49013129999999,-0.1154805,hospital,1,0
+ChIJkUOfu5MEdkgRmJMX1DoqQeg,6P Biotech,"239-241 Kennington Ln, London SE11 5QU, United Kingdom",51.4869553,-0.1134531,hospital,0,0
+ChIJBaHT48AEdkgRG1rS1R-3Ivs,"Prideaux Building (King's College London, St Thomas' Campus)","163 Lambeth Palace Rd, London SE1 7EH, United Kingdom",51.49748080000001,-0.1198805,hospital,4.7,0
+ChIJ073IXMcEdkgRa7j7geKVnbA,Gassiot House,"Lambeth Palace Rd, London SE1 7EP, United Kingdom",51.50004329999999,-0.1179776,hospital,5,0
+ChIJB_JeV1cDdkgRK8HghzjZ9UE,Guy's and St Thomas' Hospital,"20 St Thomas St, London SE1 9RS, United Kingdom",51.50340449999999,-0.08654529999999999,hospital,4.3,0
+ChIJwwsPsQscdkgRYA0MDK_0Mu4,NHS Haringey,"55a St Ann's Rd, London W11 4SH, United Kingdom",51.50953,-0.2163311,hospital,0,0
+ChIJrbGY6zgbdkgRBW_89hiXffg,"Royal National Throat, Nose and Ear Hospital","47-49 Huntley St, London WC1E 6DG, United Kingdom",51.5223702,-0.1338463,hospital,3.5,0
+ChIJw74q4hMbdkgRBELsPpN1r1E,The Harley Street Hospital,"19 Harley St, London W1G 9QJ, United Kingdom",51.5174421,-0.1465176,hospital,5,0
+ChIJ1z22H2QDdkgRV9P0fRxEiRk,Aylesbury Medical Centre at Nexus Health Group,"Thurlow St, London SE17 2XE, United Kingdom",51.4883947,-0.086159,hospital,1.9,0
+ChIJjYDhDeEDdkgRPQsE4Mxp298,The Decima Street Surgery,"6 Decima St, London SE1 4QX, United Kingdom",51.4972335,-0.0828264,hospital,2.6,0
+ChIJadUTNH4DdkgRCSL4R7_Jk_k,Parkside Medical Centre,"52 Camberwell Green, London SE5 7AQ, United Kingdom",51.47576489999999,-0.0925623,hospital,1.6,0
+ChIJG-3CR5wEdkgRI-BrOiqxtIA,Penrose Surgery,"33 Penrose St, London SE17 3DW, United Kingdom",51.4872617,-0.09746579999999999,hospital,3.9,0
+ChIJVcPJWLIadkgRLcFJAO-ZRfM,Imperial Private Healthcare,"S Wharf Rd, London W2 1BL, United Kingdom",51.5175914,-0.1744197,hospital,2.8,0
+ChIJaT7q4tAadkgRfnvBboCCor0,The London Clinic,"20 Devonshire Pl, London W1G 6BW, United Kingdom",51.5230212,-0.1498656,hospital,4.1,0
+ChIJq6x84JUFdkgR8zS3ct79Rio,Bolingbroke Medical Centre,"Wakehurst Rd, London SW11 6BF, United Kingdom",51.4564209,-0.1680349,hospital,2.3,0
+ChIJO0XQWDYbdkgRytl9ESBjqtg,Great Ormond Street Hospital for Children,"Great Ormond Street, London WC1N 3JH, United Kingdom",51.5218626,-0.1207462,hospital,4.6,0
+ChIJAV9spCgddkgRrwybcQy9L9Y,Mile End Hospital,"via A104, Bancroft Rd, London E1 4DG, United Kingdom",51.5250734,-0.0421445,hospital,3.4,0
+ChIJx-E5t-0RdkgR4e82E6NJvGk,Central Middlesex Hospital,"Acton Ln, London NW10 7NS, United Kingdom",51.530944,-0.2690778,hospital,3.3,0
+ChIJ4Y_x42cFdkgROXdtXj2T4xA,Dr Natalia Burgess,"9 Thurlow Park Rd, Norwood, London SE21 8JB, United Kingdom",51.4411212,-0.1052965,hospital,0,0
+ChIJcyxoJBsEdkgRCiENBM6zcss,The Deerbrook Surgery,"216 Norwood Rd, Norwood, London SE27 9AW, United Kingdom",51.43834320000001,-0.1062986,hospital,4.8,0
+ChIJ1xQfzK0GdkgRYM54zlZxEyY,Crown Dale Medical Centre,"61 Crown Dl, Norwood, London SE19 3NY, United Kingdom",51.42275369999999,-0.1008068,hospital,2.2,0
+ChIJt2BX5l4FdkgRcqM9kUJPO7o,Minnie Kidd House (Continuing Care),"Hazelbourne Rd, London SW12 9NU, United Kingdom",51.4517116,-0.14536,hospital,4.5,0
+ChIJpwY4J2EFdkgRgrTaykOtOUA,Roodlane Medical part of HCA Healthcare UK - Chelsea Clinic,"102 Sydney St, London SW3 6NR, United Kingdom",51.48799380000001,-0.1687981,hospital,0,0
+ChIJadfAXWkFdkgRreQwHYpHT4U,Royal Brompton National Heart and Lung Hospital,"Sydney St, London SW3 6NP, United Kingdom",51.4898202,-0.1706823,hospital,0,0
+ChIJNxJgCIcFdkgRWFB1_Da7svU,Margaret Thatcher Infirmary,"Royal Hospital Chelsea, London SW3 4TE, United Kingdom",51.4889051,-0.1559782,hospital,5,0
+ChIJFdMtVBoFdkgRL3M8aneg3NU,Urgent Care Centre - The Lister Hospital,"The Lister Hospital, Ground Floor, Chelsea Bridge Rd, London SW1W 8RH, United Kingdom",51.4864264,-0.1504034,hospital,4.2,0
+ChIJs9gkjW4FdkgRNfGm5eJtOgg,Chelsea Oupatient Centre,"280 King's Rd, London SW3 5AW, United Kingdom",51.4868199,-0.1716161,hospital,3.1,0
+ChIJi54l72gFdkgRtjuAar8KLf0,South Brompton Hospital Block,"227 A308, London SW3 6JB, United Kingdom",51.4902891,-0.1740617,hospital,0,0
+ChIJaXKoKMYFdkgRTiM_1XHm0iA,Catalina,"Royal Hospital Chelsea, London SW3, United Kingdom",51.4875836,-0.1575795,hospital,0,0
+ChIJbc8Ohh4RdkgRrWoOpteCZis,Lister Hospital,"Chelsea Bridge Rd, London SW1W 8RH, United Kingdom",51.4865115,-0.1501511,hospital,5,0
+ChIJ7cS_-VkEdkgR33bFMmi2LQ8,Mindfulness Based Experiential Therapy Centre,"378 Clapham Rd, London SW9 9AF, United Kingdom",51.46788979999999,-0.1283514,hospital,0,0
+ChIJqSjSi6UFdkgRElBSYDs0Flw,Clapham sw11,"45 Lavender Hill, London SW11 5QW, United Kingdom",51.4660042,-0.1527276,hospital,3.5,0
+ChIJ2UZDds0cdkgR2nzlVKDwfPY,Royal London Hospital Clinic 3,"Stepney Way, London E1 2DP, United Kingdom",51.5176993,-0.0592776,hospital,2.5,0
+ChIJiQl-xNAadkgRYJdy9OHor-4,The Trustees Of London Clinic Ltd,"1 Park Square W, London NW1 4LJ, United Kingdom",51.52376289999999,-0.1482652,hospital,5,0
+ChIJ_6XJY1wEdkgRa0mSLB_U-qk,Oak House,"108 Landor Rd, London SW9 9NU, United Kingdom",51.4652193,-0.1220849,hospital,0,0
+ChIJjzK1tbQFdkgRVacbSnzkiZ0,King's College London - Clinical Trials Facility,"Denmark Hill Campus, Wellcome Foundation Building King’s College London School of Medicine, London SE5 9PJ, United Kingdom",51.4676503,-0.09523469999999999,hospital,0,0
+ChIJcUNIUsMDdkgRau4xDUd_5Y4,Wellcome Respiratory Medicine,"Denmark Hill, London SE5 9RJ, United Kingdom",51.4677036,-0.09507499999999999,hospital,0,0
+ChIJ1zRgzYADdkgRTjcSjt_bT9w,Helicopter Pad Kings College Hospital,"111 Denmark Hill, London SE5 8AQ, United Kingdom",51.467886,-0.09182499999999999,hospital,0,0
+ChIJm8cPuYgFdkgRhKaubdPkBuw,Variety Children's Hospital - King's College Hospital,"Hambleden Wing, London SE5 9PJ, United Kingdom",51.4681675,-0.0944349,hospital,0,0
+ChIJNQ2sRs8FdkgRe9Nu9mLD8zg,Pulros,"London SW9 8ER, United Kingdom",51.4612794,-0.1156148,hospital,0,0
+ChIJw5tQZYADdkgRqzoBEar6SYE,Camberwell Building,"104 Denmark Hill, London SE5 8RX, United Kingdom",51.4710215,-0.09313529999999999,hospital,0,0
+ChIJI5jJqYEDdkgRqiCsb6WS7UY,The Michael Rutter Centre,"De Crespigny Park, London SE5 8AB, United Kingdom",51.4698575,-0.0902499,hospital,4.5,0
+ChIJFfhFe38EdkgRnSJt31z1kMQ,Community Midwives Centre,"45, 47 Caldecot Rd, London SE5 9RP, United Kingdom",51.4697392,-0.09449289999999999,hospital,3.6,0
+ChIJZ36Rf-gDdkgRexI6270kSFA,Jennie Lee House Annex - Occupational Health,"34 Love Walk, London SE5 8AD, United Kingdom",51.4710604,-0.0908804,hospital,3,0
+ChIJY17nB4EDdkgR44RzU3O9a80,The HYPE Project,"Department of Psychological Medicine, Institute of Psychiatry, Psychology & Neuroscience, King’s College London, 16 De Crespigny Park, London SE5 8AB, United Kingdom",51.4702275,-0.09014269999999999,hospital,0,0
+ChIJkSDZYdQDdkgRIX-2L8O23Bg,"Daniel Walsh FRCS, Consultant Neurosurgeon","Kings College Hospital, London SE5 9RS, United Kingdom",51.4684568,-0.0917567,hospital,0,0
+ChIJQ-v2Ufmo2EcRlzMQMAogt3A,Queen Elizabeth Hospital,"Stadium Rd, London SE18 4QH, United Kingdom",51.4778139,0.0505587,hospital,2.8,0
+ChIJ14EVWNEadkgRKG8XVqhTanw,LOC part of HCA Healthcare UK,"95-97 Harley St, London W1G 6AF, United Kingdom",51.5207304,-0.1480833,hospital,4.5,0
+ChIJHe74BK0cdkgRKJJSnR5HHhA,Ramsay Health Care UK,"Level 18, Tower 42, 25 Old Broad St, London EC2N 1HQ, United Kingdom",51.5152902,-0.0840905,hospital,3.3,0
+ChIJL47H9E4AdkgRS8akjTn1Xlo,Bethlem Royal Hospital,"Monks Orchard Rd, Beckenham BR3 3BX, United Kingdom",51.3819697,-0.031766,hospital,3.3,0
+ChIJt-IBmrkcdkgR1Zch8HlI_yw,Mildmay Mission Hospital,"19 Tabernacle Gardens, London E2 7DZ, United Kingdom",51.527691,-0.075251,hospital,3.6,0
+ChIJheAVaa0bdkgRWW_lCzgta18,"Gastroenterology Clinic 4B, Level 4, The Whittington Hospital","Magdala Ave, London N19 5NF, United Kingdom",51.56662600000001,-0.139484,hospital,4,0
+ChIJ38lNQloDdkgRLgTe1s3o4lM,Guy's Hospital Deliveries,"49 Weston St, London SE1 3RB, United Kingdom",51.50280739999999,-0.0856473,hospital,0,0
+ChIJT5oV37EEdkgRsFx1GyL9EcQ,MedicSpot Clinic Southwark,"9 Upper Ground, London SE1 9LP, United Kingdom",51.5079994,-0.1059604,hospital,4,0
+ChIJUZstffYDdkgRQ5SckRPt3XU,Mr Ahmed Ibrahim,"The Shard, 32 St Thomas St, London SE1 9BS, United Kingdom",51.5036144,-0.0874644,hospital,0,0
+ChIJ-br_Fm0DdkgRpWW0mULCvhE,Mr Glyn Evans,"27 Tooley St, London SE1 2PR, United Kingdom",51.50634909999999,-0.08589089999999999,hospital,0,0
+ChIJU4cnUtcDdkgRHzhpQj5DmsA,Mr Prakash Saha,"27 Tooley St, London SE1 2PR, United Kingdom",51.50634909999999,-0.08589089999999999,hospital,0,0
+ChIJo1K-abcEdkgROE8nsCnAdWE,Royal Waterloo Hospital for Children and Women,"London SE1 8TX, United Kingdom",51.5053367,-0.1130989,hospital,5,0
+ChIJPdKDdWoDdkgRv2J3QUMzQTI,Artesian Health Centre,"138 Grange Rd, London SE1 3GF, United Kingdom",51.4940126,-0.0748593,hospital,2.5,0
+ChIJJwRTHtsDdkgR7mM8x1DO2sY,Dr Prashanth Reddy,"27 Tooley St, London SE1 2PR, United Kingdom",51.50634909999999,-0.08589089999999999,hospital,0,0
+ChIJcS1R7oAFdkgROWVcNGIAz1E,Hammersmith & Fulham Primary Care Trust,"5 - 7 Parsons Grn, London SW6 4UL, United Kingdom",51.4743205,-0.2000123,hospital,4.8,0
+ChIJsYAR_zkbdkgRqE5p5rkUy_w,Hunter Street Health Centre,"8 Hunter St, London WC1N 1BN, United Kingdom",51.525585,-0.1232694,hospital,3.4,0
+ChIJ9dXA868FdkgRu7Tth5-wSS4,St Thomas Hospital Delivery Bay,"Unnamed Road, London, United Kingdom",51.5002271,-0.1163234,hospital,0,0
+ChIJY4-9ELwadkgRehgnRvoti0Q,Urgent Care Centre - The Wellington Hospital,"The Wellington Hospital, 8A Wellington Pl, London NW8 9LE, United Kingdom",51.53163929999999,-0.1714686,hospital,3.6,0
+ChIJTeIauiQFdkgRDQ03NbB_3OI,Medicspot Clinic Battersea,"12 Queenstown Rd, London SW8 3RX, United Kingdom",51.4668735,-0.1503351,hospital,0,0
+ChIJU2jFay4HdkgRv4MfWcEk4Z8,West Valley Hospital,"Level 9, Interchange, 81 - 85 Station Rd, Croydon CR0 2RD, United Kingdom",51.3799041,-0.1005203,hospital,4.6,0
+ChIJdemiBDYBdkgRro_rraVcDqE,MedLife HealthCare Limited,"277 S Norwood Hill, London SE25 6DP, United Kingdom",51.4095671,-0.08707630000000001,hospital,1,0
+ChIJGZOKJnMBdkgR4GMUQstcaGY,Yeoman House,"63 Croydon Rd, London SE20 7TS, United Kingdom",51.4107743,-0.0552604,hospital,4.1,0
+ChIJ2cahUvoAdkgRs2dBFhpL_gY,BMI Shirley Oaks Hospital,"Poppy Lane Shirley Oaks Village, Croydon CR9 8AB, United Kingdom",51.382269,-0.05649299999999999,hospital,4.6,0
+ChIJ15u8l2wCdkgRa_y3_IlrHsw,University Hospital Lewisham Urgent Care Centre,"368 Lewisham High St, London SE13 6LQ, United Kingdom",51.45373499999999,-0.0169796,hospital,3.3,0
+ChIJS-tEHCEBdkgRshcRqK5xW0Y,Sam healthcare Care Services Limited,"Unit 129, Regent House Business Centre, 291-307 Kirkdale, London SE26 4QD, United Kingdom",51.4273331,-0.0560088,hospital,0,0
+ChIJO0NZ21sFdkgRvCtMz5hdmZc,Medicspot Clinic Stockwell Wandsworth Road,"240 Wandsworth Rd, Nine Elms, London SW8 2JS, United Kingdom",51.4746741,-0.1324922,hospital,0,0
+ChIJdyB761ADdkgRAskuIUYd3X8,London Bridge Urology Ltd,"The Shard, F6 HCA UK Outpatients & Diagnostics at the Shard, St Thomas St, London SE1 9BS, United Kingdom",51.5043046,-0.0864942,hospital,3.8,0
+ChIJVUl1P8gDdkgRDKnv7U2Zqgg,The Cardiac Clinic,"Sixth Floor, 27-29 Tooley St, London SE1 2PR, United Kingdom",51.5058763,-0.0857276,hospital,5,0
+ChIJf7szHfYEdkgRx8qODd4moXc,Binfield Road Surgery,"1 Binfield Rd, London SW4 6TB, United Kingdom",51.47256900000001,-0.1235747,hospital,4.7,0
+ChIJ1YsElzYbdkgRLSZM1c5RHVI,The Italian Hospital,"London WC1N 3AJ, United Kingdom",51.5209984,-0.1216606,hospital,4,0
+ChIJq9janmQFdkgRqTegA8EzNSw,Chelsea and Westminster Hospital: Paediatric Burns Unit,"Westminster Hospital, 369 Fulham Rd., London SW10 9NH, United Kingdom",51.4848552,-0.1815499,hospital,5,0
+ChIJW9evsJoDdkgRob8NqZ-VDxs,Dr Phillip Harrison,"27-29 Tooley Street, 4th floor Emblem House, London Bridge Hospital, London SE1 2PR, United Kingdom",51.5062375,-0.0859173,hospital,0,0
+ChIJ19oQVccDdkgRf41hjs9drrY,Professor Michael A G Heneghan,"27-29 Tooley Street, 4th floor Emblem House, London Bridge Hospital, London SE1 2PR, United Kingdom",51.5062375,-0.0859173,hospital,0,0
+ChIJQV7QvvkTdkgRy_O1yetXF84,London North West University Healthcare NHS Trust,"Northwick Park Hospital, A404 Watford Rd, Harrow HA1 3UJ, United Kingdom",51.57544230000001,-0.322738,hospital,3.4,0
+ChIJJfo-EdcHdkgRJje08t1KuMk,St Helier Hospital,"Wrythe Ln, Sutton, Carshalton SM5 1AA, United Kingdom",51.3804071,-0.1847452,hospital,3.2,0
+ChIJs8peNGQNdkgRf9GMzqDKDwI,Ealing Hospital,"601 Uxbridge Rd, Southall UB1 3HW, United Kingdom",51.50752259999999,-0.3464892,hospital,2.6,0
+ChIJixwz1bwTdkgRkDSUOIF4S08,Northwick Park Hospital,"Watford Rd, Harrow HA1 3UJ, United Kingdom",51.5753934,-0.3201713,hospital,2.6,0
+ChIJIyhSi1sHdkgRB_0AzK2KPpE,Royal Marsden Hospital,"Clyde Rd, Wallington SM6, United Kingdom",51.3597182,-0.1447515,hospital,0,0
+ChIJNwJ9FbkEdkgRQgL2c690ShI,Waterloo Health Centre,"5 Lower Marsh, London SE1 7RJ, United Kingdom",51.5002575,-0.1136668,hospital,3,0
+ChIJkf6HJ1oGdkgR17EsrhYxY3M,Tamworth House Medical Centre,"341 Tamworth Ln, Mitcham CR4 1DL, United Kingdom",51.4003903,-0.1445064,hospital,2,0
+ChIJK-wr6XwadkgRUF0vzjVZEBw,Queen Mary's Hospital,"Roehampton Ln, London SW15 5PN, United Kingdom",51.4550104,-0.241534,hospital,4.1,0
+ChIJLcZWIx8BdkgRAM0pWIAz0e0,Country Park Practice,"3 Enmore Rd, London SE25 5NT, United Kingdom",51.392971,-0.0676576,hospital,1.6,0
+ChIJT7Xz4O8DdkgRdhU-idmYS40,Women's Health Dulwich,"Women's Health Dulwich, 17 Croxted Rd, Norwood, London SE21 8SZ, United Kingdom",51.43662639999999,-0.0907467,hospital,4.5,0
+ChIJmbFHwzYbdkgRrr74MrhrCxA,National Hospital for Neurology and Neurosurgery,"Queen Square, London WC1N 3BG, United Kingdom",51.5221725,-0.1219024,hospital,4.3,0
+ChIJC79bP2sOdkgRpDJ-_TKCIQM,Chiswick Medical Centre,"Bond House, 347-353 Chiswick High Rd, Chiswick, London W4 4HS, United Kingdom",51.4927556,-0.270207,hospital,3.5,0
+ChIJhUheAjAcdkgRLwQQdEA0B08,Tottenham Hale Kidney and Diabetes Centre,"Daneland Walk, London N17 9NE, United Kingdom",51.5882014,-0.05768210000000001,hospital,3.9,0
+ChIJNyjcxLYYdkgRJNYHVbMPzTQ,Chase Farm Hospital,"127 The Ridgeway, Enfield EN2 8JL, United Kingdom",51.66689239999999,-0.1028125,hospital,3.7,0
+ChIJoUPDXJRrdkgRFP__QMvoFsE,Mount Vernon Hospital,"Rickmansworth Rd, Northwood HA6 2RN, United Kingdom",51.61539759999999,-0.445507,hospital,4.3,0
+ChIJC0HLmT4idkgRCusnyfTpCWo,Cuffley Village Surgery,"Maynard Pl, Cuffley, Potters Bar EN6 4JA, United Kingdom",51.7084713,-0.1129195,hospital,3.4,0
+ChIJG-s3e44hdkgRPHjLC4R23Ao,Valley View Surgery,"682 Goff's Ln, Goff's Oak, Waltham Cross EN7 5ET, United Kingdom",51.71038919999999,-0.0852312,hospital,3.1,0
+ChIJAwX1sJt6dkgRMW3z3lzQAis,Royal Berkshire Hospital,"London Rd, Reading RG1 5AN, United Kingdom",51.4492924,-0.9581843999999999,hospital,3.8,0
+ChIJAxD1r1b2dkgRJjvEwSF1RcA,Stoke Mandeville Hospital,"Mandeville Rd, Aylesbury HP21 8AL, United Kingdom",51.7984842,-0.8009624999999999,hospital,3.5,0
+ChIJle2VwGQFdkgRM6CiY4b0VPg,South Kensington & Chelsea Mental Health Centre,"1 Nightingale Pl, London SW10 9NG, United Kingdom",51.484373,-0.1802553,hospital,2,0
+ChIJ9SypxmQFdkgRW_8tNj0mexw,Chelsea and Westminster Hospital Delivery Bay,"Mental Health Centre, 1 Nightingale Pl, London SW10 9NG, United Kingdom",51.4842946,-0.1801443,hospital,0,0
+ChIJoQKPn3YFdkgRTDrlIhWm6XQ,Battersea Bridge House,"1 Randall Cl, London SW11 3TG, United Kingdom",51.4769029,-0.1688487,hospital,1,0
+ChIJf6h-MIEDdkgRbf1vgwkGffg,Fetal Medicine Research Institute,"16-20 Windsor Walk, London SE5 8BB, United Kingdom",51.46863579999999,-0.0898639,hospital,3.7,0
+ChIJRaE7Kc4adkgRLr-AA2NI0Iw,Urgent Care Centre - The Princess Grace Hospital,"The Princess Grace Hospital, 42-52 Nottingham Pl, London W1U 5NY, United Kingdom",51.52267190000001,-0.1529963,hospital,3.4,0
+ChIJlzHD8T-p2EcRsI7vvFmPfpI,NHS Nightingale Hospital London,"Royal Victoria Dock, 1 Western Gateway, London E16 1XL, United Kingdom",51.5085434,0.0299219,hospital,3,0
+ChIJ-aTbexUPdkgRcm3JHhLGbcE,Royal Hospital For Neuro-disability,"West Hill, London SW15 3SW, United Kingdom",51.45162699999999,-0.2141958,hospital,3.8,0
+ChIJHfVWZmMFdkgRzL6pq3AiR_I,Chelsea and Westminster Hospital: Childrens High Dependency Unit,"369 Fulham Rd., London SW10 9NH, United Kingdom",51.4847715,-0.1825601,hospital,5,0
+ChIJgyyxZvMOdkgRJHmz3JVfI74,Barnes Hospital,"S Worple Way, London SW14 8SU, United Kingdom",51.4671554,-0.2564825,hospital,3.5,0
+ChIJc_LZ9m8bdkgRsouHPxXsYLk,Great Ormond Street Hospital EPR Office,"Barclay House, 37 Queen Square, London WC1N 3BH, United Kingdom",51.5211974,-0.1211722,hospital,0,0
+ChIJW8xBawIddkgRxklmz5w6YJM,Homerton University Hospital,"Homerton Row, London E9 6SR, United Kingdom",51.5507442,-0.04569810000000001,hospital,3.5,0
+ChIJiet6Kueu3kcRra8fpHoenVI,Victoria Walmer & District War Memorial Hospital,"London Rd, Deal CT14 9UA, United Kingdom",51.219277,1.3897729,hospital,4.7,0
+ChIJlZ04MCgbdkgR3LrsnLrmMxA,London Allergy and Immunology Centre Harley Street Allergy Clinic,"1 Harley St, London W1G 9QD, United Kingdom",51.5169479,-0.1462625,hospital,4.1,0
+ChIJ-zrsKLkEdkgR4gt3Bg6ypvs,3D Heart,"St Thomas' Hospital, Westminster Bridge Rd, London SE1 7EH, United Kingdom",51.4997422,-0.1141971,hospital,0,0
+ChIJaak_jZEDdkgRCv75FDaRWsc,Nicolette -sw,"Glover House, Nunhead Ln, London SE15 3UR, United Kingdom",51.4626723,-0.0638195,hospital,0,0
+ChIJ79CyI7YadkgRy98KgBo3SkY,Nightingale Hospital,"11-19 Lisson Grove, London NW1 6SH, United Kingdom",51.52188229999999,-0.1651063,hospital,2.7,0
+ChIJmfPFddMadkgR9UBu3DnM99w,RB&HH Specialist Care Outpatients and Diagnostics,"77 Wimpole St, London W1G 9RU, United Kingdom",51.5174321,-0.1480556,hospital,4.4,0
+ChIJK6EJFGYDdkgRySCfgwa9ouo,Mr Amir Darakhshan,"27 Tooley St, London SE1 2PR, United Kingdom",51.50634909999999,-0.08589089999999999,hospital,0,0
+ChIJK9tbb2YDdkgRZh9BLammdZE,Dr Thomas Smith,"32 St Thomas St, London SE1 9BS, United Kingdom",51.5036144,-0.0874644,hospital,0,0
+ChIJr3msVrwadkgRxArBI7iNU5I,"The Wellington Hospital, North","27 Circus Rd, London NW8 6PD, United Kingdom",51.532871,-0.173095,hospital,3.9,0
+ChIJ383GG9MadkgRNoAQepOGJH0,DocTap Private GP,"John Bell & Croyden, 50-54 Wigmore St, London W1U 2AU, United Kingdom",51.5164748,-0.1491497,hospital,3.9,0
+ChIJA-WHrqccdkgRbHoR-6sLpwk,John Saunders Suite,"7-9 Bath St, London EC1V 9LF, United Kingdom",51.5276572,-0.0907912,hospital,0,0
+ChIJCzc8qOEDdkgRpfN7o0v4ALo,Hospital,"kings college hospital, London SE5, United Kingdom",51.4687303,-0.09152679999999999,hospital,5,0
+ChIJY_pyXGoFdkgRwRlYNnnZ-Wk,Mr Arjun Shankar,"Chelsea Bridge Rd, London SW1W 8RH, United Kingdom",51.4864916,-0.150419,hospital,0,0
+ChIJYzZ3UAEDdkgRtMSEqJs6j1w,Dr Deepak Joshi,"27 Tooley St, London SE5 9RS, United Kingdom",51.50634909999999,-0.08589089999999999,hospital,0,0
+ChIJZVcEfdCn2EcRq7dHSlrznEw,Newham University Hospital,"Glen Rd, London E13 8SL, United Kingdom",51.5227134,0.0369946,hospital,2.3,0
+ChIJrQg4SLwedkgRN9ZytIrC3JM,North Middlesex University Hospital,"Sterling Way, London N18 1QX, United Kingdom",51.6131618,-0.0735832,hospital,2.4,0
+ChIJh8EVQzUFdkgR_ebiJHu327c,My uncles basement,"3 Ramsden Rd, London SW12 8QY, United Kingdom",51.44474349999999,-0.1522041,hospital,5,0
+ChIJ5aTuzV-n2EcR46hYS4Xx2ms,Whipps Cross University Hospital,"Whipps Cross Rd, London E11 1NR, United Kingdom",51.5778197,0.0032546,hospital,2.8,0
+ChIJU1ubBOwZdkgRgqY-xz9zw3g,UCLH,"235 Euston Rd, London NW1 2PG, United Kingdom",51.5247615,-0.1366086,hospital,2,0
+ChIJ32T-sM0cdkgRn2cDrNB__xA,The Royal London Dental Hospital,"Turner St, London E1 1FR, United Kingdom",51.51831800000001,-0.0612688,hospital,4.2,0
+ChIJlZ04MCgbdkgR1yprFJLHRj4,London Allergy and Immunology Centre @ City Medical Centre,"17 St Helen's Pl, London EC3A 6DG, United Kingdom",51.5152331,-0.0818069,hospital,0,0
+ChIJw2UFvGQFdkgR6Raj4-dZHAk,Chelsea and Westminster Hospital Medical Day Unit,"London SW10 9TR, United Kingdom",51.484357,-0.180901,hospital,0,0
+ChIJub_WrNYadkgRYORi4L-2dd8,Transform Hospital Group,"8 Upper Wimpole St, London W1G 6LH, United Kingdom",51.5206256,-0.1468143,hospital,2.3,0
+ChIJF8IbDOUFdkgRl0jFSTwrSR8,Bicknell (Building 19),"College Gardens, London SW17 0AN, United Kingdom",51.4397666,-0.1731937,hospital,0,0
+ChIJ_4Jr9D0FdkgRNjxINyX8PAA,Wilbraham Place Practice,"9A Wilbraham Pl, London SW1X 9AE, United Kingdom",51.4941569,-0.1570047,hospital,5,0
+ChIJsWi8HXAbdkgRl6n1iDRWa34,Royal National ENT and Eastman Dental Hospitals,"47-49 Huntley St, London WC1E 6DG, United Kingdom",51.5226023,-0.1344079,hospital,3.5,0
+ChIJcwhyHloDdkgRiZknviDkERw,Cardiology Out Patients,"Cardiology 1 St Floor Southwark Wing Great Maze Pond, London SE1 9RT, United Kingdom",51.503521,-0.0877009,hospital,5,0
+ChIJR5H-35UFdkgRwQOfXIcQzJA,Mobility Hospital,"Northcote Rd, London SW11 6QP, United Kingdom",51.45707849999999,-0.1656443,hospital,0,0
+ChIJLfyw7QYGdkgRcD2chSEwPeI,St George’s University Hospitals NHS Foundation Trust,"Blackshaw Rd, London SW17 0QT, United Kingdom",51.4271006,-0.1795349,hospital,0,0
+ChIJA3vOL0gFdkgRdf9Lj20a5_w,Springfield Reception Building 10,"Unnamed Road, London SW17 7NL, United Kingdom",51.43448420000001,-0.1725699,hospital,0,0
+ChIJU-e_71ADdkgRV6Z5vmo8vnY,Dr. Ravi Rajakariar,"27 Tooley St, London SE1 2PR, United Kingdom",51.50635699999999,-0.0858243,hospital,5,0
+ChIJf_Pck1kDdkgRG-FcEWCzEz8,Sleep disorders centre 3rd floor- Nuffield House,"Kings College London, 18-20 Newcomen St, London SE1 1UL, United Kingdom",51.50286029999999,-0.0890706,hospital,3.3,0
+ChIJ8XMjOboEdkgRycGmAdCgsAU,London Doctors Clinic Private GP,"Room 101, 117 Waterloo Rd, London SE1 8UL, United Kingdom",51.502739,-0.110243,hospital,4.4,0
+ChIJP1Rj7VADdkgRdwCbQEND8Wc,Private Care at Guy’s,"Great Maze Pond, London SE1 9RT, United Kingdom",51.5031651,-0.08705399999999999,hospital,5,0
+ChIJsxyY4yEbdkgRMfxXauBAGB0,Rutherford @Harley Street,"9 Harley St, London W1G 9QY, United Kingdom",51.5170313,-0.1465614,hospital,0,0
+ChIJAQKF9ZAFdkgRlyPw6iGaacE,Dr Michael Potter,"203 Fulham Rd., London SW3 6JJ, United Kingdom",51.4908039,-0.1726436,hospital,0,0
+ChIJa4UFxosFdkgRrgDk1z80I9Y,Miss Marie-Klaire Farrugia,"369 Fulham Rd., London SW10 9NH, United Kingdom",51.4839583,-0.1813397,hospital,0,0
+ChIJK2CKHX4EdkgRR_fdSi1X0jY,The Kingdom Church,"93 Camberwell Station Rd, London SE5 9JJ, United Kingdom",51.4727731,-0.0987126,hospital,4,0
+ChIJhz_ooLMadkgRbRbUmaX-jPo,Fracture clinic at St Mary's Hospital,"S Wharf Rd, London W2 1NY, United Kingdom",51.5177993,-0.1724198,hospital,3.7,0
+ChIJK1p1sZMFdkgRjj1HUhHNe1g,Hepatologie institute,"105-111, A2217, London SE5 9NT, United Kingdom",51.4694252,-0.0966311,hospital,0,0
+ChIJmxhRGpwFdkgRjujwYviYWuk,The Falcon Road Medical Centre,"47 Falcon Rd, London SW11 2PH, United Kingdom",51.4684178,-0.1706748,hospital,3.1,0
+ChIJNe39cMkYdkgRf_0OaHBBRIE,BMI The Cavell Hospital,"Cavell Dr, Uplands Park Rd, London EN2 7PR, United Kingdom",51.6588903,-0.1031127,hospital,4,0
+ChIJg0XW9mwFdkgRsF-m1M0G0c4,Violet Melchett Health Centre,"30 Flood Walk, London SW3 5RR, United Kingdom",51.4868574,-0.166554,hospital,3.8,0
+ChIJ3-Hj91kDdkgRlNE2oe6649g,Guy's Hospital : Cardiology,"Great Maze Pond, London SE1 9RT, United Kingdom",51.5033176,-0.08756200000000001,hospital,0,0
+ChIJB6M2pm4FdkgR928p84DKcNE,Thamesbrook Rehabilitation Unit,"2 Dovehouse St, London SW3 6LA, United Kingdom",51.48792710000001,-0.1703226,hospital,0,0
+ChIJAQApcBYFdkgRa2MFtVWYkx4,thrive,"2 Lower Sloane St, London SW1W 8BJ, United Kingdom",51.4920424,-0.1577629,hospital,0,0
+ChIJW2mjkm4FdkgRPMtv2rD9a3o,"Moore Medical Practice, Private GP Chelsea, West London","272 King's Rd, London SW3 5AW, United Kingdom",51.4867438,-0.1712562,hospital,4.1,0
+ChIJb6erFmYDdkgR_PVZKdRKAHc,Professor Barbara McGowan,"The Shard, 32 St Thomas St, London SE1 9BS, United Kingdom",51.5036144,-0.0874644,hospital,0,0
+ChIJMe--6zsFdkgRyH9gsrNLSWM,Dr Michael Webb-Peploe,"57-61 Newington Causeway, London SE1 6BD, United Kingdom",51.4977856,-0.09824619999999999,hospital,0,0
+ChIJKdninbEadkgRHrsKNuvlN1I,Paddington Green Health Centre,"4 Princess Louise Cl, London W2 1LQ, United Kingdom",51.5212671,-0.1734101,hospital,3.1,0
+ChIJf3dAZt4bdkgRLx18LUZesEA,Clinic Center Hair Transplant & Plastic Surgery & Dentistry - London,"Spaces Victoria 25 Wilton Road, Victoria, London, SW1V 1LW, London EC1N 2SW, United Kingdom",51.49514809999999,-0.1423581,hospital,4.5,0
+ChIJTwksoQwOdkgRmKrWt3ueLBk,Europeanbiz Healthcare,"7 Bell Yard, London WC2A 2JR, United Kingdom",51.51426679999999,-0.111757,hospital,0,0
+ChIJE52681ADdkgRXAiOa7Re6I0,London Digestion,"London Bridge Hospital Emblem House, 27 Tooley Street, London SE1 2PR, United Kingdom",51.5060317,-0.0861673,hospital,0,0
+ChIJg2-Rua4DdkgR4Zaob9uDuQk,Roodlane Medical part of HCA Healthcare UK - The Shard Clinic,"HCA Healthcare UK Outpatients & Diagnostics Centre The Shard, St Thomas St, London SE1 9BS, United Kingdom",51.5040645,-0.0862608,hospital,3,0
+ChIJpVFNSSgbdkgRcu1X7DqRNFs,The Private Clinic Hospital - Fitzroy Surgery,"Adam House, 1 Fitzroy Square, London W1T 5HF, United Kingdom",51.5230004,-0.1391921,hospital,4.8,0

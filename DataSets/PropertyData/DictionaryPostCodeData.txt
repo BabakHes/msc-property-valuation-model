@@ -1,0 +1,40 @@
+'code'	String			
+'total_for_rent'	Numeric	PropertyData 	demand-rent	statistical average and confidence intervals of property sold prices.
+'transactions_per_month'	Numeric	PropertyData 	demand-rent	statistical average and confidence intervals of property sold prices.
+'turnover_per_month'	Numeric	PropertyData 	demand-rent	statistical average and confidence intervals of property sold prices.
+'months_of_inventory'	Numeric	PropertyData 	demand-rent	statistical average and confidence intervals of property sold prices.
+'days_on_market'	Numeric	PropertyData 	demand-rent	statistical average and confidence intervals of property sold prices.
+'sold_points_analysed'	Numeric	PropertyData 	/sold-prices 	statistical average and confidence intervals of property sold prices.
+'sold_average'	Numeric	PropertyData 	/sold-prices 	statistical average and confidence intervals of property sold prices.
+'sold_70pc_rangeMIN'	Numeric	PropertyData 	/sold-prices 	statistical average and confidence intervals of property sold prices.
+'sold_70pc_rangeMAX'	Numeric	PropertyData 	/sold-prices 	statistical average and confidence intervals of property sold prices.
+'sold_80pc_rangeMIN'	Numeric	PropertyData 	/sold-prices 	statistical average and confidence intervals of property sold prices per square foot.
+'sold_80pc_rangeMAX'	Numeric	PropertyData 	/sold-prices 	statistical average and confidence intervals of property sold prices per square foot.
+'sold_90pc_rangeMIN'	Numeric	PropertyData 	/sold-prices 	statistical average and confidence intervals of property sold prices per square foot.
+'sold_90pc_rangeMAX'	Numeric	PropertyData 	/sold-prices 	statistical average and confidence intervals of property sold prices per square foot.
+'sold_100pc_rangeMIN'	Numeric	PropertyData 	/sold-prices 	statistical average and confidence intervals of property sold prices per square foot.
+'sold_100pc_rangeMAX'	Numeric	PropertyData 	/sold-prices 	statistical average and confidence intervals of property sold prices per square foot.
+'sold_sqf_points_analysed'	Numeric	PropertyData 	/sold-prices-per-sqf 	statistical average and confidence intervals of property sold prices per square foot.
+'sold_sqf_average'	Numeric	PropertyData 	/sold-prices-per-sqf 	statistical average and confidence intervals of property sold prices per square foot.
+'sold_sqf_70pc_rangeMIN'	Numeric	PropertyData 	/sold-prices-per-sqf 	statistical average and confidence intervals of property sold prices per square foot.
+'sold_sqf_70pc_rangeMAX'	Numeric	PropertyData 	/sold-prices-per-sqf 	statistical average and confidence intervals of live property asking rents 
+'sold_sqf_80pc_rangeMIN'	Numeric	PropertyData 	/sold-prices-per-sqf 	statistical average and confidence intervals of live property asking rents 
+'sold_sqf_80pc_rangeMAX'	Numeric	PropertyData 	/sold-prices-per-sqf 	statistical average and confidence intervals of live property asking rents 
+'sold_sqf_90pc_rangeMIN'	Numeric	PropertyData 	/sold-prices-per-sqf 	statistical average and confidence intervals of live property asking rents 
+'sold_sqf_90pc_rangeMAX'	Numeric	PropertyData 	/sold-prices-per-sqf 	statistical average and confidence intervals of live property asking rents 
+'sold_sqf_100pc_rangeMIN'	Numeric	PropertyData 	/sold-prices-per-sqf 	statistical average and confidence intervals of live property asking rents 
+'sold_sqf_100pc_rangeMAX'	Numeric	PropertyData 	/sold-prices-per-sqf 	statistical average and confidence intervals of live property asking rents 
+'rents_points_analysed'	Numeric	PropertyData 	/rents	statistical average and confidence intervals of live property asking rents 
+'rents_average'	Numeric	PropertyData 	/rents	statistical average and confidence intervals of live property asking rents 
+'rents_70pc_rangeMIN'	Numeric	PropertyData  	/rents	 
+'rents_70pc_rangeMAX'	Numeric	PropertyData  	/rents	 
+'rents_80pc_rangeMIN'	Numeric	PropertyData  	/rents	
+'rents_80pc_rangeMAX'	Numeric	PropertyData  	/rents	
+'rents_90pc_rangeMIN'	Numeric	PropertyData  	/rents	
+'rents_90pc_rangeMAX'	Numeric	PropertyData  	/rents	
+'rents_100pc_rangeMIN'	Numeric	PropertyData  	/rents	
+'rents_100pc_rangeMAX'	Numeric	PropertyData  	/rents	
+'ptal'	str 	PropertyData  	/ptal	For a full UK postcode within Greater London, returns the PTAL score.
+'flood_risk'	str 	PropertyData  	/flood-risk	 the risk of flooding from rivers and sea
+'mean_area	Numeric	PropertyData  	Floor-areas	Total_floor_sq
+

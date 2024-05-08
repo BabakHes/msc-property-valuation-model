@@ -1,0 +1,52 @@
+Postcode	The Postcode that is the subject of this row in the format as it would be used in an address i.e. SE1 2AB
+In Use?	  Yes/No Flag to indicate that this Postcode is currently in use. Refer to columns [Introduced] and [Terminated] for further information
+Latitude	Latitude of centroid of the Postcode for this row in decimal format i.e. 51.50205
+Longitude	Longditude of centroid of the Postcode for this row in decimal format. i.e -0.07864. Negative values are those to the West of the zero (Greenwich) meridian
+Easting	Co-ordinate of the East-West plane on the British National Grid.
+Northing	Co-ordinate of the North-South plane on the British National Grid
+Grid Ref	Ordnance Survey grid reference in format xxnnnnnn i.e. TQ365751.
+County	Name of the Ceremonial County that this Postcode sits within. Some of these counties map directly to County Councils. Part of the hierarchy of: County→District→Ward
+District	Name of the Local authority district (LAD)/unitary authority (UA)/ metropolitan district (MD)/ London borough (LB)/ council area (CA)/district council area (DCA) that this Postcode sits within. Part of the hierarchy of: County→District→Ward
+Ward	Name of the local authority Ward that this Postcode sits within. Part of the hierarchy of: County→District→Ward
+District Code	  Code of the District that this Postcode sits within. Part of the hierarchy of: County→District→Ward
+Ward Code	Code of the Ward that this Postcode sits within. Part of the hierarchy of: County→District→Ward
+Country	Name of the Country that this Postcode sits within. Values are: England, Scotland, Wales, Northern Ireland
+County Code	Code of the County that this Postcode sits within. Part of the hierarchy of: County→District→Ward
+Constituency	Name of the Paliamentary Constituency that this Postcode sits within
+Introduced	Date that this Postcode was introduced
+Terminated	Date that this Postcode was withdrawn from use (empty when the postcode is still in use)
+Parish	Name of the Parish this this Postcode sits within. n.b Not all areas are designated a Parish
+National Park	Name of the National Park that this Postcode sits within, where applicable
+Population	Population of the area covered by the Postcode (from the 2011 census)
+Households	Number of Households in the area covered by the Postcode (from the 2011 census)
+Built up area	Name of the built-up area this postcode is part of
+Built up sub-division	Name of the built-up area sub-division this postcode is part of
+Lower layer super output area	Name of the Lower Layer Super Output Area (MSOA) that this Postcode sits within. Refer to: [LSOA Code
+Rural/urban	  Description of the area covered by the Postcode i.e. Urban major conurbation, Remote small town, Urban city and town etc.
+Region	Broad region of the UK i.e. London, South West, West Midlands, Yorkshire and The Humber etc. Used as ITL/NUTS level 1
+Altitude	Height above sea level measured in Metres
+London zone	Transport for London (TfL) Travel Zone indicator (London area only)
+LSOA Code	Code for the Lower Layer Super Output Area (LSOA) that this Postcode sits within.
+Local authority	County Council area that this Postcode sits within. For Unitary Authorties, London etc this value will not be populated. 
+MSOA Code	  Code for the Middle Layer Super Output Area (MSOA) that this Postcode sits within.
+Middle layer super output area	Name of the Middle Layer Super Output Area (MSOA) that this Postcode sits within. Refer to: [MSOA Code]
+Parish Code	Code of the Parish that this Postcode sits within. n.b Not all areas are designated a Parish. e.g. E43000213
+Census output area	Code for the Census Output Area e.g. E00016581
+Constituency Code	Code of the Paliamentary Constituency that this Postcode sits within. e.g. E14000789
+Index of Multiple Deprivation	The deprivation rank for the postcode, where 1 is the most deprived.
+Quality	A Data Quality Flag for the current row. Values are as follows:
+User Type	Shows whether the postcode is a small or large user.
+Last updated	The date the data for this postcode was last updated. The data is refreshed every 3 months when the ONS release the postcode directory
+Nearest station	The nearest train station to the postcode. For London, also includes Underground and tram stops
+Distance to station	The distance in kilometres to the nearest station from the postcode
+Postcode area	The area of the postcode (e.g. KT)
+Postcode district	The district of the the postcode (e.g. KT1)
+Police force	The name of the police force responsible for this postcode
+Water company	The name of the water company responsible for this postcode
+Plus Code	Plus Code of the postcode
+Average Income	Average household income of the MSOA that the postcode is located in
+Sewage Company	If the sewage company is different from the water company, this column will contain the name of the sewage company
+Travel To Work Area	The area in which the bulk of the population work
+ITL level 2	TL (formerly NUTS) is a system of geograhical sub-divisions defined by the EU. There are 3 levels, the Region column defines level 1. ITL is the post-Brexit name, although the regions currently remain the same
+ITL level 3	As above
+

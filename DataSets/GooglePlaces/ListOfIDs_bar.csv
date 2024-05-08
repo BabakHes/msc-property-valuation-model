@@ -1,0 +1,816 @@
+place_id,name,formatted_address,lat,lng,types,rating,price_level
+ChIJSaGTpm0FdkgRFl9KY74LgtQ,The Phene,"9 Phene St, London SW3 5NY, United Kingdom",51.48517400000001,-0.167575,bar,4.1,3
+ChIJLfvloxQFdkgRclKMMs0mKkY,Phoenix Chelsea,"23 Smith St, London SW3 4EE, United Kingdom",51.4885957,-0.1626743,bar,4.3,2
+ChIJ_w7dMEAFdkgRho7ZjVLQo2Q,Jak's Bar,"87, 89 Walton St, London SW3 2HT, United Kingdom",51.4942978,-0.1674042,bar,4.3,0
+ChIJ2RoPX2oFdkgR5-RZSDKEX3o,Barts,"Chelsea Cloisters, Sloane Ave, London SW3 3DW, United Kingdom",51.4927001,-0.1671767,bar,4.5,3
+ChIJ5YAiW2UFdkgRxAuqGLK1fTo,Beaufort House Chelsea,"354 King's Rd, London SW3 5UZ, United Kingdom",51.484533,-0.176005,bar,4.3,3
+ChIJr4iX4UAFdkgRcYZxTEOqsMo,The Bunch Of Grapes,"207 Brompton Rd, London SW3 1LA, United Kingdom",51.4975739,-0.1671896,bar,4.2,2
+ChIJj8f1WcoEdkgRXxGjyNHSQ4g,The Enterprise,"35 Walton St, London SW3 2HU, United Kingdom",51.49525389999999,-0.166064,bar,4.4,2
+ChIJr98oHxMFdkgRaXFZEKDrLho,"The Surprise, Chelsea","6 Christchurch Terrace, London SW3 4AJ, United Kingdom",51.4862239,-0.1630676,bar,4.3,2
+ChIJi3VBxWEFdkgRufUDnWWtqBA,Albert's at Beaufort House,"354 King's Rd, London SW3 5UZ, United Kingdom",51.4845416,-0.1759967,bar,3.4,0
+ChIJJ8rwnmoFdkgRBWhVbmSvlWw,The Admiral Codrington,"17 Mossop St, London SW3 2LY, United Kingdom",51.493629,-0.166078,bar,4,2
+ChIJl-OC2WwFdkgR6hNaM_c7Rcc,Coopers Arms,"87 Flood St, London SW3 5TB, United Kingdom",51.4861891,-0.1651992,bar,4.2,2
+ChIJy0kSILsFdkgR2wJ3eC_FuEw,Callooh Callay Chelsea,"316-318 King's Rd, London SW3 5UH, United Kingdom",51.4856284,-0.1738633,bar,4.7,0
+ChIJCfYDlWgFdkgRe6ewfzZEOG8,The Hunter's Moon,"86 Fulham Rd., South Kensington, London SW3 6HR, United Kingdom",51.4900583,-0.1748019,bar,4.7,0
+ChIJ7dsWCHIFdkgR0l78z0NcBrs,No. Fifty Cheyne,"50 Cheyne Walk, London SW3 5LR, United Kingdom",51.4833537,-0.1694099,bar,4.6,4
+ChIJRcNU-DgFdkgR7HboK6X8cmc,Buddha-Bar London,"145 Knightsbridge, London SW1X 7PA, United Kingdom",51.50154819999999,-0.1620723,bar,4,3
+ChIJZfH9F3sFdkgRex0W5PkTaIg,The Bletchley,"459 King's Rd, London SW10 0LJ, United Kingdom",51.482024,-0.179767,bar,4.6,2
+ChIJcVCnY2QFdkgRrpfE4yOZP0w,Kings Arms Chelsea,"190 Fulham Rd., London SW10 9PN, United Kingdom",51.4861389,-0.1809035,bar,4.2,2
+ChIJOf5i2BkFdkgRCZlpbsEzrJs,The Orange Public House & Hotel Victoria,"37 Pimlico Rd, London SW1W 8NE, United Kingdom",51.490537,-0.1523569,bar,4.2,0
+ChIJrT6qPRYFdkgRIoMRoviZMkQ,The Botanist Sloane Square,"7 Sloane Square, London SW1W 8EE, United Kingdom",51.492929,-0.156944,bar,4,3
+ChIJRRwPrH0FdkgRfxCSBjOtGGQ,Jak's,"533 King's Rd, London SW10 0TZ, United Kingdom",51.4802915,-0.1852694,bar,4.2,3
+ChIJxdFoeBEFdkgRdbH7f7dQHik,Zefi Bar Kings Road,"533 King's Rd, London SW10 0TZ, United Kingdom",51.4801187,-0.1851862,bar,4.4,0
+ChIJGZBnhGsFdkgRBVMuGtt0Tt8,The Builders Arms,"13 Britten St, London SW3 3TY, United Kingdom",51.4891324,-0.1677381,bar,4.2,2
+ChIJxehLG24FdkgRcxH_UQ6_x4A,The Cross Keys,"1 Lawrence St, London SW3 5NB, United Kingdom",51.483493,-0.17052,bar,4.2,2
+ChIJ-_qszRUFdkgR-2iXF3_L5-c,Manicomio Chelsea Restaurant,"83-85 Duke Of York Square, London SW3 4LY, United Kingdom",51.4912002,-0.1590714,bar,4.1,3
+ChIJh5vb88sEdkgRI8qFuKKmCEk,Big Easy Bar BQ & Crabshack,"12 Maiden Ln, London WC2E 7NA, United Kingdom",51.5107215,-0.1230007,bar,4.1,2
+ChIJBdHk4qUcdkgRMmA0n16wrfA,Loves Company,"Unit 1, Imperial Hall, 104-122 City Rd, London EC1V 2NR, United Kingdom",51.5261359,-0.088018,bar,3.9,2
+ChIJBScuPAAQdkgRJ-QXobzR8To,TAB X TAB,"Westbourne House, 14-16 Westbourne Grove, London W2 5RH, United Kingdom",51.51580380000001,-0.1895474,bar,4.5,2
+ChIJt-FhFEobdkgRsZ7wA4gzsqI,Old Nick,"20-22 Sandland St, London WC1R 4PZ, United Kingdom",51.519103,-0.11638,bar,4.1,2
+ChIJ0XQDVW8EdkgRZngFBR2njZQ,The Joint,"Brixton Village, Unit 87 Coldharbour Ln, London SW9 8PR, United Kingdom",51.4623552,-0.1116852,bar,4.4,1
+ChIJIRtBuyUNdkgRlHqivGmqZMs,Gunnersbury Arms,"Popes Ln, London W5 4NH, United Kingdom",51.499378,-0.2865783,bar,5,0
+ChIJuRV6wkYFdkgRkABhV-gvZgU,SW16 Bar & Kitchen,"5 Streatham High Rd, London SW16 1EF, United Kingdom",51.4371033,-0.1271258,bar,4.7,0
+ChIJD2emr8AHdkgRavLQw5QD_jA,S Lounge,"540 Streatham High Rd, London SW16 3QF, United Kingdom",51.4176689,-0.1270902,bar,3.6,0
+ChIJT0Tap4IGdkgRFr41SiUlx7U,The White Lion SW16,"232 Streatham High Rd, London SW16 1BB, United Kingdom",51.430756,-0.129649,bar,4.3,2
+ChIJ2fCVI5AGdkgR-ovtHBbXlKU,The Bull Streatham,"498 Streatham High Rd, London SW16 3QB, United Kingdom",51.4194257,-0.1284189,bar,4.3,2
+ChIJX0ZnyGwFdkgRHaMyyRuq6yI,Carmine,"20-21, The High Parade, Streatham High Rd, London SW16 1EX, United Kingdom",51.4339317,-0.1278657,bar,4.3,0
+ChIJd6byaYMGdkgRlv6Um8vq45o,Hideaway,"2 Empire Mews, Stanthorpe Rd, London SW16 2BF, United Kingdom",51.4269031,-0.1304424,bar,4.6,0
+ChIJzQAYCCYEdkgREA8qvMjDU_A,Hamlet Bar Lounge & Restaurant,"10 Streatham High Rd, London SW16 1DB, United Kingdom",51.43776039999999,-0.1274477,bar,4.1,2
+ChIJyQr9NYUGdkgROrcBCWUBxBI,The Mere Scribbler,"426 Streatham High Rd, London SW16 3PX, United Kingdom",51.42161660000001,-0.1291521,bar,4.2,2
+ChIJPxFHGyYEdkgRRBuwKehbdzU,The Rebel Inn Streatham,"78A Streatham High Rd, London SW16 1BS, United Kingdom",51.4354269,-0.1283856,bar,4.3,2
+ChIJmbS2niUEdkgRLtiCn95MNGg,Porky's Wine Bar,"23-27 Sternhold Ave, London SW2 4PA, United Kingdom",51.438585,-0.12798,bar,4.2,1
+ChIJCcNkzYgGdkgR8dPjET2qYIc,The Railway,"2 Greyhound Ln, London SW16 5SD, United Kingdom",51.4183667,-0.1347294,bar,4.3,2
+ChIJC4BYQoUGdkgRkseYaSWoy-s,The Rabbit Hole,"151-153 Greyhound Ln, London SW16 5NJ, United Kingdom",51.4217597,-0.1298031,bar,4.4,2
+ChIJFWYgqUUHdkgR_CblG_NN_uU,The Vale at Streatham,"1A Lilian Rd, London SW16 5HN, United Kingdom",51.4128062,-0.1421729,bar,4.4,0
+ChIJKegzXeYHdkgRlX3INZi7Cvs,Pratts and Payne,"103 Streatham High Rd, London SW16 1HJ, United Kingdom",51.4301974,-0.1297406,bar,4.2,0
+ChIJvauKvoIGdkgRxZ4fEa6AEnI,The Holland Tringham,"107-109 Streatham High Rd, London SW16 1HJ, United Kingdom",51.4301071,-0.1298651,bar,4.1,1
+ChIJd_CploIGdkgRFiUGwLtO7og,Mikrus,"264 Streatham High Rd, London SW16 1HS, United Kingdom",51.4297962,-0.1307261,bar,4.5,2
+ChIJAVe5rYMGdkgRBli5xdTNoF8,The Manor Arms,"13 Mitcham Ln, London SW16 6LQ, United Kingdom",51.4280242,-0.1323491,bar,4.2,2
+ChIJQYL7aJ0GdkgRZejf81kg9L0,The Leigham Well,"1-3 Wellfield Rd, London SW16 2BT, United Kingdom",51.4300632,-0.1270833,bar,4.5,0
+ChIJhY9r-yUEdkgRLeGFTZD1jks,Five Bells,"68-70 Streatham High Rd, London SW16 1DA, United Kingdom",51.436291,-0.128092,bar,4.3,2
+ChIJ93EEjYcGdkgRfm_eQuvIFak,Bar 111,"111 Blegborough Rd, London SW16 6DL, United Kingdom",51.4218731,-0.1398333,bar,4.1,0
+ChIJ3eGRXkQEdkgRdp706vxQ5vc,The Beast of Brixton,"89 Acre Ln, Brixton Hill, London SW2 5TN, United Kingdom",51.4594444,-0.1247222,bar,4.4,2
+ChIJhw_huzsEdkgR4imPN2iGaH0,Crown & Sceptre,"2a Streatham Hill, London SW2 4AH, United Kingdom",51.4450663,-0.124835,bar,4,1
+ChIJgRPeq0EEdkgR9aZlK4vfAq0,White Horse Brixton,"94 Brixton Hill, London SW2 1QN, United Kingdom",51.4547668,-0.1199061,bar,4.3,2
+ChIJ64ISDGsEdkgRtuLcNOgTm2M,The Sympathetic Ear,"37 Tulse Hill, London SW2 2TJ, United Kingdom",51.4541407,-0.1130471,bar,4.7,2
+ChIJXfsWY0QEdkgRpuATOYzfRyU,Hope & Anchor,"123 Acre Ln, Brixton Hill, London SW2 5UA, United Kingdom",51.4595852,-0.126678,bar,4,2
+ChIJsc02i00EdkgR7Fs9lfcfnXU,@ Bar,"165 Clapham High St, London SW4 7SS, United Kingdom",51.462105,-0.13709,bar,3.6,2
+ChIJlTqStmsEdkgRwSmSKYCK2OQ,Effra Social,"89 Effra Rd, London SW2 1DF, United Kingdom",51.4556826,-0.1135047,bar,4.3,1
+ChIJ9xwiu2gEdkgRQdTDjYN8JJA,Dogstar,"389 Coldharbour Ln, London SW9 8LQ, United Kingdom",51.461714,-0.111912,bar,3.7,2
+ChIJNx7vk0IEdkgRc7UEHYoIzsU,Barrio Brixton,"30 Acre Ln, London SW2 5SG, United Kingdom",51.4607603,-0.1184218,bar,4.5,2
+ChIJddX5NWUEdkgRY2Mt4RmkpJA,Market House,"Top Floor, 443 Coldharbour Ln, London SW9 8LN, United Kingdom",51.4614036,-0.1140324,bar,3.9,2
+ChIJd1AUy2kEdkgRnvKUPvhHZPw,Gremio de Brixton,"St Matthew's Church, Basement, Brixton Hill, London SW2 1JF, United Kingdom",51.4597985,-0.1161297,bar,4.1,2
+ChIJezZ-ITkEdkgR-eF4i3KP1zU,The Sultan,"37 New Park Rd, Brixton Hill, London SW2 4DU, United Kingdom",51.4479601,-0.1259793,bar,4.3,2
+ChIJ2Yb3z0IEdkgR6jBR_dEuzrk,Trinity Arms,"45 Trinity Gardens, London SW9 8DR, United Kingdom",51.4617733,-0.1192944,bar,4.2,2
+ChIJmQusS28EdkgRRo6ZJZDOIKk,Courtesan,"The Metropolis, 69-73 Atlantic Rd, London SW9 8PU, United Kingdom",51.4611925,-0.1111244,bar,4.2,2
+ChIJl_H3YWgEdkgRLmgJBWwykIA,SatayBar,"447 Coldharbour Ln, London SW9 8LP, United Kingdom",51.4613889,-0.1144444,bar,3.8,2
+ChIJoScX4WgEdkgRBpZkNUQQxdM,The Effra Hall tavern,"38 Kellett Rd, London SW2 1EB, United Kingdom",51.4599068,-0.1131324,bar,4.4,0
+ChIJt1JhJHMEdkgRq1tQDtatEyc,Off The Cuff - OTC Bar,"Arch 645, 301-303 Railton Rd SE24 0JN, United Kingdom",51.4530106,-0.1021349,bar,4.3,0
+ChIJheqUZWgEdkgR3nHU8cmZpt0,"Prince of Wales, Brixton","467- 469 Brixton Rd, London SW9 8HH, United Kingdom",51.4615105,-0.1149433,bar,3.5,2
+ChIJ-daVs2gEdkgRu-bJFav1nOk,Lounge Brixton,"58 Atlantic Rd, London SW9 8PY, United Kingdom",51.4615294,-0.1116324,bar,4.5,2
+ChIJBdbG2wcFdkgRHsj5o9_ZvCQ,Lost In Brixton,"Brixton Village, Coldharbour Ln, London SW9 8PS, United Kingdom",51.4627305,-0.1118392,bar,3.9,0
+ChIJeTYfikwFdkgRCe7dk9fhAxk,BrewDog Brixton,"419 Coldharbour Ln, London SW9 8LH, United Kingdom",51.4615398,-0.113236,bar,4.3,2
+ChIJq-uxj2EEdkgRufx1MttGaEg,Brixton Jamm,"261 Brixton Rd, Myatts Field South, London SW9 6LH, United Kingdom",51.4706997,-0.1120747,bar,3.5,2
+ChIJPTGfhlAEdkgRdd0USuGKqNU,The Clapham North,"409 Clapham Rd, London SW9 9BT, United Kingdom",51.465399,-0.1293298,bar,4,2
+ChIJKdiD_XsEdkgRSSAEeWaf5co,The Junction,"171 Coldharbour Ln, London SE5 9PA, United Kingdom",51.4670892,-0.0995698,bar,4.6,1
+ChIJp7GN-l0EdkgR0bDvab-Q7II,The Queen’s Head,"144 Stockwell Rd, London SW9 9TQ, United Kingdom",51.4673311,-0.1180082,bar,4.2,2
+ChIJcxYevmEEdkgRHqb7wK10g1k,Crown & Anchor,"246 Brixton Rd, Vassal, London SW9 6AQ, United Kingdom",51.471358,-0.112782,bar,4.3,2
+ChIJGajiNGYEdkgR7aT9JmO8Nu4,The Craft Beer Co. Brixton,"11-13 Brixton Station Rd, London SW9 8PA, United Kingdom",51.463475,-0.114,bar,4.3,2
+ChIJSQU8mfwFdkgRqJ7nlypLAps,Taproom By Brixton Village,"Brixton Village, Unit 43-44 Coldharbour Ln, London SW9 8PR, United Kingdom",51.4624019,-0.1115822,bar,4.7,0
+ChIJt4VIKYwEdkgRsd0FnKdoDBQ,Cable Cafe,"8 Brixton Rd, London SW9 6BU, United Kingdom",51.4807072,-0.1111414,bar,4.4,2
+ChIJRb2tSmYEdkgRGUJloXRZk0w,The Beehive - JD Wetherspoon,"407-409 Brixton Rd, London SW9 7DG, United Kingdom",51.4637501,-0.1143603,bar,3.8,1
+ChIJeR3bu2cEdkgRoQtnmk3mKTk,Canova Hall,"250 Ferndale Rd, London SW9 8BQ, United Kingdom",51.463971,-0.1150284,bar,4,2
+ChIJt0YlJEUBdkgReoHxFfhSvtk,Cocktail Embassy,"76 Westow Hill, London SE19 1SE, United Kingdom",51.4196744,-0.0793604,bar,4.3,2
+ChIJAQCUN0UBdkgRQk8MOlrg940,Bar Bella - Cocktails and Music,"57B Westow Hill, Norwood, London SE19 1TS, United Kingdom",51.4198375,-0.0803228,bar,4.4,2
+ChIJw4Ortw8BdkgR9GsZ0yx6ybs,Varanda,"35 Westow St, London SE19 3RW, United Kingdom",51.4183102,-0.08223169999999999,bar,4.5,0
+ChIJC494eywBdkgRjOsD8H65nBY,Escape Bar and Caribbean Tapas,"72 Westow Hill, London SE19 1SB, United Kingdom",51.4196503,-0.0794759,bar,4.5,0
+ChIJ520LN2EBdkgR2exzmZVfSQQ,The Great Southern Pub,"79 Gipsy Hill, Norwood, London SE19 1QH, United Kingdom",51.4239153,-0.08378859999999999,bar,4.4,2
+ChIJdbPgx1ABdkgRPxFTzVdzDAI,The Colby Arms,"132 Gipsy Hill, London SE19 1PW, United Kingdom",51.4248353,-0.0834331,bar,4,1
+ChIJ07An708BdkgRyXc-H4dLdTo,Sparrowhawk,"2 Westow Hill, London SE19 1RX, United Kingdom",51.41964669999999,-0.08283829999999999,bar,4.3,2
+ChIJvwjTeJABdkgRuGLeCMujpl8,Royal Albert,"42 Westow Hill, London SE19 1RX, United Kingdom",51.4195866,-0.0812098,bar,4,0
+ChIJNeD9Gp0BdkgRXu8gnWue_x4,The Bull & Finch,"126 Gipsy Hill, London SE19 1PL, United Kingdom",51.42460699999999,-0.0834723,bar,4.6,2
+ChIJZ7TPJW4BdkgRc7RI2bDEaBs,Walker Briggs,"23 Westow Hill, Norwood, London SE19 1TQ, United Kingdom",51.4199184,-0.0818782,bar,4.6,0
+ChIJ0VjImkUBdkgR3XqBVefc3CE,The Alma Crystal Palace,"95 Church Rd, London SE19 2TA, United Kingdom",51.4172846,-0.0809459,bar,4.3,2
+ChIJb6pZ1kQBdkgRkRczytD7bvc,Westow House,"79 Westow Hill, Norwood, London SE19 1TX, United Kingdom",51.4199947,-0.0788593,bar,4.1,2
+ChIJF6OShUUBdkgRvYKLY8uKluE,White Hart Crystal Palace,"96 Church Rd, London SE19 2EZ, United Kingdom",51.4171488,-0.0814023,bar,4.2,2
+ChIJGTu38u8BdkgR2_VlVYpUoEY,Central cycles bar,"5 Central Hill, London SE19 1BG, United Kingdom",51.4195696,-0.0833985,bar,0,0
+ChIJa8HcO5kBdkgR1mkMINCXb0M,"Mozart London, Classical Music Cafe Bar and Photography Gallery","69A Anerley Rd, London SE19 2AS, United Kingdom",51.41585509999999,-0.0719083,bar,4.9,0
+ChIJCZNYkvsBdkgR1lKWy2WDOgA,Memory Box Crystal Palace,"66 Westow Hill, London SE19 1RX, United Kingdom",51.4196116,-0.0800369,bar,4.5,0
+ChIJ1dXYT6UGdkgRv9I6jVYVnwQ,The Conquering Hero,"262 Beulah Hill, London SE19 3HF, United Kingdom",51.4197348,-0.1063563,bar,4.5,0
+ChIJ06MOEJwBdkgRDPFTAi-90IQ,River's Bar & Grill,"112, 114a Anerley Rd, London SE19 2AN, United Kingdom",51.4158445,-0.07232559999999999,bar,4.8,0
+ChIJC9ylzE0BdkgRt-PJclyfwRk,The Faber Fox,"25 Westow Hill, Norwood, London SE19 1TQ, United Kingdom",51.41991729999999,-0.0817358,bar,4.2,2
+ChIJXc5QWkUBdkgRZ-uFPmCVA0I,Numidie Bar and Bistro,"48 Westow Hill, London SE19 1RX, United Kingdom",51.4196284,-0.0809937,bar,4.6,2
+ChIJy5OQ4l0EdkgRhU4HKLeoNm8,J Bar,"London SW9 9QE, United Kingdom",51.4676333,-0.1180912,bar,3,0
+ChIJdemtXdEFdkgRdFFu4ehqQaI,Hacha Brixton,"12 - 14 Market Row, London SW9 8LD, United Kingdom",51.4618894,-0.1132784,bar,5,0
+ChIJo3PkpGgEdkgRkNnnihr3lJU,Three Eight Four,"384 Coldharbour Ln, London SW9 8LF, United Kingdom",51.461886,-0.1122389,bar,4.2,2
+ChIJFQZLUu4EdkgR4qDiHN-Cy7Y,The Riverside,"House, 5 Saint George Wharf Hamilton, London SW8 2LE, United Kingdom",51.4855344,-0.125869,bar,3.9,2
+ChIJe0d53vwEdkgREBIjpHxxLxc,Nine Elms Tavern,"Riverlight Quay, Nine Elms Ln, London SW11 8AY, United Kingdom",51.4825408,-0.1374957,bar,4.2,2
+ChIJF2h8t64FdkgR8qDsxSWPiaQ,Vine Bar London,"Unit 7 St George Wharf, London SW8 2LE, United Kingdom",51.48573700000001,-0.125749,bar,4.8,0
+ChIJYVZVMkAFdkgRjBf9GYnpL-I,Tia Maria - Brazilian Bar & Restaurant London,"126 S Lambeth Rd, London SW8 1RB, United Kingdom",51.4809308,-0.124865,bar,4,0
+ChIJ7cDCPgIFdkgRc1iy60eGlLU,Duchess Belle,"101 Battersea Park Rd, Nine Elms, London SW8 4DS, United Kingdom",51.4791843,-0.1424734,bar,4.1,2
+ChIJk8MRsfEEdkgRQ_QqGGTNcD0,The Griffin Belle,"8 Wyvil Rd, London SW8 2TH, United Kingdom",51.481648,-0.125624,bar,4.3,0
+ChIJ7fUPX_EEdkgRtMRg_7wpzsc,Estrela Bar,"113 S Lambeth Rd, London SW8 1UZ, United Kingdom",51.479297,-0.123425,bar,4.3,2
+ChIJFRrrxlADdkgRwc6JoZBMWus,N1 Bar London,"1 Duke St Hill, London SE1 2SW, United Kingdom",51.5060904,-0.0870026,bar,3.6,2
+ChIJvRlEVRsFdkgRAbdm-baRHJU,No 29 Power Station West,"29 Circus West Battersea Power Station, London SW11 8NN, United Kingdom",51.4833537,-0.1466851,bar,3.9,2
+ChIJweZaRY4FdkgRK4MnRyEmm7A,The Alchemist Embassy Gardens,"1 Ponton Rd, Nine Elms, London SW11 7BD, United Kingdom",51.481856,-0.1313772,bar,4.5,3
+ChIJ2SDaAe8EdkgRua0wJIY0qRQ,"Waterfront London Vauxhall Restaurant - Steaks, Sushi, Burgers, Shisha","3 St George Wharf, London SW8 2LE, United Kingdom",51.486247,-0.126157,bar,4.4,2
+ChIJ-crt4uwEdkgRt13r0ih1Lgk,Eagle London,"349 Kennington Ln, London SE11 5QY, United Kingdom",51.48625999999999,-0.11934,bar,4.4,2
+ChIJ2ZdoCgMFdkgRWq1qmJ9D5hM,Vagabond,"Battersea Power Station, Unit 12 Circus Village West Circus Road West Phase 1, London SW11 8EZ, United Kingdom",51.4823266,-0.1460349,bar,4.2,0
+ChIJEbSUtQYFdkgRTaE6ITM7B6g,The Mason's Arms,"169 Battersea Park Rd, Nine Elms, London SW8 4BT, United Kingdom",51.47680829999999,-0.1468361,bar,4.3,2
+ChIJcXM-cLgEdkgR3qLu5MK6oE8,All Bar One Waterloo,"1-3 Chicheley St, London SE1 7PY, United Kingdom",51.5027459,-0.1174368,bar,3.9,2
+ChIJcwFLUu4EdkgRza0rkBC6Z3k,Cottons Vauxhall,"Flagstaff House, 12 Unit, St George Wharf, London SW8 2LE, United Kingdom",51.4858743,-0.1264868,bar,3.8,2
+ChIJ2-sWiqUFdkgRfiehNC7hyVA,Room 43 bar Clapham,"43 Lavender Hill, London SW11 5QW, United Kingdom",51.4660204,-0.1526256,bar,4.6,2
+ChIJnTubpe4EdkgRftKvJi5V9z0,Pico Bar & Grill,"74 Albert Embankment, London SE1 7TL, United Kingdom",51.487745,-0.1230353,bar,4.2,2
+ChIJmxJQmf0EdkgRJCFCY_eUUjI,Power Station,"161 Battersea Park Rd, Nine Elms, London SW8 4BU, United Kingdom",51.4770244,-0.1464988,bar,4.3,2
+ChIJGTUylmEEdkgR_BdxM5exZU8,BXT,"256-258 Brixton Rd, Vassal, London SW9 6AQ, United Kingdom",51.47111109999999,-0.1127778,bar,4,2
+ChIJ_8goh-QFdkgROTjQwb3AGXg,The Chelsea Lodge Restuarant and Bar,"562 King's Rd, London SW6 2DZ, United Kingdom",51.4793487,-0.1877485,bar,4.2,0
+ChIJ-8s-jyUFdkgRj14ZQJqdYBI,Hard Rock Cafe,"150 Old Park Ln, London W1K 1QZ, United Kingdom",51.503868,-0.1490734,bar,4.4,3
+ChIJl_25ePUQdkgRXlWv3v6TJ94,Lucky 7 Irish Bar,"Queensway Court, 7A Cricklewood Ln, London NW2 1ET, United Kingdom",51.5572305,-0.2148594,bar,4.5,1
+ChIJsc02i00EdkgRe_350SMar50,Bodean's BBQ Clapham,"169 Clapham High St, London SW4 7SS, United Kingdom",51.462066,-0.137223,bar,4.2,2
+ChIJS-QabZQPdkgR3yhlCEQF4vA,Famous Three Kings,"171 North End Rd, London W14 9NL, United Kingdom",51.490733,-0.2065317,bar,4.3,2
+ChIJvRHgZuYEdkgRUitqnE18sHk,"White Swan, Pimlico","14 Vauxhall Bridge Rd, London SW1V 2SA, United Kingdom",51.4898426,-0.1314847,bar,4.2,2
+ChIJT0S2zLQEdkgRx1K-taxBiHA,The Seven Stars,"53 Carey St, London WC2A 2JB, United Kingdom",51.5149732,-0.1134758,bar,4.5,2
+ChIJV8vO_68cdkgRnyizMmmyfkc,The Hoxton Seven,"66-68 Great Eastern St, London EC2A 3JT, United Kingdom",51.525428,-0.08202,bar,3.5,2
+ChIJswKQBkwDdkgRm-rqQ5Uw8VU,cloudM Tower of London,"40 Trinity Square, London EC3N 4DJ, United Kingdom",51.5101269,-0.0766022,bar,4.7,0
+ChIJG_1s4KcEdkgRz25CNiaeUkw,Bar Douro London Bridge,"35B, Arch, 85B Southwark Bridge Rd, London SE1 0NQ, United Kingdom",51.50440589999999,-0.0952726,bar,4.5,2
+ChIJ5bKUWoQPdkgR3dH4lL617XY,McGettigan's Fulham,"1 Fulham Broadway, London SW6 1AA, United Kingdom",51.4799479,-0.1960095,bar,3.9,2
+ChIJkaH92i8bdkgRTIvawz6cwQQ,Sixes Cricket Club,"170 Great Portland St, London W1W 5QB, United Kingdom",51.5214551,-0.143158,bar,4.6,0
+ChIJD4dBYbgFdkgRv99UblXvkYw,Seven Dials Market,"35 Earlham St, London WC2H 9LD, United Kingdom",51.5139284,-0.1260395,bar,4.5,0
+ChIJ2Y1_aSIcdkgR7CSyp_56e48,The Beehive Pub | Tottenham,"Stoneleigh Rd., London N17 9BQ, United Kingdom",51.5921767,-0.06921229999999999,bar,4.4,2
+ChIJ8bOaWQwPdkgRldZJ9P2DQoM,Walkabout,"14-16 Putney High St, London SW15 1SL, United Kingdom",51.4656781,-0.2144924,bar,0,2
+ChIJuVBi65MFdkgRAkTIHxwJTWA,180 House,"180 Strand, Temple, London WC2R 1EA, United Kingdom",51.5124081,-0.1149852,bar,4.5,0
+ChIJncLvzQ4PdkgRbi0L0Pajjho,Sixes Cricket Club,"18 Farm Ln, London SW6 1PP, United Kingdom",51.48179349999999,-0.1966003,bar,4.5,0
+ChIJ04qRFrUcdkgR8xodygXdRXk,Arts Bar & Cafe,"Toynbee studios, 28 Commercial St, London E1 6LS, United Kingdom",51.5165679,-0.072695,bar,4.5,1
+ChIJJ5NZYAcFdkgRUjXqc2l4VOI,The Victoria,"166 Queenstown Rd, London SW8 3QH, United Kingdom",51.4729815,-0.1481729,bar,4.4,2
+ChIJGYRZ5pUFdkgRXen44JUgN00,Brunswick House,"30 Wandsworth Rd, London SW8 2LG, United Kingdom",51.4847523,-0.1265302,bar,4.4,0
+ChIJ3UH32PIEdkgRB2NQXSABQ7o,The Fentiman Arms,"64 Fentiman Rd, London SW8 1LA, United Kingdom",51.48101579999999,-0.1182338,bar,4.1,2
+ChIJSUulbPcEdkgR_HsA9NjuBfk,The Cavendish Arms,"128 Hartington Rd, London SW8 2HJ, United Kingdom",51.4764797,-0.127716,bar,4.4,0
+ChIJhewoSV8EdkgRTEgGk_vbjdc,The Swan,"2A Stockwell Rd, London SW9 9BF, United Kingdom",51.4720318,-0.1223462,bar,3.1,1
+ChIJnX0_kqIFdkgRzgWwo1DtftY,Bar Social,"245 Lavender Hill, London SW11 1JW, United Kingdom",51.46419969999999,-0.1629654,bar,4.2,2
+ChIJQ0a_6J8FdkgRHC5tuXadPso,The Latchmere,"503 Battersea Park Rd, London SW11 3BW, United Kingdom",51.47202619999999,-0.1654106,bar,4.2,2
+ChIJBWTd664cdkgRr3oSfWBdQME,Flight Club Shoreditch,"2A Worship St, London EC2A 2AH, United Kingdom",51.5220275,-0.086614,bar,4.5,2
+ChIJB_93N-oEdkgRDfeFzZ925CU,Tamesis Dock,"Albert Embankment, London SE1 7TY, United Kingdom",51.49198519999999,-0.1221536,bar,4.3,2
+ChIJ2SDaAe8EdkgRvL0vQkwkM_0,Smoke Lab,"3 St George Wharf, London SW8 2LE, United Kingdom",51.4862474,-0.1261572,bar,3.9,0
+ChIJtf8MRnMEdkgRGNEn6UQS7D4,"The Half Moon, Herne Hill","10 Half Moon Ln, London SE24 9HU, United Kingdom",51.4526499,-0.1007223,bar,4.2,0
+ChIJR2sftwwEdkgRjQj_l2X--ac,Park's Edge Bar and Kitchen,"49, 51 Norwood Rd, London SE24 9AA, United Kingdom",51.451404,-0.100754,bar,4.6,2
+ChIJ80PdbW0EdkgRUlHh8tnK10Q,The Prince Regent,"69 Dulwich Rd, London SE24 0NJ, United Kingdom",51.45382559999999,-0.1065024,bar,4,2
+ChIJY4FC2nIEdkgR1ntDmxvSHpc,The Florence,"131 Dulwich Rd, London SE24 0NG, United Kingdom",51.4527167,-0.1029872,bar,4.1,2
+ChIJg3Ow23IEdkgRRmWO6ZVC4bQ,127 Bar and Restaurant,"127 Dulwich Rd, London SE24 0NG, United Kingdom",51.4527855,-0.1032613,bar,4.2,1
+ChIJJeI733IEdkgRonWW17fuy6w,Commercial Hotel Herne Hill,"212 Railton Rd, London SE24 0JT, United Kingdom",51.4530632,-0.1026538,bar,3.8,2
+ChIJK2FPYG4FdkgRkU7j06Ilwbg,Green Parrot Lounge,"222 Railton Rd, London SE24 0JN, United Kingdom",51.4528287,-0.1024617,bar,4.4,0
+ChIJiehuDxAEdkgR2U8igTm-MdU,Tulse Hill Hotel,"150 Norwood Rd, Norwood, London SE24 9AY, United Kingdom",51.441211,-0.106612,bar,4.3,0
+ChIJJfRNomgEdkgRyBeLhezr9Ak,Senzala Creperie,"41-42 Coldharbour Ln, London SW9 8PS, United Kingdom",51.4625114,-0.1116416,bar,4.6,0
+ChIJM73FyxoEdkgR3GKt-XqTDaQ,"Railway Tavern, Norwood","7 Station Rise, Norwood, London SE27 9BW, United Kingdom",51.44010979999999,-0.1052757,bar,4.3,2
+ChIJz4WV54AFdkgR3wtndTqPrTA,Tequila Mockingbird Brixton,"64-68 Atlantic Rd, London SW9 8PY, United Kingdom",51.461085,-0.111306,bar,4.3,0
+ChIJGy8KWYYDdkgR3qAadAMQmSw,Fox on the Hill - JD Wetherspoon,"149 Denmark Hill, London SE5 8EH, United Kingdom",51.46520220000001,-0.0895657,bar,3.9,1
+ChIJi8SMs2gEdkgRtgYf_wT6yXE,The Wine Parlour,"The Wine Parlour, 1 Vining St, London SW9 8QA, United Kingdom",51.4613734,-0.1115358,bar,4,2
+ChIJoUZwNG8EdkgRK0cs5gYq9E8,Aanis Shiisha Place,"UK, 78 Atlantic Rd, London SW9 8PX, United Kingdom",51.460805,-0.1111117,bar,0,0
+ChIJN51raG0EdkgROK3vBjuxJck,The Lido Cafe (Now 400 Rabbits),"the lido cafe, Dulwich Rd, London SE24 0PA, United Kingdom",51.4532779,-0.1060916,bar,3.5,2
+ChIJQ-e0zHsEdkgRuaXGliX9zDQ,Whirled Cinema,"259-260 Hardess Street, Loughborough Junction, London SE24 0HN, United Kingdom",51.46496579999999,-0.1008608,bar,4.5,0
+ChIJ74F3Zmqr2EcRWsF62N5qUzM,The Garden Bar BR1,"175 High St, Bromley BR1 1NN, United Kingdom",51.4060451,0.0145805,bar,3.9,0
+ChIJefvJRGyq2EcRBIoAv5tW0ug,O'Neills Bromley,"27-29 East St, Bromley BR1 1QE, United Kingdom",51.4070876,0.0159254,bar,3.9,2
+ChIJ1XWwqAKr2EcRJ_iaIP7EEkU,Prive Lounge Bar,"Westmoreland Place, Churchill Court, St Mark's Square, Bromley BR1 1DS, United Kingdom",51.39952419999999,0.0163793,bar,4.2,0
+ChIJDYprz22q2EcRXO-g1HNKBdc,"The Partridge, Bromley","194 High St, Bromley BR1 1HE, United Kingdom",51.4056147,0.0139007,bar,4.3,2
+ChIJpV89YWyq2EcRZUs3flIuuqc,VuVu,"30 East St, Bromley BR1 1QU, United Kingdom",51.407152,0.016474,bar,3.5,0
+ChIJpZ7Ghm2q2EcRyWLAS5CTfzw,Metropolis Karaoke Bar,"256A High St, Bromley BR1 1PG, United Kingdom",51.40698,0.011901,bar,4.3,2
+ChIJ7fBLjj-r2EcRQh1zXo_0vpU,The Artful Duke,"196-198 High St, Bromley BR1 1HE, United Kingdom",51.4057134,0.0138016,bar,3.8,0
+ChIJ74IAAFEEdkgRumQhfkGHklA,The Bridge Bar,"8 Voltaire Rd, London SW4 6DH, United Kingdom",51.4649452,-0.1311258,bar,4,2
+ChIJx06B-lEEdkgRK3xOidYORTk,Revolution,"95-97 Clapham High St, London SW4 7TB, United Kingdom",51.46295689999999,-0.1343044,bar,3.7,2
+ChIJawoZr6gFdkgRzlV2Ejsr2Zk,The Perky Nel,"7-8 Cavendish Parade, London SW4 9DW, United Kingdom",51.45371369999999,-0.1464245,bar,4.3,2
+ChIJF-sPTa0FdkgReEuufSaj_7A,No 32 The Old Town,"32 The Pavement, London SW4 0JE, United Kingdom",51.4631747,-0.1406386,bar,4.1,2
+ChIJc_g0NK0FdkgRCZ-vyr8ehh4,Sun,"47 Old Town, London SW4 0JL, United Kingdom",51.4639835,-0.1409826,bar,4.2,2
+ChIJHc02i00EdkgRZs4pZUxzZFE,Railway Tavern London Sw4,"18 Clapham High St, London SW4 7UR, United Kingdom",51.4645591,-0.1312161,bar,4.2,2
+ChIJWd1s61EEdkgRSIVFW9F7zj0,Lotus Bar,"76 Clapham High St, London SW4 7UL, United Kingdom",51.4636076,-0.1335195,bar,4,2
+ChIJqZOpkqwFdkgRLRYmwl30pUo,The Bobbin,"1-3 Lillieshall Rd, London SW4 0LN, United Kingdom",51.466337,-0.1428821,bar,4.3,2
+ChIJMZ5IQ1IEdkgRfb9X8C3zTgk,The Stonhouse,"165 Stonhouse St, London SW4 6BJ, United Kingdom",51.46395829999999,-0.1369942,bar,4.3,0
+ChIJkZbsj04EdkgRGsJAWbn1z04,The King & Co,"100 Clapham Park Rd, London SW4 7BZ, United Kingdom",51.45948569999999,-0.1341563,bar,4.5,2
+ChIJF-YCiFAEdkgRma2ddz6d1Bs,Mosquito Bar,"5 Clapham High St, London SW4 7TS, United Kingdom",51.4650235,-0.1297838,bar,3.2,2
+ChIJWxvUN60FdkgRLABqXMCBD-A,The Rose & Crown,"2 The Polygon, London SW4 0JG, United Kingdom",51.4636995,-0.141342,bar,4.2,2
+ChIJhaxqqE8EdkgRPeRSzKoGYSw,The Coach & Horses,"173 Clapham Park Rd, London SW4 7EX, United Kingdom",51.4597329,-0.1314018,bar,4.4,2
+ChIJy8eivVIEdkgREjk7nBxCDcA,Venn Street Records,"78 Venn St, London SW4 0BD, United Kingdom",51.46237199999999,-0.1379861,bar,4.1,2
+ChIJ_asgeE0EdkgRc_V5s3b-CiA,Be At One - Clapham Common,"4 Clapham Common South Side, London SW4 7AA, United Kingdom",51.4617553,-0.1377414,bar,4.3,2
+ChIJLS6ewFEEdkgRtjUDFZG1lXo,64th & Social,"64 Clapham High St, London SW4 7UL, United Kingdom",51.463736,-0.133134,bar,4.1,2
+ChIJjdvld00EdkgRwpb9WDRfuTI,Carmen Tapas,"6 Clapham Common South Side, London SW4 7AA, United Kingdom",51.461667,-0.137801,bar,4.2,2
+ChIJJ_K-uFMEdkgRXGHvRYp6eJQ,The Bread & Roses,"68 Clapham Manor St, London SW4 6DZ, United Kingdom",51.4658992,-0.1364594,bar,4.4,2
+ChIJf0IolGUEdkgRrY3jv--HqEI,Brixton Brewery Tap Room,"Arch 548 Brixton Station Rd, London SW9 8PF, United Kingdom",51.46351199999999,-0.109339,bar,4.7,0
+ChIJOXu5g2UEdkgRc40QcFIeGXw,The Shrub and Shutter,"336 Coldharbour Ln, London SW9 8QH, United Kingdom",51.4629373,-0.1084804,bar,4.5,2
+ChIJG6XAJ10EdkgRvIN4bJSzIbM,The Duke of Edinburgh Pub | Brixton,"204 Ferndale Rd, London SW9 8AG, United Kingdom",51.46327590000001,-0.1199887,bar,4.2,2
+ChIJy3V_rWcEdkgRmbgenKQSHOI,Plan B,"418 Brixton Rd, London SW9 7AY, United Kingdom",51.464399,-0.1146492,bar,3.9,0
+ChIJU1uiH_EEdkgRT7Xo9Novmbw,Nolan's,"33 Wilcox Rd, London SW8 2XA, United Kingdom",51.47958029999999,-0.1259448,bar,4.4,1
+ChIJNaMDSaMFdkgRDmPy-EZiLXI,Avenida Brasil UK,"74-76 Lansdowne Way, London SW8 2DQ, United Kingdom",51.4746911,-0.1252319,bar,4.1,0
+ChIJ-WA1kqIFdkgR1DNItOUl3rQ,Sugar Cane Bar,"247 Lavender Hill, London SW11 1JW, United Kingdom",51.4642438,-0.1630877,bar,4.6,2
+ChIJ-d_EgkobdkgRMAXdCMQeufE,Fields Bar & Kitchen,"Lincoln's Inn Fields, London WC2A 3LJ, United Kingdom",51.5159603,-0.1172769,bar,4.1,2
+ChIJQW2UlNQFdkgRFSWo8WxX-5A,"The Hercules, Lambeth","2 Kennington Rd, London SE1 7BL, United Kingdom",51.4982216,-0.1125304,bar,4.1,2
+ChIJi9T3dJYFdkgRFd0sRMkqdsA,The Northcote,"2 Northcote Rd, London SW11 1NT, United Kingdom",51.4607182,-0.1671859,bar,4,2
+ChIJG2dllt4EdkgRtdsI_BITgpo,All Bar One Victoria,"58 Victoria St, London SW1E 6AJ, United Kingdom",51.4974881,-0.136606,bar,4.1,2
+ChIJ2dIy4igbdkgR25ZZQ8lgMsA,Court Tottenham Ct Rd London,"108A Tottenham Court Rd, London W1T 5AA, United Kingdom",51.5230275,-0.136858,bar,4.1,1
+ChIJjZ2ZTd0EdkgRzG9fkEYhSRA,The Loose Box,"51 Horseferry Rd, London SW1P 2AA, United Kingdom",51.4946773,-0.1313531,bar,3.9,2
+ChIJww-u68sEdkgRKOXSvAb2TiY,Eve Bar Covent Garden,"34 Southampton St, London WC2E 7HF, United Kingdom",51.51080839999999,-0.1220355,bar,4.3,0
+ChIJHYutP3MFdkgRMCjchTYGsYk,Prince Albert,"85 Albert Bridge Rd, London SW11 4PF, United Kingdom",51.4796124,-0.1656907,bar,4.1,2
+ChIJBXKAoocFdkgRQxgnX1wM-B0,The Waterfront,"baltimore house, Juniper Dr, London SW18 1TS, United Kingdom",51.46416439999999,-0.1854556,bar,4.1,2
+ChIJUzBejX0FdkgR-i9vQSYOQ-A,The Lost Hours,"541 King's Rd, London SW6 2EB, United Kingdom",51.4794778,-0.1870083,bar,3.9,2
+ChIJPQ_4RVgDdkgRogtkgXPVxHo,Belushi's London Bridge,"161-165, Borough High St, London SE1 1HR, United Kingdom",51.50287909999999,-0.0917115,bar,3.8,2
+ChIJpSZ24WgFdkgRvxEnlylQbis,The Crown,"153 Dovehouse St, London SW3 6LB, United Kingdom",51.490173,-0.1733941,bar,4.2,2
+ChIJu6GgulADdkgRnJyN_I-FM_c,"The Telephone Exchange, London Bridge","10-18 London Bridge St, London SE1 9SG, United Kingdom",51.5051424,-0.08799169999999999,bar,4,2
+ChIJ0eXrm7gEdkgR8muMXU0OQnU,"Primo Bar, London","200 Westminster Bridge Rd, London SE1 7UT, United Kingdom",51.50122709999999,-0.1169032,bar,4.1,3
+ChIJ75GAnswDdkgRIyl0ptHYnUc,London Karaoke Club - London Bridge,"7 London Bridge Walk, London SE1 2SX, United Kingdom",51.5062217,-0.08715110000000001,bar,0,0
+ChIJkW_DZLkEdkgRpay3R4xhK1Q,Vaulty Towers,"34 Lower Marsh, London SE1 7RG, United Kingdom",51.5010889,-0.1119278,bar,4.5,2
+ChIJK4RCqboEdkgROzEdIMRJBLE,Jack's Bar,"96 Isabella St, London SE1 8DD, United Kingdom",51.504175,-0.1058833,bar,4.2,2
+ChIJ-QT0xrsEdkgRrgujBGh57C8,The Duke of Sussex,"23 Baylis Rd, London SE1 7AY, United Kingdom",51.5010296,-0.1102033,bar,4.2,2
+ChIJBSbk1aYEdkgRjvssJliSuuA,"The Ship, Southwark","68 Borough Rd, London SE1 1DX, United Kingdom",51.4994375,-0.0967132,bar,4.3,2
+ChIJodNx1FoDdkgROlsjnpj55k8,The Hide Bar,"39-45 Bermondsey St, London SE1 3XF, United Kingdom",51.50213429999999,-0.08221529999999999,bar,4.1,2
+ChIJ8W0tZK8EdkgREiY3JI67XC0,"The White Hart, Southwark","22 Great Suffolk St, London SE1 0UG, United Kingdom",51.505025,-0.1015653,bar,4.1,2
+ChIJxesZRaUEdkgRfp3Dw_iCCsg,The Ring,"72 Blackfriars Rd, London SE1 8HA, United Kingdom",51.5035992,-0.1048315,bar,4.3,2
+ChIJo2Cjyq8EdkgRHyP86QEPrh0,SAMA Bankside,"3 Robinson Road Cobbled Slope On junction of Southwark Street and, Blackfriars Rd, London SE1 8BU, United Kingdom",51.5065879,-0.1039106,bar,4,2
+ChIJjQgs4acEdkgRQfSEih1EjSw,Flat Iron Square,"53b Southwark St, London SE1 1RU, United Kingdom",51.5046645,-0.09449429999999999,bar,4.4,2
+ChIJ0xJJx7EEdkgRlkI47yURPlw,12th Knot,"20 Upper Ground, London SE1 9PD, United Kingdom",51.5085361,-0.1063,bar,4.3,0
+ChIJ9eFJS0UDdkgRCBXBkYpfijM,Nine Lives,"8 Holyrood St, London SE1 2EL, United Kingdom",51.5034111,-0.0820472,bar,4.5,2
+ChIJSyY-7boEdkgR-g1-FxQMLQY,The Cut Bar & Restaurant,"66 The Cut, London SE1 8LZ, United Kingdom",51.5030947,-0.1077081,bar,4.2,2
+ChIJta3lNc4EdkgRvmx0zQa8Nhk,The Understudy,"Upper Ground, London SE1 9PX, United Kingdom",51.5075897,-0.1135735,bar,4.3,2
+ChIJpzJ2lfsFdkgReycDGVafYsM,St James Bar,"6 Waterloo Pl, St. James's, London SW1Y 4AN, United Kingdom",51.5077049,-0.1324177,bar,4.4,0
+ChIJiY-tN3AFdkgR17_5Blgj8HM,The Grosvenor Arms,"17 Sidney Rd, London SW9 0TP, United Kingdom",51.4699086,-0.1172596,bar,4.6,0
+ChIJQ7lrejwFdkgRD-1c2D6Gfxw,Bar Elba,"Rooftop Mercury House, 109-117 Waterloo Rd, London SE1 8UL, United Kingdom",51.502615,-0.110062,bar,4.5,0
+ChIJgXiP3MsEdkgRRp0YhagxGsg,American Bar,"The Savoy, Strand, London WC2R 0EZ, United Kingdom",51.5105136,-0.1207183,bar,4.7,4
+ChIJEx8Vq9UadkgRaPTTkQzdmmk,Artesian,"1C Portland Pl, London W1B 1JA, United Kingdom",51.5179015,-0.1435638,bar,4.6,4
+ChIJKfurcVQDdkgRF2kSTB-gjbM,Harry's Bar & Dining Room,"5 Abchurch Yard, London EC4N 7BA, United Kingdom",51.5114873,-0.0885706,bar,4.5,3
+ChIJl3W9ItIEdkgRknJZX9c147M,All Bar One Leicester Square,"48 Leicester Square, London WC2H 7LT, United Kingdom",51.5100479,-0.1306373,bar,4.1,2
+ChIJzee0vroEdkgRsWQAXWfSU5Q,The Anchor & Hope,"36 The Cut, London SE1 8LP, United Kingdom",51.5034563,-0.1065778,bar,4.4,2
+ChIJ-UhXRa4cdkgRMy1N_gLY2bs,London Cocktail Club,"63 Worship St, London EC2A 2DU, United Kingdom",51.522164,-0.08425329999999999,bar,4.3,2
+ChIJfSCR27kEdkgRtf5uPJKGc5I,The Hole In The Wall,"5 Mepham St, London SE1 8SQ, United Kingdom",51.50419540000001,-0.1131592,bar,4,1
+ChIJV8JnyAIFdkgRLBfiRP7c6Vs,Unwined in Waterloo,"137 Lower Marsh, London SE1 7AE, United Kingdom",51.5002143,-0.1141453,bar,4.7,0
+ChIJE7Y4eVcDdkgRA5h-O_V61eA,Southwark Tavern London Se1,"22 Southwark St, London SE1 1TU, United Kingdom",51.504919,-0.09079999999999999,bar,4,2
+ChIJYaGrBLsEdkgRE0xLFmLDWWQ,The Stage Door Pub & Kitchen,"28-30 Webber St, London SE1 8QA, United Kingdom",51.501278,-0.107382,bar,4.2,2
+ChIJbe4ErJgDdkgRRFNcc1WBF4g,Vinegar Yard,"72-82 St Thomas St, London SE1 3QX, United Kingdom",51.5028134,-0.083808,bar,4.2,2
+ChIJCcWjeTcFdkgRCrl988NnnbI,London Cocktail Club,"182-184 Clapham High St, London SW4 7UG, United Kingdom",51.4623223,-0.1373008,bar,4.2,2
+ChIJY9Thc00EdkgRgvsx6E0alKA,The Alexandra,"14 Clapham Common South Side, London SW4 7AA, United Kingdom",51.4612695,-0.1382278,bar,4,2
+ChIJ91DnDVkEdkgRWKCf40NtvTo,Falcon Clapham North SW4,"33 Bedford Rd, London SW4 7SQ, United Kingdom",51.4643194,-0.1290139,bar,4.1,2
+ChIJf12Ofk0EdkgRFccQ4BjDC3c,O'neills Clapham,"196 Clapham High St, London SW4 7UD, United Kingdom",51.46212440000001,-0.1379886,bar,4,2
+ChIJX91s61EEdkgRFolyo40-lpo,Aquum,"68-70 Clapham High St, London SW4 7UL, United Kingdom",51.46371389999999,-0.1331929,bar,3.5,2
+ChIJY9IfdEsEdkgRl-it_FrmnLo,The Abbeville,"67-69 Abbeville Rd, London SW4 9JW, United Kingdom",51.4549437,-0.1394686,bar,4.3,2
+ChIJVVUZWVAEdkgRJL-_gLipEgY,ARCH Clapham,"Arch 642, Voltaire Rd, London SW4 6DH, United Kingdom",51.4648276,-0.1308987,bar,4.1,0
+ChIJD7xaY7QFdkgRJDGa8QHlIqA,The Rookery,"69 Clapham Common South Side, London SW4 9DA, United Kingdom",51.4562016,-0.143866,bar,4,2
+ChIJUVYSZVAEdkgRPRrQf2F3wEI,Fu Manchu,"15-16 Lendal Terrace, London SW4 7UX, United Kingdom",51.4643868,-0.1298323,bar,3.3,3
+ChIJ_SOe568EdkgRyuRdIsuqCgg,Rose & Crown,"47 Colombo St, London SE1 8DP, United Kingdom",51.50563709999999,-0.1057321,bar,4.1,2
+ChIJT1ILM0YDdkgRw6emjIQI8Yo,Le Pont de la Tour,"36D Shad Thames, London SE1 2YE, United Kingdom",51.5037184,-0.0739176,bar,4.2,3
+ChIJG_M6kwMQdkgRpah7EzQMmlI,The Cow,"89 Westbourne Park Rd, London W2 5QH, United Kingdom",51.5191678,-0.1953798,bar,4.5,2
+ChIJGzzi5wYFdkgRwxMxaV4kFqI,Boqueria,"278 Queenstown Rd, Nine Elms, London SW8 4LT, United Kingdom",51.476611,-0.1480705,bar,4.4,2
+ChIJ3_RcuJkFdkgRPLumZHb__1g,Falcon Clapham Junction Sw11,"2 St John's Hill, London SW11 1RU, United Kingdom",51.4638243,-0.1680283,bar,3.9,2
+ChIJUaCq6-sFdkgRXlZ0lMw_vMs,"Vardo | Outdoor Dining, Takeaway & Coffee","9 Duke Of York Square, London SW3 4LY, United Kingdom",51.491443,-0.1593924,bar,4.3,0
+ChIJieGfWGQFdkgRPHpkutDBSjg,The Chelsea Cellar,"9 Park Walk, London SW10 0AJ, United Kingdom",51.486017,-0.179984,bar,4.8,0
+ChIJKxEk8TgFdkgRXLKfMqcFpsQ,RDV BAR London,"9 Knightsbridge, London SW1X 7QL, United Kingdom",51.5013695,-0.1624258,bar,4,0
+ChIJfVxx5EAFdkgRlX6XJZIwiwM,Hawksmoor Knightsbridge,"3 Yeoman's Row, London SW3 2AL, United Kingdom",51.4974318,-0.166794,bar,4.6,3
+ChIJP1U7FhYFdkgROHq6zBD9YYA,Tonteria,"7-12 Sloane Square, London SW1W 8EG, United Kingdom",51.49294,-0.1571057,bar,3.7,3
+ChIJzQBYp0IFdkgRc9zrzds2vIk,Janet’s Bar,"30 Old Brompton Rd, South Kensington, London SW7 3DL, United Kingdom",51.4936954,-0.1753633,bar,2.8,3
+ChIJPZ07FTsFdkgRLCsdiCk88bk,Homeboy Bar Embassy Gardens,"Unit 6 New Union Square Embassy Gardens, Nine Elms, Vauxhall SW11 7DN, United Kingdom",51.4817431,-0.1342948,bar,4.1,0
+ChIJI4paXPgEdkgR88La11U-5N0,The Surprise,"16 Southville, London SW8 2PP, United Kingdom",51.474435,-0.131375,bar,4.5,1
+ChIJuSapmvcEdkgRrxUB2yA53iI,The Priory Arms,"83 Lansdowne Way, London SW8 2PB, United Kingdom",51.474849,-0.128347,bar,4.4,1
+ChIJx6iN3CQEdkgRzns7vHuhdXw,Streatham Wine House,"53A Streatham Hill, London SW2 4TS, United Kingdom",51.4403365,-0.1253397,bar,4.7,2
+ChIJBeIy4iUEdkgRIFP0zqXSOWo,Hideaway Box Office,"Streatham Business Centre, 225 Streatham High Rd, London SW16 6EN, United Kingdom",51.42670589999999,-0.130825,bar,4.5,2
+ChIJs1FtT4QGdkgRm_PSjlfmaXw,The Earl Ferrers,"22 Ellora Rd, London SW16 6JF, United Kingdom",51.42375939999999,-0.132618,bar,4.6,2
+ChIJ0wL7lmcFdkgRMNlV5TwYeXM,K Bar,"109-113 Queen's Gate, South Kensington, London SW7 5JA, United Kingdom",51.4927342,-0.1781206,bar,4.6,0
+ChIJReVIkyMFdkgRspwFOXL9vJc,The Little Orange Door,"16A Clapham Common South Side, London SW4 7AB, United Kingdom",51.4610902,-0.1384246,bar,4.5,0
+ChIJWRzJ4VsDdkgRMHSiUrObgpM,The Old School Yard,"111 Long Ln, London SE1 4PH, United Kingdom",51.5003401,-0.0880223,bar,4.1,2
+ChIJNz-oOpEEdkgRtr0pP7VoCZY,The Prince of Wales,"Cleaver Square, London SE11 4EA, United Kingdom",51.4882178,-0.1090572,bar,4.4,2
+ChIJoZSUGZQEdkgRRuaPt2WZU_w,The Black Prince,"6 Black Prince Rd, London SE11 6HS, United Kingdom",51.4896354,-0.1121451,bar,4.4,2
+ChIJhTSVpZMEdkgR1KeHiG1zdBk,The Pilgrim Pub,"247 Kennington Ln, London SE11 5QU, United Kingdom",51.4866943,-0.1138816,bar,4.4,2
+ChIJ_8xI5ZAEdkgR46n0eW8pQ6w,The White Bear,"138 Kennington Park Rd, London SE11 4DJ, United Kingdom",51.4867546,-0.1079483,bar,4.4,2
+ChIJtc1xspkEdkgRW4g71z3bYbE,Toulouse Lautrec,"140 Newington Butts, London SE11 4RN, United Kingdom",51.4911173,-0.103371,bar,4.5,2
+ChIJYR2ouY0EdkgRplloJxLy_s0,The Hanover Arms,"326 Kennington Park Rd, London SE11 4PP, United Kingdom",51.48144749999999,-0.1131384,bar,4.1,2
+ChIJs9x0eOwEdkgRD1LEhbiA3WM,The Black Dog,"112 Vauxhall Walk, London SE11 5ER, United Kingdom",51.4887096,-0.1208667,bar,4.3,2
+ChIJlS8E5ZkEdkgRnmw7DgSyQL0,The Old Red Lion,"42 Kennington Park Rd, London SE11 4RS, United Kingdom",51.48943999999999,-0.1050675,bar,4.5,2
+ChIJg6EDmJYEdkgRJF-gndur7nI,The Dog House,"293 Kennington Rd, London SE11 6BY, United Kingdom",51.48918430000001,-0.1108048,bar,4.1,2
+ChIJu_B3fZQEdkgRGqzDMu6FbeY,Duchy Arms,"63 Sancroft St, London SE11 5UG, United Kingdom",51.4891667,-0.1144444,bar,4.5,2
+ChIJL7h_1pMEdkgR8qO9laV7a74,The Cock Tavern,"340 Kennington Rd, London SE11 4LD, United Kingdom",51.4863866,-0.1116276,bar,4.5,0
+ChIJz2HMUpEEdkgRKBDcg__XDw0,The Tommyfield,"185 Kennington Ln, London SE11 4EZ, United Kingdom",51.4886535,-0.1108664,bar,4.2,0
+ChIJ2WsBG-0EdkgRx9yI8-t6E8Y,The Beehive,"51 Durham St, London SE11 5JA, United Kingdom",51.484862,-0.118378,bar,4,2
+ChIJG3L6EJYEdkgR3anHSudFIaM,The Ship,"171 Kennington Rd, London SE11 6SF, United Kingdom",51.4931777,-0.1105181,bar,4.6,0
+ChIJF7Yr-7ocdkgR3CQhoQyogcE,Colours,"2-4 Hoxton Square, London N1 6NU, United Kingdom",51.5274499,-0.0817228,bar,4.1,0
+ChIJvQLNfqEDdkgR8XTZu4uJ9tU,The Four Quarters,"187 Rye Ln, London SE15 4TW, United Kingdom",51.4680715,-0.0668971,bar,4.5,2
+ChIJL53i56IEdkgR599IiuTACXM,The Prince of Wales,"51 St George's Rd, London SE1 6ER, United Kingdom",51.4956337,-0.1038586,bar,4.6,1
+ChIJ96yOwr0EdkgRPL4K43ecTpo,The Tankard,"111 Kennington Rd, London SE11 6SF, United Kingdom",51.4953052,-0.1106463,bar,4.2,2
+ChIJJZ0NjUAEdkgR9HAh-iNWG3c,144 Delivery,"144 Brixton Hill, London SW2 1SD, United Kingdom",51.4522461,-0.1218319,bar,0,0
+ChIJu9eu4CQEdkgRvSpU3XMNwTA,Bar 61 Restaurant,"61A Streatham Hill, London SW2 4TX, United Kingdom",51.44004959999999,-0.1255294,bar,4.6,2
+ChIJGxf-DQoDdkgRGC7MySEtU_8,Prince of Peckham Pub,"1 Clayton Rd, London SE15 5JA, United Kingdom",51.4736548,-0.06532099999999999,bar,4.3,2
+ChIJm8X-9M0EdkgR7OfNHW6yApM,Zoo Bar & Club,"Square, 13-17 Bear Street Leicester, London WC2H 7AQ, United Kingdom",51.510896,-0.129072,bar,3.6,2
+ChIJ-1iom3IPdkgRzztdHUIzaq8,Livelyhood Venues Ltd,"3rd Floor, 10, Station Parade, Balham High Rd, London SW12 9AZ, United Kingdom",51.4423737,-0.153356,bar,3.5,0
+ChIJQ2C9wSsbdkgRijTMvBIaMfE,One Tun,"58-60 Goodge St, London W1T 4ND, United Kingdom",51.519124,-0.1367021,bar,4.1,2
+ChIJhb8xxaEDdkgRKH3QN70VpxI,Bar Story,"213 Blenheim Grove, London SE15 4QL, United Kingdom",51.4695127,-0.0698857,bar,4.1,2
+ChIJ9S2mLckFdkgRm7doWi-g3k8,The Devonshire,"39 Balham High Rd, London SW12 9AN, United Kingdom",51.4468815,-0.1489904,bar,4.1,2
+ChIJyzAtk38DdkgRzUvLV7YFwEg,The Tiger,"18 Camberwell Green, London SE5 7AA, United Kingdom",51.4738272,-0.0926611,bar,4.1,2
+ChIJqajqXo8EdkgRpPyfj0irGPE,The Kennington,"60 Camberwell New Rd, Vassal, London SE5 0RS, United Kingdom",51.4799374,-0.1079178,bar,4.3,2
+ChIJoaxnTn8DdkgRmUPgKypV5uA,The Camberwell Arms,"65 Camberwell Church St, London SE5 8TR, United Kingdom",51.473721,-0.08835649999999999,bar,4.4,2
+ChIJJ0voQoEDdkgRxAxwOW2L1PY,Phoenix Windsor Walk Denmark H,"Windsor Walk, Denmark Hill, London SE5 8BB, United Kingdom",51.4681597,-0.0897579,bar,4,2
+ChIJU0MKBKEDdkgRl-5wuxTmHHo,Bussey Rooftop Bar,"Roof B, Bussey Building, 133 Rye Ln, London SE15 4ST, United Kingdom",51.4699894,-0.06694259999999999,bar,4.2,2
+ChIJh94aj5ADdkgRaWx0cXtBbBw,The Cherry Tree,"31-33 Grove Vale, London SE22 8EQ, United Kingdom",51.4615289,-0.079022,bar,4.1,2
+ChIJCQBjMlgDdkgRfzjoKvrWTV8,The Dugout at Belushi's Sports Bar,"161-165, 161 Borough High St, London SE1 1HR, United Kingdom",51.5028872,-0.0917365,bar,4,2
+ChIJF_gtIrEEdkgRah33HnsVXY8,Mulberry Bush,"89 Upper Ground, London SE1 9PP, United Kingdom",51.5071352,-0.1102325,bar,4.2,2
+ChIJqaqux7sEdkgRBZ5rM8NyP8g,Hippo Inns,"23 Baylis Rd, London SE1 7AY, United Kingdom",51.501134,-0.11005,bar,4.4,0
+ChIJE_SPXzUDdkgRbl07h5dSfHY,Leman Street Tavern,"31 Leman St, London E1 8PT, United Kingdom",51.51374879999999,-0.0703101,bar,4,2
+ChIJu5BXfUEbdkgR1ftTK__2n20,The Chapel Bar,"29 Penton St, London N1 9PX, United Kingdom",51.532721,-0.111644,bar,4.3,2
+ChIJWy5VslsEdkgRh0RoprXzddk,The Landor,"70 Landor Rd, London SW9 9PH, United Kingdom",51.4656452,-0.1261532,bar,4.2,2
+ChIJ1Sf8rWcEdkgRDv0oKr7H6dg,Phonox,"418 Brixton Rd, London SW9 7AY, United Kingdom",51.4644844,-0.1145035,bar,4.4,2
+ChIJM-XAGGYEdkgRu5KSoaHGsFM,Brixton Rooftop,"Pope's End, Atlantic Rd, London SW9 8JH, United Kingdom",51.46266670000001,-0.1133543,bar,4.2,2
+ChIJn0fTK80FdkgRPRQ7Kn1bf6g,Cattivo,"207 Ferndale Rd, London SW9 8BA, United Kingdom",51.4639356,-0.1157593,bar,3.7,0
+ChIJaXOlMq4EdkgRNP7z1THoOik,"The Mad Hatter Hotel, Southwark","3-7 Stamford St, London SE1 9NY, United Kingdom",51.507022,-0.104917,bar,4.2,0
+ChIJ96VhOlcDdkgR0PXV0CoKaNY,"The Barrowboy & Banker, SE1","6-8 Borough High St, London SE1 9QQ, United Kingdom",51.50622,-0.088665,bar,4.1,2
+ChIJKUvKFAADdkgRiCh5hhcd22Q,Bermondsey Bar and Kitchen,"40 Bermondsey St, London SE1 3UD, United Kingdom",51.5022904,-0.0827395,bar,4.1,2
+ChIJ330F5qcEdkgRMHAKgsJ01do,"The Rose & Crown, London Bridge (PUBLOVE)","65 Union St, London SE1 1SG, United Kingdom",51.5038182,-0.0947954,bar,4.2,0
+ChIJ4wQZyEcDdkgR61pd-XJO4z4,All Bar One Butlers Wharf Lon,"34 Shad Thames, London SE1 2YG, United Kingdom",51.5031525,-0.07245259999999999,bar,4.1,2
+ChIJNT7G7K4EdkgRvOFRBYVemfA,The Founder's Arms,"52 Hopton St, London SE1 9JH, United Kingdom",51.5085187,-0.1015827,bar,4.2,2
+ChIJGyPR07sEdkgRN3s3cjSLW6M,Cubana Restaurant Waterloo,"48 Lower Marsh, London SE1 7RG, United Kingdom",51.5014878,-0.1108635,bar,4.2,2
+ChIJaQcSWkUDdkgRMpx0H5Ok-TA,The Brigade Bar + Kitchen,"139 Tooley St, London SE1 2HZ, United Kingdom",51.5040638,-0.081177,bar,4.3,2
+ChIJK65fPq0FdkgRX8n_FL5qWmg,Prince of Wales,"38 Old Town, London SW4 0LB, United Kingdom",51.46395,-0.141905,bar,4.4,2
+ChIJBbrwgk0EdkgRwcTBlRfokPw,The Belle Vue,"1 Clapham Common South Side, London SW4 7AA, United Kingdom",51.4618401,-0.1375883,bar,4.2,2
+ChIJF3ZorVEEdkgRzeyRLe5e03g,MOMMI,"44-48 Clapham High St, London SW4 7UR, United Kingdom",51.464093,-0.132371,bar,4.2,2
+ChIJF2uuJuoFdkgRJZGWuyA_JzM,The Muse Lounge,"182 Walton St, London SW3 2JL, United Kingdom",51.49414240000001,-0.1680197,bar,4.4,0
+ChIJERVIg3cFdkgRl1bmniFpMFQ,London House - Gordon Ramsay,"7-9 Battersea Square, London SW11 3RA, United Kingdom",51.4752521,-0.175253,bar,4.1,3
+ChIJs9Er2SAFdkgR5W5Yz5kW9Ao,Bbar,"43 Buckingham Palace Rd, London SW1W 0PP, United Kingdom",51.4982082,-0.1435102,bar,4.4,2
+ChIJnWnVOUcEdkgRCyoGFQqcGU8,Windmill Brixton,"22 Blenheim Gardens, Brixton Hill, London SW2 5BZ, United Kingdom",51.4539719,-0.1225344,bar,4.5,0
+ChIJlTC9n8UFdkgR1p8mmsmI20Q,The Regent,"21 Chestnut Grove, London SW12 8JB, United Kingdom",51.444038,-0.153682,bar,4.1,2
+ChIJwZ9ERisFdkgRA26PtVlwlgQ,The Loop Bar,"19 Dering St, London W1S 1AH, United Kingdom",51.5141641,-0.1454575,bar,3.7,2
+ChIJNQsDclUDdkgRvZqcNZvdRgM,Core Bar,"10-15 Queen St, London EC4N 1TY, United Kingdom",51.51295709999999,-0.0928063,bar,3.9,2
+ChIJJf3IuA4GdkgRlmfiVML1GbA,The Trafalgar Arms,"148-156 Tooting High St, London SW17 0RT, United Kingdom",51.42516149999999,-0.1712117,bar,4.2,2
+ChIJ65xQhFwFdkgR2Wtz2uH7VwI,ħ-bar,"Imperial College Rd, South Kensington, London SW7 5HQ, United Kingdom",51.4986262,-0.1783335,bar,4.2,1
+ChIJhyEUKkwDdkgR3o22dWfAq9o,All Bar One Tower Of London,"16 Byward St, London EC3R 5BA, United Kingdom",51.5097891,-0.07903149999999999,bar,4.1,2
+ChIJB8W1D2YEdkgR2o3IBDrHf7s,Brixton Port Authority,"8PQ, 49 Brixton Station Rd, London SW9 8JH, United Kingdom",51.4635255,-0.1123267,bar,5,0
+ChIJ0Xf9migEdkgRdTi_3YA8xHU,Specialist Cellars,"49 Brixton Station Rd, London SW9 8PQ, United Kingdom",51.4635088,-0.1123713,bar,4.7,2
+ChIJyTTZAtMEdkgRf26pa-FLfhU,Admiral Duncan,"54 Old Compton St, London W1D 4UD, United Kingdom",51.5129131,-0.1322792,bar,4.3,2
+ChIJgSJZsrAcdkgRDBKu1-IgdkE,Boundary London,"2-4 Boundary St, London E2 7DD, United Kingdom",51.5244249,-0.0762439,bar,3.9,0
+ChIJn0U4piwDdkgRoO_A75mIoho,George Tavern,"373 Commercial Rd, Stepney Green, London E1 0LA, United Kingdom",51.5143195,-0.0530234,bar,4.4,0
+ChIJRz2mTVcDdkgRUd49u7Np6DY,Quarter Bar & Lounge,"8-18 London Bridge St, London SE1 9SG, United Kingdom",51.50527839999999,-0.0882046,bar,4.3,0
+ChIJ-f0CnqUEdkgRbL6ay_3zhtY,Lord Nelson,"243 Union St, London SE1 0LR, United Kingdom",51.50356610000001,-0.1026599,bar,4.5,1
+ChIJ8YxAa68EdkgRnsfeQZgDwEc,The Distillery Bar,"2-8 Great Suffolk St, London SE1 0UG, United Kingdom",51.5056739,-0.1011068,bar,4.3,0
+ChIJ5WKTw7EEdkgRRhwij-alVfA,Lyaness,"20 Upper Ground, London SE1 9PD, United Kingdom",51.5082148,-0.1066934,bar,4.6,3
+ChIJi37021gDdkgRWgiRo3MKIXk,The Royal Oak,"44 Tabard St, London SE1 4JU, United Kingdom",51.5001167,-0.09143609999999999,bar,4.5,1
+ChIJ0y_hHjwFdkgRfzHwPpEWX6Y,Miraflores Bar & Lounge,"60 Southwark St, London SE1 1UN, United Kingdom",51.5050153,-0.09536249999999999,bar,4.5,0
+ChIJQ9PpMq8EdkgRGzQVuOCoIgQ,The Refinery,"110 Southwark St, London SE1 0TF, United Kingdom",51.5058449,-0.0995515,bar,3.9,2
+ChIJ9_9YblcDdkgRoLJdCksgSdg,The Globe Tavern,"8 Bedale St, London SE1 9AL, United Kingdom",51.5054726,-0.0898899,bar,4.1,2
+ChIJZb05uuoFdkgRNsSju37whSs,MI VALLE BAR RESTAURANT,"226A Brixton Rd, Vassal, London SW9 6AH, United Kingdom",51.4719021,-0.1128993,bar,5,0
+ChIJQfUp7kIEdkgRp84y_4o-FUQ,The Blues Kitchen,"40 Acre Ln, London SW2 5SP, United Kingdom",51.4606188,-0.1192552,bar,4.3,2
+ChIJIdTJGakFdkgR5KZSOAA_N-E,The Queens Arms,"139 St Philip St, London SW8 3SS, United Kingdom",51.46815309999999,-0.1493515,bar,4.6,0
+ChIJY_4H-VkEdkgRT3Lu0LMrE5w,The Phoenix,"348 Clapham Rd, London SW9 9AP, United Kingdom",51.46876,-0.127084,bar,4.1,2
+ChIJsdJAU1AEdkgRlBEM_EzxetI,Tsunami,"5-7 Voltaire Rd, London SW4 6DQ, United Kingdom",51.464703,-0.1314118,bar,4.2,3
+ChIJM4FqcE0EdkgR3QvqdMOj3Mk,WC Wine & Charcuterie,"Clapham Common South Side, London SW4 7AA, United Kingdom",51.46172809999999,-0.1383574,bar,4.4,2
+ChIJodwkkjkEdkgR_IcaPwsy7e4,The Hand in Hand,"61 New Park Rd, Brixton Hill, London SW2 4EN, United Kingdom",51.4475572,-0.1268217,bar,4.5,0
+ChIJiTBOBkUEdkgRQHbnR6tsvdc,Boqueria,"192 Acre Ln, London SW2 5UL, United Kingdom",51.4599404,-0.1271415,bar,4.4,2
+ChIJufZ4C2YPdkgRwiUwfiDNekA,Schooner Bar,"The Ram Quarter, 13 Barley Walk, London SW18 1UL, United Kingdom",51.4574274,-0.1936579,bar,4.9,0
+ChIJizgdw64EdkgR1min8Lp0ndw,Tate Modern Terrace Bar,"Bankside, London SE1 9TG, United Kingdom",51.5071957,-0.1003328,bar,4.4,0
+ChIJNyhNjjsFdkgRsWM-CAmSc2c,The Alfred Tennyson Pub Belgravia,"10 Motcomb St, London SW1X 8LA, United Kingdom",51.4996199,-0.156439,bar,4.3,2
+ChIJM2jO1fcPdkgR8gps5CWlRNg,Goat Tavern,"3A Kensington High St, London W8 5NP, United Kingdom",51.5021639,-0.1876417,bar,4.2,2
+ChIJSxI5sRkFdkgRisKT3W-D0bQ,No 11 Pimlico Road,"11 Pimlico Rd, London SW1W 8NA, United Kingdom",51.4908083,-0.1508083,bar,4.1,2
+ChIJURXOE3wFdkgRL0dVma7qrjM,Chelsea Ram,"32 Burnaby St, London SW10 0PL, United Kingdom",51.47917630000001,-0.1825768,bar,4.4,2
+ChIJ_SfYoLwFdkgRf5a6yItmOU0,Kricket Brixton,"41-43 Atlantic Rd, London SW9 8JL, United Kingdom",51.4623374,-0.1122813,bar,4.4,0
+ChIJWUFrnFcDdkgRTdLG4stiEqY,The Market Porter,"9 Stoney St, London SE1 9AA, United Kingdom",51.5053727,-0.09132409999999999,bar,4.3,2
+ChIJScAqkHMFdkgRUzas6dSHSxM,The Doodle Bar,"60 Druid St, London SE1 2EZ, United Kingdom",51.5002417,-0.07631109999999999,bar,4.2,2
+ChIJDaRaj6wFdkgRH_vw9qDEKI0,Slug & Lettuce County Hall,"North Block (1-63, London SE1 7PJ, United Kingdom",51.5025753,-0.1167972,bar,3.7,2
+ChIJRavljrcEdkgR4hfOxQ9I7RY,Topolski,"150-152 Concert Hall Approach, London SE1 8XU, United Kingdom",51.5048999,-0.1157155,bar,3.9,2
+ChIJvZIDWVcDdkgRDDmI1c_b3W4,Guy's Bar,"Boland House, Guy’s Campus, London SE1 9RT, United Kingdom",51.5041372,-0.0869749,bar,4.2,1
+ChIJ5Z59plcDdkgR5ohjPxKSfHg,The Rake,"Borough Market, 14A Winchester Walk, London SE1 9AG, United Kingdom",51.5061993,-0.09123500000000001,bar,4.4,2
+ChIJxeQyq22q2EcRkpIg2GN42Yg,The Black Cab Coffee Co,"1 RiverLight Quay, Nine Elms, London SW11 8AU, United Kingdom",51.4824742,-0.1363204,bar,4.4,2
+ChIJA5HjpvUEdkgR-yoqr7K3bIY,O Campino Restaurant,"1 Lansdowne Way, London SW8 1HL, United Kingdom",51.4745806,-0.1209307,bar,4.5,1
+ChIJXWUzo2gEdkgRNq6M9-SAKKc,Jalisco,"Unit 1, Brixton Village, Coldharbour Ln, London SW9 8PR, United Kingdom",51.4621703,-0.111432,bar,3.7,0
+ChIJIy3uY2gEdkgR_Sjnydxzv3c,Ritzy Cinema and Cafe,"26 Brixton Rd, Coldharbour Ln, London SW2 1JG, United Kingdom",51.46128110000001,-0.1149681,bar,4.4,0
+ChIJv16yPlIEdkgRf6NfpuvEP3Q,Workers Beer Company,"68a Clapham Manor St, London SW4 6DZ, United Kingdom",51.4658934,-0.1364759,bar,4.8,0
+ChIJXwZnt1EEdkgRrHxNya3z_30,The Saxon,"50 Clapham High St, London SW4 7UL, United Kingdom",51.4639362,-0.1326316,bar,4.3,0
+ChIJ4b4PokUFdkgR_Xnc3r2dFRI,Flight Club,"6 Sir Simon Milton Sq, London SW1E 5DJ, United Kingdom",51.4973372,-0.1428435,bar,4.6,2
+ChIJsSUS7zIbdkgRh4pgkn0wrP8,Flight Club Bloomsbury,"55 New Oxford St, London WC1A 1BS, United Kingdom",51.5167507,-0.1273248,bar,4.6,2
+ChIJR4kQTZYFdkgR8SXKI4mKhmQ,"The Old Bank, Battersea","31-37 Northcote Rd, London SW11 1NJ, United Kingdom",51.4597363,-0.1662692,bar,4.2,2
+ChIJCSlfQQcEdkgRt0h398Pjtm0,The Rosendale,"65 Rosendale Rd, Norwood, London SE21 8EZ, United Kingdom",51.4357397,-0.09419219999999999,bar,4.3,2
+ChIJ3fVn1vEDdkgRXgeZoq354xk,Juno Rooms,"67-69 Watling St, London EC4M 9DD, United Kingdom",51.5130305,-0.0932744,bar,4.4,0
+ChIJE1pFgk8EdkgRGPCWaIvsg_c,Laryn Cafe Bar,"9, Ascot Parade, Clapham Park Rd, London SW4 7EY, United Kingdom",51.45987,-0.1294329,bar,3.8,1
+ChIJl1A34SQEdkgRd_l4kl-23nA,Hood Streatham,"67 Streatham Hill, London SW2 4TX, United Kingdom",51.43985079999999,-0.1256016,bar,4.6,2
+ChIJm177DbcEdkgRvzf85avr8OU,The Green Room,"101 Upper Ground, London SE1 9PP, United Kingdom",51.5060873,-0.1138222,bar,4.1,2
+ChIJy7mDGuwEdkgRmus24meXJAw,Mother Kelly's,"76 Albert Embankment, London SE1 7TP, United Kingdom",51.4878723,-0.122484,bar,4.4,2
+ChIJDchXhaUEdkgRCRwclHX0rF8,The Charlotte,"204 Union St, London SE1 0LX, United Kingdom",51.5037768,-0.1017893,bar,4.2,2
+ChIJRRjStFkDdkgRiO1BpWCKSKw,The Kings Arms,"65 Newcomen St, London SE1 1YT, United Kingdom",51.502887,-0.090986,bar,4.4,2
+ChIJ1ZprnrAEdkgRf4-ubizwazY,The Kings Arms,"Kings Arms, 25 Roupell St, London SE1 8TB, United Kingdom",51.5044576,-0.1090807,bar,4.4,0
+ChIJ87ccWVcDdkgRWAztQVL_MuQ,Bunch of Grapes,"2 St Thomas St, London SE1 9RS, United Kingdom",51.5049709,-0.08914599999999999,bar,4,2
+ChIJQcZS_aUEdkgRajvII1ivtNc,Mc & Sons,"160 Union St, London SE1 0LH, United Kingdom",51.5037537,-0.09983099999999999,bar,4.6,2
+ChIJ74DN5esEdkgRRSK4pftLyH4,The Rose,"35 Albert Embankment, London SE1 7TL, United Kingdom",51.4897765,-0.1226189,bar,4.1,2
+ChIJobyta38DdkgReXlOvuvmo3o,Stormbird,"25 Camberwell Church St, London SE5 8TR, United Kingdom",51.4740389,-0.0904222,bar,4.5,2
+ChIJ-V-3dX8EdkgRjEGsqtdqOe8,The Sun of Camberwell,"61-63 Coldharbour Ln, London SE5 9NS, United Kingdom",51.4701523,-0.094956,bar,4.2,2
+ChIJy51V34EDdkgRx-3gmvXdN8k,The Crooked Well,"16 Grove Ln, London SE5 8SY, United Kingdom",51.4729306,-0.0898607,bar,4.3,2
+ChIJhVtdE4ADdkgRCKSqs_H1ehU,The Joiners Arms,"35 Denmark Hill, London SE5 8RS, United Kingdom",51.4724146,-0.09283659999999999,bar,4.3,1
+ChIJ531-iYMDdkgRzdYPz5-ryJk,George Canning,"123 Grove Ln, London SE5 8BG, United Kingdom",51.4680458,-0.08624849999999999,bar,3.9,2
+ChIJid1yZt4DdkgRURco9vc0AYU,Anspach & Hobday: The Pigeon,"41 Camberwell Church St, London SE5 8TR, United Kingdom",51.4739803,-0.0895908,bar,4.8,0
+ChIJFXsUUX8DdkgRjFUm5T9d-L0,Jazzlive at The Crypt,"St Giles Church, Camberwell Church St, London SE5 8JB, United Kingdom",51.47301299999999,-0.08713699999999999,bar,4.8,1
+ChIJwUPTfPIDdkgRB_5ns0KyZnE,Peckham Riviera,"Unit 4 Dovedale Trading Estate, London SE15 4QN, United Kingdom",51.4697293,-0.0702058,bar,4.1,0
+ChIJ3ZPgq7EFdkgRLnTTT46pxQM,Cable Bakery Bar and Pizzeria,"82 Bolton Cres, London SE5 0SE, United Kingdom",51.4804926,-0.1081222,bar,4.5,0
+ChIJgaI8bFIDdkgRhJJqLMxsFdU,Sky Garden,"1 SKY GARDEN WALK, London EC3M 8AF, United Kingdom",51.5112422,-0.08354929999999999,bar,4.7,0
+ChIJ2WGHHMEddkgRC-Tr05fjI2c,Simmons Bar | Brick Lane,"202 Brick Ln, London E1 6SA, United Kingdom",51.5241248,-0.07142749999999999,bar,5,2
+ChIJdaV-gysbdkgRDaPXITKAxJI,Nordic Bar,"25 Newman St, London W1T 1PN, United Kingdom",51.5178583,-0.1356944,bar,4,2
+ChIJH9fnZq4cdkgRsGTJBzFuuGk,Black Rock,"9 Christopher St, London EC2A 2BS, United Kingdom",51.5214866,-0.0846099,bar,4.8,2
+ChIJ_SoUzNIFdkgRNYT6CmHE7CI,The Lost Alhambra,"28a Leicester Square, London WC2H 7LE, United Kingdom",51.5102841,-0.1292901,bar,4.9,0
+ChIJEzD1W0sDdkgRjXNUABjVAd0,Jin Bo Law,"14th floor, 9 Aldgate High Street Dorsett City, London EC3N 1AH, United Kingdom",51.5142031,-0.07587909999999999,bar,4.3,0
+ChIJNSHrLD4EdkgR4faWXc7PghI,Elm Park Tavern,"76 Elm Park, London SW2 2UB, United Kingdom",51.4492668,-0.1175839,bar,4.3,2
+ChIJrw3nv0AFdkgRTePphhr-0ao,The Cyclist,"194 Balham High Rd, London SW12 9BP, United Kingdom",51.44379980000001,-0.1529168,bar,4.3,2
+ChIJ0YNYUZYFdkgRngmOSyA654Q,All Bar One,"32-38 Northcote Rd, London SW11 1NZ, United Kingdom",51.4595734,-0.1666668,bar,4.1,2
+ChIJJwfRdRgFdkgR9rDF_oW81DU,The Thomas Cubitt Pub Belgravia,"44 Elizabeth St, London SW1W 9PA, United Kingdom",51.49375389999999,-0.1507776,bar,4.3,3
+ChIJS1jaxVMDdkgR3bUtpP65zaQ,London Cocktail Club - Monument,"2b Eastcheap, London EC3M 1AB, United Kingdom",51.5106754,-0.0859687,bar,4.1,2
+ChIJGQTTFTUbdkgRqCrVtFCIbmg,All Bar One Holborn,"58 Kingsway, London WC2B 6DX, United Kingdom",51.5163246,-0.1191722,bar,4.1,2
+ChIJKWN58bQEdkgRryuK8sF7Rsc,Simmons Bar | Temple,"1 Milford Ln, Temple, London WC2R 3LL, United Kingdom",51.51279779999999,-0.1134243,bar,4.7,2
+ChIJ2-dJEGYEdkgRr7jfIhv8I7o,THE BRICKSTONE,"256-258 Brixton Rd, Vassal, London SW9 6AQ, United Kingdom",51.4711256,-0.1128,bar,4.4,0
+ChIJVTkOUJAFdkgRMPvxauY6G7M,pub,"3-5 Great Scotland Yard, London SW1A 2HN, United Kingdom",51.5064253,-0.1261457,bar,0,0
+ChIJ_zOzkNcEdkgR4JTIG0iM3sw,The American Bar,"16-18 St James's Pl, St. James's, London SW1A 1NJ, United Kingdom",51.5059792,-0.1400649,bar,4.6,4
+ChIJcZKne74FdkgR1Ss0gHmlPBM,The Chelsea Bar,"11 Cadogan Gardens, London SW3 2RJ, United Kingdom",51.4935726,-0.1592237,bar,5,0
+ChIJA5NU52QFdkgRft_qnERe2BI,The Sporting Page,"6 Camera Pl, London SW10 0BH, United Kingdom",51.4846455,-0.1794144,bar,4.4,2
+ChIJfy5VHjsFdkgRIRpEukYHuJs,Blue Bar,"The Berkeley, Wilton Pl, London SW1X 7RL, United Kingdom",51.50206499999999,-0.156196,bar,4.6,4
+ChIJDxNQgOwNdkgRSN6TzQCNsrs,West Five Bar,"Popes Ln, S Ealing Rd, London W5 4NT, United Kingdom",51.4986149,-0.3033309,bar,4,1
+ChIJkX63D1IEdkgReGGWJjZL-mU,Infernos Nightclub,"146 Clapham High St, London SW4 7UH, United Kingdom",51.46277569999999,-0.1359966,bar,3.2,2
+ChIJh6S5edIEdkgRQ_tX_pkPNOw,Ku Lounge,"1 Newport Pl, London WC2H 7JR, United Kingdom",51.51184,-0.12954,bar,4.2,3
+ChIJUQojpM0EdkgRFhryxaJuZqA,Long Acre,"1 Upper St Martin's Ln, London WC2H 9NY, United Kingdom",51.5119639,-0.1272754,bar,3.8,2
+ChIJiUvIu1sEdkgRZJQFh2Pt0jA,Cafe Cairo,"88 Landor Rd, London SW9 9PE, United Kingdom",51.4659139,-0.125044,bar,4.5,2
+ChIJESD07KIFdkgR4Z_mpA-l1gU,The Four Thieves,"51 Lavender Gardens, London SW11 1DJ, United Kingdom",51.4640999,-0.162515,bar,3.8,2
+ChIJLYFWsFADdkgRrLKn5tHOTYQ,Tito's,"273A Clapham Rd, London SW9 9BQ, United Kingdom",51.470792,-0.123745,bar,3.9,2
+ChIJFQMyOkUBdkgRl0fCHBjUXRU,Memory Box Cocktail Bar & Restaurant,"London SE19 1TS, United Kingdom",51.4196122,-0.0800227,bar,4,0
+ChIJAQB8U4wEdkgRpGUNJS-VQEk,24 The Oval,"24 Clapham Rd, London SW9 0JG, United Kingdom",51.4806333,-0.1140222,bar,4.7,2
+ChIJX24k3n8DdkgR2k96p522XRg,The Old Dispensary,"325 Camberwell New Rd, London SE5 0TF, United Kingdom",51.4743218,-0.0935105,bar,4.3,2
+ChIJgbbdd4YEdkgRR8xNGLL_Q6g,The Golden Goose,"148 Camberwell New Rd, Vassal, London SE5 0RR, United Kingdom",51.478151,-0.1034474,bar,4,0
+ChIJMSJVdn8DdkgRWAk3T9Xnslo,The Hermits Cave,"28 Camberwell Church St, London SE5 8QU, United Kingdom",51.4737759,-0.09065329999999999,bar,4.1,1
+ChIJbe6294EDdkgRD_RBKc10Ok4,Grove House Tavern,"26 Camberwell Grove, London SE5 8RE, United Kingdom",51.4721696,-0.08808819999999999,bar,4.1,2
+ChIJm9_XPS4DdkgRBH2bKzCLREI,The Chateau,"29-33 Camberwell Church St, London SE5 8TR, United Kingdom",51.4740668,-0.090141,bar,4.7,0
+ChIJkTRewocEdkgRuYt_wRGxYwE,The Little Cat Cafe,"Myatt's Fields Park, Cormont Rd, London SE5 9RQ, United Kingdom",51.4742767,-0.1046541,bar,4.7,1
+ChIJobyta38DdkgRBwEEhoZNIYc,Caravaggio Italian Restaurant,"47 Camberwell Church St, London SE5 8TR, United Kingdom",51.47390009999999,-0.0893852,bar,4.4,2
+ChIJ2eGySMwEdkgReaElTgTKCAo,"The Round House, Covent Garden","1 Garrick St, London WC2E 9BF, United Kingdom",51.51125740000001,-0.1255357,bar,4.3,2
+ChIJG0yqxEUDdkgR1_OPMkw-0xk,Tower Bridge Arms,"206-208 Tower Bridge Rd, London SE1 2UP, United Kingdom",51.50289,-0.076898,bar,4.2,2
+ChIJz6CUP10DdkgRzb2LBdHdLfw,The George,"40 Tower Bridge Rd, London SE1 4TR, United Kingdom",51.4953314,-0.08349419999999999,bar,4.2,1
+ChIJSVKELloDdkgRl4JvlF6lFkg,The Miller,"96 Snowsfields, London SE1 3SS, United Kingdom",51.50218,-0.08746,bar,4.2,2
+ChIJDxHD91oDdkgRwdbij5Su05Q,The Horseshoe Inn,"26 Melior St, London SE1 3QP, United Kingdom",51.50248879999999,-0.08409259999999999,bar,4.1,2
+ChIJfc1EqboEdkgR6Mw4uUw9HMg,Ev Bar,"The Arches, 97 Isabella St, London SE1 8DD, United Kingdom",51.50414989999999,-0.1060614,bar,4.5,2
+ChIJJYQm4K0EdkgRiVZHAwAUuw0,Doggetts Coat & Badge London,"1 Blackfriars Bridge, London SE1 9UD, United Kingdom",51.5084405,-0.104818,bar,4.1,2
+ChIJcfK0a1cDdkgR42Y1Lb6Ycx0,Whiskey Ginger,"2 Green Dragon Ct, London SE1 9AW, United Kingdom",51.5055303,-0.08960219999999999,bar,4.4,2
+ChIJ7fWU9kQDdkgRiYZnhbYMLqc,"The Bridge Tap, London","32 Borough High St, London SE1 1XU, United Kingdom",51.504494,-0.09069229999999999,bar,4.1,2
+ChIJ-y-NdEUDdkgRf-pX6Ox8kAM,The Two Bridges Ale House & Kitchen,"186 Tooley St, London SE1 2TZ, United Kingdom",51.5032313,-0.0794954,bar,4,2
+ChIJubJY5lgDdkgRMlSWapp_sNQ,The Libertine,"125 Great Suffolk St, London SE1 1PQ, United Kingdom",51.5005392,-0.0972265,bar,4.4,2
+ChIJMSwUbc8FdkgRsru-Q5yrAhc,Lost & Found Bar,"10 Bedford Hill, London SW12 9RG, United Kingdom",51.444744,-0.150986,bar,4.4,2
+ChIJXeZvkGgEdkgRDrySiz0OTrA,Three Little Birds,"412 Coldharbour Ln, London SW9 8LF, United Kingdom",51.4617267,-0.1134887,bar,4.3,2
+ChIJMatwN0kDdkgRcBw8bnixQpM,Savage Garden LDN,"Floor 12, 7 Pepys St, London EC3N 4AF, United Kingdom",51.5112113,-0.0781301,bar,4.3,3
+ChIJuX77JKscdkgRDp6f5-SfQtM,The Refinery New Street Square,"12 New St Square, London EC4A 3BF, United Kingdom",51.5160284,-0.1077325,bar,3.8,2
+ChIJnTFJM10bdkgRXG2XD3yBEm4,Be at One Islington,"12 Upper St, London N1 0PQ, United Kingdom",51.5338429,-0.1058382,bar,4.1,2
+ChIJkd0kzrcPdkgRxHW1mA98-k0,The Central Bar - JD Wetherspoon,"Unit 1, West 12 Shopping Centre, Shepherd's Bush Grn W12 8PH, United Kingdom",51.5039667,-0.2191056,bar,3.8,1
+ChIJGa3wvNIEdkgRN1HW-os2NzY,Swift Soho,"12 Old Compton St, London W1D 4TQ, United Kingdom",51.513829,-0.1300939,bar,4.7,2
+ChIJX3NYCzUbdkgR6rMdCZW5NGI,The Ship Tavern,"12 Gate St, London WC2A 3HP, United Kingdom",51.5172536,-0.1191819,bar,4.4,2
+ChIJLYvxD7ccdkgRdKK7Juzv_cU,London Cocktail Club - Shoreditch,"12, 29 Sclater St, London E1 6HR, United Kingdom",51.5236824,-0.0733485,bar,4.2,2
+ChIJmQM_q6wcdkgRkgwWdzrV8NU,Mint Leaf Lounge,"12 Angel Ct, London EC2R 7HB, United Kingdom",51.51495449999999,-0.0876197,bar,4.1,3
+ChIJX3agpnoMdkgR2Ap7hUTGDPQ,Dirty Martini Covent Garden,"11-12 Russell St, London WC2B 5HZ, United Kingdom",51.5121518,-0.1217541,bar,3.9,2
+ChIJa4btjyoFdkgRJAOdAdsAdbA,sketch,"9 Conduit St, London W1S 2XG, United Kingdom",51.512693,-0.141529,bar,4.3,4
+ChIJ7czO-W0OdkgRZnE6otH3t3k,"Queens Head Pub & Kitchen, Gastropub, BBQ, Smokehouse, Garden","12 Sutton Ln N, Chiswick, London W4 4LD, United Kingdom",51.48901619999999,-0.270083,bar,4.3,2
+ChIJN5ER0zQFdkgR4XSbNAB-9yU,The Carpenters Arms,"12 Seymour Pl, London W1H 7NE, United Kingdom",51.514755,-0.1610237,bar,4.4,2
+ChIJLwkORzMFdkgRjWKk4dvFRBo,City of Quebec,"12 Old Quebec St, London W1H 7AF, United Kingdom",51.5139702,-0.1576124,bar,4,2
+ChIJURt2jFIDdkgR5EgTNcXK254,The Lamb Tavern,"10-12 Leadenhall Market, London EC3V 1LR, United Kingdom",51.5128494,-0.0832984,bar,4.3,2
+ChIJBX12880EdkgRrQII7vdod5Y,Bear & Staff Charing Cross Roa,"10-12 Bear St, London WC2H 7AX, United Kingdom",51.5108367,-0.1286071,bar,4.2,2
+ChIJ-2mrB9UEdkgReKgh9HDC-7s,Cahoots London,"13 Kingly Ct, Carnaby, London W1B 5PW, United Kingdom",51.5124824,-0.1385496,bar,4.6,3
+ChIJXfjZ67cCdkgRRhDeT7bJ9Jc,Iberica Canary Wharf,"12 Cabot Square, London E14 4QQ, United Kingdom",51.50575500000001,-0.02194,bar,4,2
+ChIJbXCf0PEEdkgRJVr0CgQGN-w,Above The Stag Theatre & Bar,"72 Albert Embankment, London SE1 7TP, United Kingdom",51.4875197,-0.1227718,bar,4.7,0
+ChIJfw2aLrocdkgR4t1QwEUrTko,Looking Glass Cocktail Club,"49 Hackney Rd, London E2 7NX, United Kingdom",51.5281744,-0.076128,bar,4.1,2
+ChIJrfUrf8EcdkgRAJ8aw-Hc8LI,The Virgin Queen,"94 Goldsmiths Row, London E2 8QY, United Kingdom",51.533714,-0.06428700000000001,bar,4.5,2
+ChIJMREosbscdkgRNDgmfwqxwT0,TT Liquor,"17B Kingsland Rd, London E2 8AA, United Kingdom",51.5286717,-0.0780752,bar,4.7,2
+ChIJ-RMk_tocdkgRIgDc5Gnv9Z4,London Cocktail Club - Bethnal Green,"Arch 253 Paradise Row, London E2 9LE, United Kingdom",51.52858800000001,-0.05604530000000001,bar,4.2,2
+ChIJjRfWg7gcdkgRGD6iMplj6k4,Birdcage,"80 Columbia Rd, London E2 7QB, United Kingdom",51.5283203,-0.071036,bar,4.2,2
+ChIJ3R8taMccdkgRe7MWeF5Ed4M,The Royal Oak,"73 Columbia Rd, London E2 7RG, United Kingdom",51.5295878,-0.0693438,bar,4.3,2
+ChIJwybjM8McdkgRIUUNUJ5BIK8,The Queen Adelaide,"483 Hackney Rd, London E2 9ED, United Kingdom",51.53241629999999,-0.0590796,bar,4.2,2
+ChIJ3dj-NbocdkgREHU5PsIiknc,Catch,"22 Kingsland Rd, London E2 8DA, United Kingdom",51.527696,-0.077891,bar,2.7,3
+ChIJ0fVMMcUcdkgRDIJa3lWNd4Y,Coupette,"423 Bethnal Green Rd, London E2 0AN, United Kingdom",51.5271964,-0.05912949999999999,bar,4.6,2
+ChIJoccmA5YcdkgRbHtw9XwVDrw,The Glory,"281 Kingsland Rd, London E2 8AS, United Kingdom",51.5362036,-0.07705329999999999,bar,4.2,2
+ChIJQz3eO8UcdkgR6ZDO6e6rYQg,The Sun Tavern,"441 Bethnal Green Rd, London E2 0AN, United Kingdom",51.5273017,-0.0584114,bar,4.6,2
+ChIJq4oaLNYddkgRV49SbxLWPic,Luxe Shoreditch,"12-14 Kingsland Rd, London E2 8DA, United Kingdom",51.5275887,-0.0777542,bar,3.6,0
+ChIJG4IcmDkFdkgRSzLoUUo-8D4,Mandarin Bar,"66 Knightsbridge, London SW1X 7LA, United Kingdom",51.5020749,-0.1599336,bar,4.3,4
+ChIJfwJFtTgFdkgRlKkG2hMau98,Baccarat Bar,"87-135 Brompton Rd, London SW1X 7XL, United Kingdom",51.499792,-0.1625928,bar,4.7,0
+ChIJq6pdXo4PdkgRKtjmoXGxnQE,The Prince,"14 Lillie Rd, London SW6 1TT, United Kingdom",51.48707479999999,-0.1971398,bar,4.1,2
+ChIJx7IeOFQFdkgRThH6kOReJqE,Shisha Vauxhall Waterfront,"3 St George Wharf, London SW8 2LE, United Kingdom",51.4862474,-0.1261572,bar,4.3,0
+ChIJaZNr7qsFdkgRWz7Zif7N3SE,Archer Street SW11,"Lansdowne House, 3-7 Northcote Rd, London SW11 1NG, United Kingdom",51.4604531,-0.166651,bar,3.8,0
+ChIJOURKcHwFdkgRqfDY5N2gv6Y,Windmill Pub Clapham,"Clapham Common South Side, London SW4 9DE, United Kingdom",51.4575621,-0.1442172,bar,4.2,0
+ChIJncNeIHwFdkgRsWsTNMnudts,Lots Road,"114 Lots Rd, London SW10 0RJ, United Kingdom",51.4776688,-0.1832945,bar,4.3,2
+ChIJiWtdm7UPdkgR7Z-V8z5wink,Kona Kai,"515 Fulham Rd., London SW6 1HD, United Kingdom",51.4801553,-0.1923256,bar,4.3,2
+ChIJ7Th4JVIEdkgRorIP0zFMzeM,The Clapham Tap,"128 Clapham Manor St, London SW4 6ED, United Kingdom",51.4643196,-0.135398,bar,4.5,2
+ChIJ347Drc4EdkgRTjjRPSD3YDI,Retro Bar,"2 George Ct, London WC2N 6HH, United Kingdom",51.5091388,-0.1235426,bar,4.4,2
+ChIJ16v9-6gFdkgRu5nBdg5e960,Santa Maria del Sur,"129 Queenstown Rd, London SW8 3RH, United Kingdom",51.4702058,-0.1497249,bar,4.5,3
+ChIJwciwnmwFdkgRAqPhXh2qMiY,Chelsea Potter,"119 King's Rd, London SW3 4PL, United Kingdom",51.48847,-0.16591,bar,3.9,2
+ChIJ3QEp-GsFdkgRadkBn88MO2s,The Sydney Arms,"70 Sydney St, London SW3 6NJ, United Kingdom",51.4887583,-0.1694556,bar,4.1,2
+ChIJUxk7qWkFdkgRnIlqyamHI9g,PJ's Chelsea Brasserie,"52 Fulham Rd., South Kensington, London SW3 6HH, United Kingdom",51.49160939999999,-0.1723204,bar,4.2,2
+ChIJfb0k1EEFdkgRUAPI7n5SWmc,Zefi,"103 Walton St, London SW3 2HP, United Kingdom",51.4940386,-0.1676368,bar,4.2,2
+ChIJM6Oi9TgFdkgRMtjDiynI9kI,Tattersalls Tavern,"1 Knightsbridge Grn, London SW1X 7QN, United Kingdom",51.5009542,-0.1624666,bar,4.2,2
+ChIJuW4AjG8FdkgRDb_vqbTS508,Bluebird Chelsea,"350 King's Rd, London SW3 5UU, United Kingdom",51.48499109999999,-0.1754714,bar,4.2,3
+ChIJ556cqPAEdkgRaIAriFvhx9c,The Nott,"257 Wandsworth Rd, London SW8 2NB, United Kingdom",51.4787579,-0.1286118,bar,3.8,0
+ChIJyZxUsYIPdkgRe7g1tI9aSWw,White Horse London Sw6,"1-3 Parsons Grn, London SW6 4UL, United Kingdom",51.4743996,-0.2002237,bar,4.3,2
+ChIJP-efSFIbdkgRnCF-jDmn864,Oriole Bar,"E Poultry Ave, London EC1A 9LH, United Kingdom",51.5188655,-0.1027917,bar,4.7,3
+ChIJi-8-gTUbdkgRlnM1J18fB24,Scarfes Bar,"Rosewood London, 252 High Holborn, London WC1V 7EN, United Kingdom",51.5175789,-0.118074,bar,4.6,4
+ChIJq53L7xcFdkgR-9mmMm--ymw,Duke of Wellington,"63 Eaton Terrace, London SW1W 8TR, United Kingdom",51.4930857,-0.1533346,bar,4.2,2
+ChIJx5wMWnEFdkgRps0gXnLUpkg,Duke of Battersea,"74-76 Battersea Bridge Rd, London SW11 3AG, United Kingdom",51.4782575,-0.1702395,bar,4.2,0
+ChIJA_uszRUFdkgRo53-Wi_kU6I,Polpo Chelsea,"81 Duke of York Square, London SW3 4LY, United Kingdom",51.4912281,-0.158868,bar,3.9,2
+ChIJKatbfqUEdkgRWd-tdm4OB6A,Blackfriars Wine Bar,"80 Scoresby St, Blackfriars Rd, London SE1 0XN, United Kingdom",51.5042227,-0.1030614,bar,4.3,2
+ChIJ3ZR2KEMDdkgREHNMOmkhWos,Bermondsey Arts Club,"102a Tower Bridge Rd, London SE1 4TP, United Kingdom",51.4967355,-0.0814023,bar,4,0
+ChIJHXBaLVcDdkgRkRwXzazF0ag,Mug House,"1-3 Tooley St, London SE1 2PF, United Kingdom",51.506431,-0.08772519999999999,bar,4.2,2
+ChIJkWTIEgwPdkgR4f5JMAMkPz0,TSQ Bar,"2-4 Lower Richmond Rd, London SW15 1JN, United Kingdom",51.4667714,-0.2156932,bar,3,0
+ChIJH6fuhEUbdkgRb6UADudVd2g,Cafe Kick,"43 Exmouth Market, London EC1R 4QL, United Kingdom",51.5260556,-0.1090556,bar,4.5,2
+ChIJtYfjWw0ddkgRnVjekPBSBoQ,Four Quarters East,"Queen Elizabeth Olympic Park, 8, Canalside, E Bay Ln, London E20 3BS, United Kingdom",51.5468616,-0.024125,bar,4.4,2
+ChIJNW5bxMQHdkgRC3A4wBuO4VM,Barry's Bar,"91 Norwood High St, Norwood, London SE27 9JS, United Kingdom",51.43000199999999,-0.1013022,bar,4.6,0
+ChIJnQBSKi0FdkgRne-ZOu0l5gU,Harrys Bar,"3 Gee's Ct, London W1U 1JB, United Kingdom",51.5146779,-0.150014,bar,0,0
+ChIJY-LYetAFdkgRSFlSukEHWAw,Four Quarters Elephant Park,"20 Ash Ave, London SE17 1GQ, United Kingdom",51.4934558,-0.09526169999999999,bar,4.9,0
+ChIJ2_BzDgwPdkgR5GSDzmUAB8w,The River Bar,"Putney Embankment, London SW15 1LB, United Kingdom",51.4669611,-0.2160443,bar,3.7,0
+ChIJM2nE97IcdkgRR7nvciwgIWY,Polo 24 Hour Bar,"176 Bishopsgate, London EC2M 4NQ, United Kingdom",51.5176092,-0.0801445,bar,4.3,2
+ChIJA4pUDuEadkgR9LEhrtbB-fA,The Good Mixer,"30 Inverness St, London NW1 7HJ, United Kingdom",51.5394522,-0.1446587,bar,4.3,1
+ChIJ814G6rEEdkgRciSvEB36Vlw,Dandelyan,"20 Upper Ground, London SE1 9PD, United Kingdom",51.5084036,-0.1067988,bar,0,0
+ChIJAeN4gLgCdkgRfybkCm-8hAA,Friday's Pub,"International Hotel, 163 Marsh Wall, London E14 9SJ, United Kingdom",51.5015755,-0.0232379,bar,3.9,0
+ChIJbbfNWtIEdkgRkCmmqu5UyMU,Opium Cocktail Bar & Dim Sum Parlour,"15-16 Gerrard St, London W1D 6JE, United Kingdom",51.5117619,-0.1314476,bar,4.3,3
+ChIJ6YnH4tIEdkgR365YdL9_gAk,The Groucho Club,"45 Dean St, London W1D 4QB, United Kingdom",51.513183,-0.13195,bar,4.3,0
+ChIJj6v47wMQdkgRmRaZLmR_Jt4,The Westbourne,"101 Westbourne Park Villas, London W2 5ED, United Kingdom",51.5194091,-0.1948235,bar,4.2,2
+ChIJo3IZzigbdkgR_M6QA_HeUMU,Simmons Bar | Euston Square,"31 University St, London WC1E 6JL, United Kingdom",51.523515,-0.1355835,bar,4.5,2
+ChIJhQm0yNIEdkgRC4bXiV3RvY4,Bar Soho,"23-25 Old Compton St, London W1D 5JL, United Kingdom",51.51315169999999,-0.1309092,bar,4,2
+ChIJ0YHgyV0EdkgRgGrwf017hWw,The Marquis of Lorne,"49 Dalyell Rd, London SW9 9SA, United Kingdom",51.4663889,-0.1197222,bar,4.2,1
+ChIJP1VDwskFdkgRuEghk9bLICU,The Avalon,"16 Balham Hill, Clapham South, London SW12 9EB, United Kingdom",51.4506759,-0.1480247,bar,4.2,2
+ChIJEYfH57cEdkgRH0hdVakUSGk,BFI Bar & Kitchen,"Belvedere Rd, London SE1 8XT, United Kingdom",51.5065265,-0.1147708,bar,3.5,2
+ChIJE-3oZVUDdkgRWoFYCtSpyNc,Merchant House London,"13 Well Ct, London EC4M 9DN, United Kingdom",51.51328969999999,-0.09302969999999999,bar,4.7,3
+ChIJYWqm7dUbdkgRZUD0QR3uwMM,Duo Camden - Bar - Restaurant - Club,"20 Inverness St, London NW1 7HJ, United Kingdom",51.5395751,-0.1442428,bar,3.6,0
+ChIJIQGWCMwEdkgRi9ZJfYJvxak,The Porterhouse,"21-22 Maiden Ln, London WC2E 7NA, United Kingdom",51.5103962,-0.1235792,bar,4.4,2
+ChIJk_qe0KQEdkgRr9bj7L4yZCc,The Crown,"108 Blackfriars Rd, London SE1 8HW, United Kingdom",51.5014196,-0.1049327,bar,3.9,2
+ChIJCyKWDpwFdkgR7XZi5S0fod8,Kerridge's Bar & Grill,"10 Northumberland Ave, London WC2N 5AE, United Kingdom",51.5067787,-0.1246626,bar,4.6,0
+ChIJvRUdGzsFdkgRjMb8HOnGdb0,The Grenadier,"18 Wilton Row, London SW1X 7NR, United Kingdom",51.5014504,-0.1545327,bar,4.5,2
+ChIJeTUDHDQCdkgR6744Is-rPCA,The Chandos,"56 Brockley Rise, London SE23 1LN, United Kingdom",51.4476593,-0.0411813,bar,4.4,2
+ChIJ2auqcq8cdkgR1iXp3FRkHjA,Q Shoreditch,"55-61 Tabernacle St, London EC2A 4AA, United Kingdom",51.52458799999999,-0.0855475,bar,4,3
+ChIJAYddTtgFdkgRTOj2cRJluPw,The Rose & Crown,"140 Tooting Bec Rd, London SW17 8BH, United Kingdom",51.43296900000001,-0.15437,bar,4.5,2
+ChIJtXDyc5YFdkgRYgbMy8kOF2g,Northcote Arms,"94 Northcote Rd, London SW11 6QW, United Kingdom",51.4574661,-0.1659523,bar,4.2,2
+ChIJqwEh5JUcdkgR6eLPIgYhFM4,Draughts - Hackney,"41 Kingsland High St, London E8 2JS, United Kingdom",51.5476804,-0.0757048,bar,4.4,2
+ChIJR_m-IZAcdkgRH3QEyIRPHMY,The Duke of Wellington,"119 Balls Pond Rd, London N1 4BL, United Kingdom",51.5462783,-0.0805954,bar,4.2,2
+ChIJI6PU40MbdkgR-IqFrYH-Nx8,The Lexington,"96-98 Pentonville Rd, London N1 9JB, United Kingdom",51.5317299,-0.1114164,bar,4.3,2
+ChIJn3I-I2EFdkgR_9IwtGOjZbY,Drayton Arms London Sw5,"153 Old Brompton Rd, London SW5 0LJ, United Kingdom",51.4906567,-0.1833273,bar,4.2,2
+ChIJmxe8mWgEdkgR8McdOWOdmsA,The Prince Albert,"418 Coldharbour Ln, London SW9 8LF, United Kingdom",51.46171409999999,-0.1136878,bar,4.1,1
+ChIJK65fPq0FdkgR-bmWMcAV86Y,Feeleys,"99 Union Rd, London SW8 2RF, United Kingdom",51.4714762,-0.1349434,bar,4.5,1
+ChIJIX1Dl_gEdkgRnbxNdBlO3_4,Aquarium Snack Bar,"415 Wandsworth Rd, London SW8 2JP, United Kingdom",51.4735998,-0.1331191,bar,4.2,0
+ChIJuYgA--wEdkgRD-0ylWTyMkw,Royal Vauxhall Tavern,"372 Kennington Ln, London SE11 5HY, United Kingdom",51.48635,-0.1218389,bar,4.5,2
+ChIJs15TLICp2EcRxQ6TX9t9EFk,The CLF Art Lounge & Roof Garden,"4a Station Way, London SE15 4RX, United Kingdom",51.4700202,-0.0689143,bar,4.6,0
+ChIJde4XzJgDdkgR3GLJLRGoy8g,The Victoria Inn,"77 Choumert Rd, London SE15 4AR, United Kingdom",51.467395,-0.07223399999999999,bar,4.1,0
+ChIJP8uWuwoDdkgR6oJUipjR7Ck,The Kentish Drovers,"71-79 Peckham High St, London SE15 5RS, United Kingdom",51.473549,-0.07001199999999999,bar,3.8,1
+ChIJJ9qhR4QCdkgRGpmmNau0tIU,Oliver's Jazz Bar,"9 Nevada St, London SE10 9JL, United Kingdom",51.47966109999999,-0.007899999999999999,bar,4.6,0
+ChIJx9utFHYDdkgR1lb7MijqaW8,The Peckham Pelican,"The Peckham Pelican, 92 Peckham Rd, London SE15 5PY, United Kingdom",51.4740565,-0.0771945,bar,4.3,1
+ChIJITWxnVcDdkgROO02UGfZ_BA,Arthur Hooper's,"8 Stoney St, London SE1 9AA, United Kingdom",51.505329,-0.091221,bar,4.5,2
+ChIJd9ZrglcDdkgRp0u-JylPejU,The Sheaf,"24a Southwark St, London SE1 1TY, United Kingdom",51.504833,-0.091349,bar,4,2
+ChIJuUcpL2EFdkgRo0e_xFMSsLo,Duke of Clarence,"148 Old Brompton Rd, South Kensington, London SW5 0BE, United Kingdom",51.4909494,-0.1825775,bar,4.1,2
+ChIJwXZ-ZdkcdkgRPIsRQylFhnI,The Camel,"277 Globe Rd, Globe Town, London E2 0JD, United Kingdom",51.5289346,-0.0520757,bar,4.7,2
+ChIJ320wopEddkgR6HlsWmoJrC8,Mikkeller Bar London,"2-4 Hackney Rd, London E2 7NS, United Kingdom",51.5273228,-0.0769955,bar,4.5,3
+ChIJ____stscdkgR-CcqkOdpixM,Chiringuito - Bethnal Green,"Museum Gardens, Chiringuito, London E2 9PA, United Kingdom",51.5277476,-0.0551655,bar,4,2
+ChIJgQFoT2cFdkgRPqKqQg_KNC0,"The Hereford Arms, South Kensington","127 Gloucester Rd, South Kensington, London SW7 4TE, United Kingdom",51.4929047,-0.1812864,bar,4.3,2
+ChIJTRa3z3cFdkgRn1v_gGmF65E,The Woodman,"60 Battersea High St, London SW11 3HX, United Kingdom",51.4735948,-0.1736795,bar,4.3,2
+ChIJfZ_tiioFdkgRIlznzd6uZTg,Windmill,"6-8 Mill St, London W1S 2AZ, United Kingdom",51.5124094,-0.142257,bar,4.4,2
+ChIJNeg6qSkFdkgR4FJa5cHCfFg,The May Fair Bar,"Berkeley St, London W1J 8LT, United Kingdom",51.5083163,-0.14359,bar,4.2,0
+ChIJI7XXmS8FdkgRSvkSAo3Or44,Trader Vic's,"22 Park Ln, London W1K 1BE, United Kingdom",51.5055292,-0.1504427,bar,4.2,2
+ChIJKUAlc9UEdkgRpcnPFkg3hS0,Ain't Nothin But The Blues Bar,"20 Kingly St, Carnaby, London W1B 5PZ, United Kingdom",51.512972,-0.139549,bar,4.6,2
+ChIJk3ZLruUEdkgRizv6E6-WPfU,The Grosvenor pub,"79 Grosvenor Rd, Pimlico, London SW1V 3LA, United Kingdom",51.48659079999999,-0.1315063,bar,4.3,1
+ChIJXybcqeYEdkgRfaDBGLed5wo,The Gallery Pub,"1 Lupus St, Pimlico, London SW1V 3AS, United Kingdom",51.4887719,-0.1343203,bar,4,2
+ChIJfWzQ_yAFdkgRAg8YMchNFZY,Greenwood - Sports Pub & Kitchen,"170 Victoria St, London SW1E 5LB, United Kingdom",51.4968429,-0.1438362,bar,3.9,3
+ChIJbVvsgAEFdkgRsXjpn4Twm94,Leh Chalo!,"10 Clapham Common South Side, London SW4 7AA, United Kingdom",51.4614599,-0.1380136,bar,3.5,0
+ChIJGWdASG4FdkgRcoyb2MriFgo,The Pig's Head,"87 Rectory Grove, London SW4 0DR, United Kingdom",51.4656496,-0.1410587,bar,4.7,0
+ChIJFSNR54EEdkgRwveiDXGUynQ,Nag's Head,"242 Camberwell Rd, London SE5 0DP, United Kingdom",51.4768965,-0.0942026,bar,4.2,1
+ChIJv4ufFXoDdkgRxKhsNc8eIKY,The St Georges Tavern,"14 Coleman Rd, London SE5 7TG, United Kingdom",51.47989,-0.0843655,bar,4,0
+ChIJ69q0AlIEdkgR_Wzl956w0ws,Two Brewers,"114 Clapham High St, London SW4 7UJ, United Kingdom",51.46306389999999,-0.1348568,bar,4.2,2
+ChIJ-0943oQPdkgRvH-sVUdNuDI,The Redback Fulham,"490 Fulham Rd., London SW6 5NH, United Kingdom",51.4803771,-0.1983597,bar,3.5,1
+ChIJ-deQ2LUFdkgRnk-Tu1Z33DE,Metro Garden,"9, London SW4 7AA, United Kingdom",51.461544,-0.137939,bar,4.5,2
+ChIJkxWeZ30PdkgRZiJi42dFC8o,The Ship,"41 Jews Row, London SW18 1TB, United Kingdom",51.4635107,-0.1880989,bar,4.3,2
+ChIJp0ElQK0FdkgR8ZEfV_C9s5M,Omnibus Theatre,"1 Clapham Common North Side, London SW4 0QW, United Kingdom",51.4636578,-0.1423604,bar,4.6,0
+ChIJg_Psqj4cdkgR3_0RIano5uc,Affinity Brewing Company,"17 Sidney Rd, London SW9 0TP, United Kingdom",51.4698959,-0.1171985,bar,4.6,0
+ChIJg_5suKcddkgRLRQMFdMNVg8,Sports Bar & Grill Old Street,"174-180 Old St, London EC1V 9RQ, United Kingdom",51.5251356,-0.090096,bar,3.9,2
+ChIJVw0DqiEFdkgRRV5UJPf2PY0,Sports Bar & Grill Victoria,"Victoria St, London SW1V 1JU, United Kingdom",51.4955815,-0.1441127,bar,3.8,0
+ChIJuRFCz7EcdkgRJhtzI4Y11Tg,Queen of Hoxton,"1 Curtain Rd, London EC2A 3JX, United Kingdom",51.5222659,-0.0811886,bar,3.9,2
+ChIJ_5MAT4QPdkgRimdaT4TveMQ,Broadway Bar and Grill,"474, 476 Fulham Rd., London SW6 1BY, United Kingdom",51.4801802,-0.1957116,bar,4.1,2
+ChIJswZMtAcFdkgRD8YIJsrmXqY,The Magic Garden,"231 Battersea Park Rd, London SW11 4LG, United Kingdom",51.4753333,-0.1508611,bar,4.1,2
+ChIJiz5-2SkFdkgR8duZJPLkN7k,Clarence Dover St London W1,"4 Dover St, London W1S 4LB, United Kingdom",51.50786799999999,-0.1413457,bar,4.2,2
+ChIJ2Xe4MBEbdkgRXvgrGYkgZb4,Egg London Nightclub,"5-13 Vale Royal, London N7 9AP, United Kingdom",51.5419444,-0.1248616,bar,3.7,2
+ChIJv2nJxtIEdkgR5BVDRcOlpog,L'Escargot Restaurant,"48 Greek St, London W1D 4EF, United Kingdom",51.5139794,-0.1309288,bar,4.5,3
+ChIJiX3I0wAddkgR17EREehAlzs,Simmons Bar | Old Street,"235 Old St, London EC1V 9HE, United Kingdom",51.5262551,-0.0859564,bar,4.4,2
+ChIJa1uHRMoEdkgRq4LNAJbXbhg,CellarDoor,"Wellington St, London WC2R 0HS, United Kingdom",51.5114814,-0.1192701,bar,4.4,4
+ChIJsfRRx_UFdkgRCi_LjVO0W0E,Old Town Tavern,"29 North St, London SW4 0HJ, United Kingdom",51.4661329,-0.1421654,bar,4.7,0
+ChIJnXmRd7YFdkgRvh5oKamsTak,Sequoia Lounge,"6 Cavendish Parade, London SW4 9DP, United Kingdom",51.45377329999999,-0.146422,bar,4.4,0
+ChIJlcLPUukFdkgRDpTFJXxzQrY,Tropix,"10 Clapham High St, London SW4 7UT, United Kingdom",51.4650508,-0.130277,bar,4.4,0
+ChIJSRBTS7AEdkgRQF2KiV42dLs,Fountain & Ink,"52-54 Stamford St, London SE1 9LX, United Kingdom",51.5071841,-0.1075502,bar,4.3,2
+ChIJlfxeK5IFdkgRC5CVtNwMhTc,SIXTY/FOUR Cocktail Bar & Grill,"64 Clapham High St, London SW4 7UL, United Kingdom",51.4637488,-0.1331135,bar,4.5,0
+ChIJa9dBHZ8FdkgRoBwYMb41Pks,Darts Club Clapham,"Clapham Common South Side, London SW4 7AA, United Kingdom",51.4613068,-0.1382581,bar,4.2,0
+ChIJe3Va2EoEdkgRUbvmmsICN1o,Bistro Union,"40 Abbeville Rd, London SW4 9NG, United Kingdom",51.45432599999999,-0.139749,bar,4.2,2
+ChIJMU67iLcEdkgRWu-piRCk2hk,Waterloo Tap,"Sutton Walk, London SE1 8RL, United Kingdom",51.5045521,-0.1150203,bar,4.2,2
+ChIJ3VDU-r4EdkgRTxTmIVTL0ao,The Pineapple,"53 Hercules Rd, London SE1 7DZ, United Kingdom",51.4972278,-0.1138738,bar,4.2,1
+ChIJ6xw3J7oEdkgRkM1wbZLQapo,The Beer House,"109 Waterloo Rd, London SE1 8SW, United Kingdom",51.50276969999999,-0.1114125,bar,3.6,2
+ChIJGwSfOroEdkgRj73qMoMAw1w,Fire Station,"150 Waterloo Rd, London SE1 8SB, United Kingdom",51.5025717,-0.1106011,bar,4.1,2
+ChIJSexAuSUEdkgRBSVb6GAWTzw,Perfect Blend,"8-9, Streatleigh Parade, Streatham High Rd, London SW16 1EQ, United Kingdom",51.4375892,-0.1269838,bar,4.2,2
+ChIJafWn6pMGdkgRhxe10vhK75s,Moorish Lounge,"447 Streatham High Rd, Norbury, London SW16 3PH, United Kingdom",51.4138557,-0.1242623,bar,4.7,2
+ChIJ341BOm4FdkgRhZHILShyK_Y,The Chelsea Pig,"35 Old Church St, London SW3 5BS, United Kingdom",51.4842923,-0.1722511,bar,3.9,2
+ChIJqU4rI6YEdkgR-DeXL18zHfM,Bread Street Kitchen & Bar - Southwark,"47-51 Great Suffolk St, London SE1 0BS, United Kingdom",51.5035938,-0.101239,bar,4.2,2
+ChIJsWVOdJIcdkgRW-ebRT4wvJM,The Speakeasy,"9 Dalston Ln, London E8 3DF, United Kingdom",51.5463453,-0.07466869999999999,bar,4.2,0
+ChIJCRrzorcEdkgRmHmuNo5JzpA,Brasserie Blanc,"9 Belvedere Rd, London SE1 8YL, United Kingdom",51.5056765,-0.1149389,bar,4.3,2
+ChIJpd62AKIEdkgRL7W8psIphWE,Mamuśka! Polish Kitchen and Bar,"9 Addington St, London SE1 7RY, United Kingdom",51.5011002,-0.1152356,bar,4.3,1
+ChIJGaEvI0kbdkgRW1nu3I6YSLs,PimpShuei,"59 Mount Pleasant, London WC1X 0AY, United Kingdom",51.5228057,-0.112576,bar,4.7,2
+ChIJjWbMmVsFdkgRCiLHLh9ZtOo,Bar 190,"190 Queen's Gate, South Kensington, London SW7 5EX, United Kingdom",51.5002497,-0.1797527,bar,4.5,0
+ChIJRXCcCSsbdkgRWngFn-SiwMg,Long Bar,"50 Berners St, London W1T 3NG, United Kingdom",51.5174738,-0.1372109,bar,4,0
+ChIJub28q0IFdkgRlFaawpqgSAY,Dolce Kensington Club London,"17A Harrington Rd, South Kensington, London SW7 3ES, United Kingdom",51.4939941,-0.1756944,bar,3.4,2
+ChIJ-aY0-XsFdkgRoFIf8pyTPl0,606 Club,"90 Lots Rd, London SW10 0QD, United Kingdom",51.478429,-0.1816312,bar,4.6,0
+ChIJu3rHp2MFdkgRAsq4bQbbMb4,Hollywood Arms,"45 Hollywood Rd, London SW10 9HX, United Kingdom",51.4861186,-0.1840164,bar,4.3,2
+ChIJ-TGQjmgEdkgRdgAbaP9LiiQ,The Rum Kitchen,"437 Coldharbour Ln, London SW9 8LN, United Kingdom",51.4614743,-0.1137835,bar,3.9,2
+ChIJLUYoyMwadkgRXd78OiatL0Q,The Churchill Bar and Terrace,"Hyatt Regency, 30 Portman Square, London W1H 7BH, United Kingdom",51.515227,-0.15689,bar,4.5,0
+ChIJ8SPji1MbdkgREXtxpLw-YgU,"Le Bar - Cocktails, Wine & Bistro","59 W Smithfield, London EC1A 9DS, United Kingdom",51.51861659999999,-0.1002308,bar,4.3,2
+ChIJs2NI4IcadkgRz8U2MVZfIYc,King William IV Pub & Rooms,"77 Hampstead High St, London NW3 1RE, United Kingdom",51.5556614,-0.1768173,bar,4.2,0
+ChIJzYQwYdEcdkgRmhwunz9jp_o,The White Hart,"1 Mile End Rd, Bethnal Green, London E1 4TP, United Kingdom",51.52019199999999,-0.0562341,bar,4.3,2
+ChIJETCWsywFdkgR3WpLYXXjyFI,Harry Gordon's Bar & Kitchen,"Selfridges, 400 Oxford St, London W1A 1AB, United Kingdom",51.5140574,-0.1529279,bar,4.5,0
+ChIJXb620MkRdkgR9TrwBjVn6_k,Angies,"129 High St, London NW10 4TR, United Kingdom",51.5354586,-0.2437059,bar,4.1,1
+ChIJfXuq-80EdkgR2wZJuV13B5k,TGI Fridays - Leicester Square,"30 Leicester Square, London WC2H 7LA, United Kingdom",51.51015090000001,-0.129049,bar,3.9,2
+ChIJfc2Arn0FdkgR8E9-vGjt-y0,Embargo Republica,"533b King's Rd, London SW10 0TZ, United Kingdom",51.4802626,-0.1854405,bar,3.4,0
+ChIJ-TGQjmgEdkgR2mXOIEoZgwc,Brixbar Ltd,"443-445 Coldharbour Ln, London SW9 8LN, United Kingdom",51.4614036,-0.1140324,bar,0,0
+ChIJRxdN7scFdkgR9MERFjif0dA,Simmons Bar | Piccadilly Circus,"4 Golden Square, London W1F 9HT, United Kingdom",51.5120277,-0.1368395,bar,4.3,2
+ChIJu6GgulADdkgRaP_LERUHmk8,Londinium,"8-18 London Bridge St, London SE1 9SG, United Kingdom",51.50521879999999,-0.088166,bar,3.5,0
+ChIJd6Wa2DQbdkgR1kza4rSNkUk,Sway Bar,"61-65 Great Queen St, London WC2B 5BZ, United Kingdom",51.515668,-0.1205362,bar,3.7,2
+ChIJFZfF1coEdkgRpiMmoPwtmCA,Philomena's Irish Sports Bar & Kitchen,"40 Great Queen St, London WC2B 5AA, United Kingdom",51.514982,-0.121932,bar,4.3,2
+ChIJRZH409EEdkgRBxaLMN6ua6k,The Rooftop,"7th Floor, 2 Spring Gardens, St. James's, London SW1A 2TS, United Kingdom",51.5074262,-0.1292119,bar,4.2,3
+ChIJVUIwx80EdkgRoJcAipJhY7E,The Salisbury Pub,"90 Saint Martin's Ln, London WC2N 4AP, United Kingdom",51.51095309999999,-0.1271595,bar,4.3,2
+ChIJySI10c0EdkgRsI0eM7W1OWA,The Chandos,"29 St Martin's Ln, London WC2N 4ER, United Kingdom",51.5095517,-0.126781,bar,4.3,1
+ChIJ17OLms0EdkgRVDjHDXMpd9o,The Porcupine,"48 Charing Cross Rd, London WC2H 0BS, United Kingdom",51.5117433,-0.1281966,bar,4.2,2
+ChIJ5U1fqGgEdkgRr_ji6VaZyTA,Cheese + Fizz,"Brixton Village, 10 and 11, Coldharbour Ln, London SW9 8PR, United Kingdom",51.4622886,-0.1120315,bar,4.2,2
+ChIJ2Qu8ycwEdkgRAGMpL0ZIvEs,Circus,"27-29 Endell St, London WC2H 9BA, United Kingdom",51.5144779,-0.1246707,bar,4.2,3
+ChIJI60zKMwEdkgRKo8uGu7x8sk,The Marquis,"51-52 Chandos Pl, London WC2N 4HS, United Kingdom",51.50978260000001,-0.1256542,bar,4.3,2
+ChIJC2nwEsoEdkgRcm70BYPEVQM,Pennethorne's Bar,"Somerset House, London WC2R 1LA, United Kingdom",51.510876,-0.118294,bar,4.1,0
+ChIJQ_xWnVcDdkgRkf6RAWWsYdM,The Wheatsheaf,"6 Stoney St, London SE1 9AA, United Kingdom",51.5051503,-0.09103739999999999,bar,4.2,2
+ChIJtw9RoNcEdkgReDOLHI6I1gg,Avenue,"7-9 St James's St, St. James's, London SW1A 1EE, United Kingdom",51.5058584,-0.1382028,bar,4.2,2
+ChIJd3ly4TobdkgR6WMYc91z15Q,Mabel's Tavern,"9 Mabledon Pl, London WC1H 8AZ, United Kingdom",51.5278305,-0.1275718,bar,4.2,2
+ChIJ5dnJ6gkFdkgRY1n2pQeQMoY,Lost Society,"339 Battersea Park Rd, London SW11 4LS, United Kingdom",51.4740667,-0.157029,bar,4.1,2
+ChIJienl5IQPdkgR35XmQmFAjYw,Sports Bar London,"474 Fulham Broadway, London SW6 1AE, United Kingdom",51.4801786,-0.1956783,bar,4.2,2
+ChIJW2xcgT0FdkgR6C_FtRQQMCI,"The Antelope, Belgravia","22 Eaton Terrace, London SW1W 8EZ, United Kingdom",51.4939928,-0.1554194,bar,4.2,2
+ChIJg7H4FagEdkgRpmgV2v-i7gs,Clinks Bar,"53-61 Southwark Bridge Rd, London SE1 9HH, United Kingdom",51.5054489,-0.0951902,bar,4,0
+ChIJSbFBvpQFdkgREL29YKVgfaA,Draughts - Waterloo,"Arch 16 Leake St, London SE1 7NN, United Kingdom",51.50194140000001,-0.1157433,bar,4.4,2
+ChIJKWAmWhgFdkgRbAxfRo7N_6k,Rileys Sports Bar Victoria,"16 Semley Pl, London SW1W 9QJ, United Kingdom",51.4922222,-0.1502778,bar,3.8,2
+ChIJ-8PFl4IGdkgRjLxDLNBXVfk,Art & Craft SW16 Beer Bottle Shop,"2a Streatham High Rd, London SW16 1DB, United Kingdom",51.4379378,-0.1274864,bar,4.8,0
+ChIJQR07vd8FdkgRy6WpnSL1pJU,London Snooker,"2a Lynwood Rd, London SW17 8SA, United Kingdom",51.4331411,-0.1630245,bar,4.1,1
+ChIJ2-7tzp4DdkgRWmsS6U-UFB8,Kanpai London Sake Brewery & Taproom,"Unit 2A-2, 133 Copeland Rd, London SE15 3SN, United Kingdom",51.4697192,-0.0661956,bar,4.9,0
+ChIJc1290q8EdkgRzmquDwQgy48,Fuller's Ale & Pie House,"3-7 Stamford St, London SE1 9NY, United Kingdom",51.50700759999999,-0.1049542,bar,4,2
+ChIJDRaQMVYDdkgRU-mYSkd2cNU,Anchor Bankside,"34 Park St, London SE1 9EF, United Kingdom",51.50731769999999,-0.09281589999999999,bar,4.2,2
+ChIJ5V4Tx7EEdkgRATzq2JQW34E,Sea Containers London,"20 Upper Ground, London SE1 9PD, United Kingdom",51.5081459,-0.1066843,bar,4.5,0
+ChIJ70dbCqkEdkgR_2rXCHnP0aQ,Swan at the Globe,"21 New Globe Walk, Bankside, London SE1 9DT, United Kingdom",51.5082418,-0.09652360000000001,bar,4.3,2
+ChIJk9LIC8cEdkgRcPrcvVHnOy4,Gillray's Steakhouse & Bar,"County Hall, Westminster Bridge Rd, London SE1 7PB, United Kingdom",51.5018401,-0.1193456,bar,4.1,3
+ChIJIcM74UUDdkgRga0flIe--4k,The Vault 1894,"Tower Bridge, Shad Thames, London SE1 2UP, United Kingdom",51.5043556,-0.0761722,bar,4,2
+ChIJC-lciFcDdkgRXIsuwZbbVsw,Call Me Mr Lucky,"11 Southwark St, London SE1 1RQ, United Kingdom",51.5045833,-0.09137289999999999,bar,4.1,2
+ChIJo8HQzc0EdkgRz8yyHDjJ8C0,Blind Spot London,"45 St Martin's Ln, London WC2N 4HX, United Kingdom",51.5105139,-0.1267722,bar,4.4,2
+ChIJo_iYIJcDdkgRcuW3lKTvjPU,The Bishop,"25 Lordship Ln, London SE22 8EW, United Kingdom",51.4597229,-0.07498520000000002,bar,4.2,2
+ChIJS2TjvVgDdkgRYLpwHoV9Les,Dover Castle Bar,"6A Great Dover St, London SE1 4XW, United Kingdom",51.5004697,-0.0928028,bar,4.3,1
+ChIJvbvsblMDdkgRWk4N14gsW1c,Forge,"24 Cornhill, London EC3V 3ND, United Kingdom",51.5132105,-0.0870753,bar,3.6,2
+ChIJrXaGcusDdkgRGCZDPgBpT8U,Plough Dulwich,"381 Lordship Ln, London SE22 8JJ, United Kingdom",51.44945569999999,-0.0742953,bar,4,2
+ChIJU2RIp-wFdkgRmJmNRVWsYXE,Tonight Josephine Waterloo,"111 Waterloo Rd, London SE1 8UL, United Kingdom",51.5026176,-0.1100641,bar,4.4,0
+ChIJZfjW_xIFdkgRGBdYNnbZObI,Gordon Ramsay Bar & Grill - Chelsea,"79 Royal Hospital Rd, London SW3 4AN, United Kingdom",51.4859437,-0.1614945,bar,4.1,3
+ChIJva448fQCdkgRsuj8m0l0kW4,Little Nan's Bar,"London SE8 4BZ, United Kingdom",51.4787507,-0.0266128,bar,4.1,2
+ChIJTZx_B4IFdkgRJfb0zozDVfM,The Waterside,"Imperial Wharf, The Blvd, London SW6 2SU, United Kingdom",51.4728182,-0.1815688,bar,4.1,2
+ChIJp5oiZTgEdkgR-5O_pW79EXE,Prince of Wales - Brakspear Pubs,"169 Lyham Rd, Brixton Hill, London SW2 5PY, United Kingdom",51.45346240000001,-0.1267688,bar,4.1,1
+ChIJVTXxpegEdkgRDwcK5k77nrI,The Morpeth Arms,"58 Millbank, London SW1P 4RW, United Kingdom",51.4894082,-0.1287178,bar,4.2,2
+ChIJf6kWPFcDdkgRCUFAvvhk8fs,Mudlark London Bridge,"Montague Cl, London SE1 9DA, United Kingdom",51.5064656,-0.088975,bar,4.1,2
+ChIJ_dcOIKIHdkgRZ318cZFcfOs,The Ravensbury,"260 Croydon Rd, Mitcham CR4 4JA, United Kingdom",51.3977027,-0.1577918,bar,4,2
+ChIJt-dMgUAGdkgRVjlHkOql8wE,White Lion of Mortimer,"223 London Rd, Mitcham CR4 2JD, United Kingdom",51.4065702,-0.163882,bar,3.9,1
+ChIJZwJaizAGdkgRTlD_WcWff_U,Casuarina Tree,"#407, London Rd, Mitcham CR4 4BG, United Kingdom",51.3979881,-0.1722846,bar,4.1,0
+ChIJnRctu1YGdkgR1WwC1NqyZA4,Miller & Carter Mitcham,"1 Windmill Rd, Mitcham CR4 1HT, United Kingdom",51.394792,-0.145266,bar,4.2,2
+ChIJ49lj680EdkgRsIZ3vLs_8tk,The Comedy Pub,"7 Oxendon St, London SW1Y 4EE, United Kingdom",51.509739,-0.1320046,bar,3.9,2
+ChIJW8NX9BEPdkgRTbNlGQc04B8,Revolution London - Putney,"202 Upper Richmond Rd, London SW15 6TD, United Kingdom",51.46106570000001,-0.2172175,bar,4.1,2
+ChIJI_raytMEdkgRQBNj5weKsxM,Waxy O'Connor's,"14-16 Rupert St, London W1D 6DD, United Kingdom",51.510819,-0.132399,bar,4.5,2
+ChIJefc0LtIEdkgRL5tri0ldhLY,Kings Sports Bar at The Empire Casino,"Empire Casino, 5-6 Leicester Square, London WC2H 7NA, United Kingdom",51.5109376,-0.1305014,bar,4.1,2
+ChIJ9SpAn9IEdkgR_Knrbky2MJU,Cambridge Hotel London Wc2,"93 Charing Cross Rd, London WC2H 0DP, United Kingdom",51.5135754,-0.1294975,bar,4.3,2
+ChIJidyEx9MEdkgRCOVvGYeKftw,Rumba,"36 Shaftesbury Ave, London W1D 7EP, United Kingdom",51.5111526,-0.1332858,bar,3,2
+ChIJ16QiKg8PdkgRyTioiPZfcSQ,The Half Moon,"93 Lower Richmond Rd, London SW15 1EU, United Kingdom",51.4673036,-0.2200889,bar,4.3,2
+ChIJ17GS9m8FdkgROxykxKY9hbU,Azteca,"329 King's Rd, London SW3 5ES, United Kingdom",51.4842964,-0.1758939,bar,4.4,2
+ChIJLcdBZ_EPdkgRsJq3DgIkAkY,The Britannia,"1 Allen St, London W8 6UX, United Kingdom",51.49864669999999,-0.1954546,bar,4.2,2
+ChIJi3F0wpcFdkgRdbECfmuqc7o,Tequila Mockingbird Clapham Junction,"46 Battersea Rise, London SW11 1EE, United Kingdom",51.461025,-0.1651437,bar,4.1,2
+ChIJNzPYDI4ddkgRO6lOBsUTwTs,The Palm Tree,"127 Grove Rd, Bow, London E3 5BH, United Kingdom",51.5290545,-0.0405235,bar,4.5,0
+ChIJ1woCeyEddkgRJJfi4Ffmo2I,The Crown,"223 Grove Rd, Old Ford, London E3 5SN, United Kingdom",51.5329042,-0.0416579,bar,4.1,2
+ChIJxeRRWk4ddkgRxfYSvoxieq8,The Beehive,"104 Empson St, London E3 3LT, United Kingdom",51.52227999999999,-0.0141918,bar,4.3,0
+ChIJ6cztPjoddkgR6kKXH3DZKJU,The Coborn,"8 Coborn Rd, Bow, London E3 2DA, United Kingdom",51.52700650000001,-0.0300232,bar,4.3,2
+ChIJHZAK1_wFdkgRqgDUjC-IFVk,Voodoo Bar,"9 Hildreth St, London SW12 9RQ, United Kingdom",51.44460309999999,-0.1512048,bar,4.5,0
+ChIJXxFizbMFdkgRWk6t0MFqA9Q,Bar @ 26 Leake Street,"26 Leake St, London SE1 7NN, United Kingdom",51.50146480000001,-0.1151247,bar,4.5,0
+ChIJ--uMBmgDdkgRLKLZeFSj564,The Victoria,"68-70 Page's Walk, London SE1 4HL, United Kingdom",51.4945979,-0.08073229999999999,bar,4.7,0
+ChIJo15e1lkDdkgR-X84Yf2cA0s,George,"75 Borough High St, London SE1 1NH, United Kingdom",51.5043004,-0.09032889999999999,bar,4.3,2
+ChIJ4RdyzjEbdkgREfAUkWIEW48,The Institute Bar,"Level 4, 20 Bedford Way, London WC1H 0AL, United Kingdom",51.5225605,-0.1282212,bar,4.4,1
+ChIJxW_IVx8FdkgRLXS07Ynr9Fs,Wetherspoons (Victoria Station),"Unit 5 (1st Floor above WHSmith), Victoria Station Concourse, London SW1V 1JT, United Kingdom",51.49507699999999,-0.1443459,bar,3.8,1
+ChIJk8CtHN8EdkgR836GZws-7Bw,M Victoria Street,"Zig Zag Building, 74 Victoria St, London SW1E 6SQ, United Kingdom",51.4972054,-0.1388244,bar,4.4,3
+ChIJyyZWkhEPdkgR_LfPU-4kznY,Fox & Hounds,"167 Upper Richmond Rd, London SW15 6SE, United Kingdom",51.4608576,-0.2177033,bar,4.1,1
+ChIJZQfsbkgddkgRTuYEJTYGwRg,Rake’s Café Bar,"40 Liverpool St, London EC2M 7QN, United Kingdom",51.5171623,-0.0810682,bar,4.2,0
+ChIJT9XiYEUbdkgRHcTHOF6tH6g,Bourne & Hollingsworth Buildings,"42 Northampton Rd, London EC1R 0HU, United Kingdom",51.5255525,-0.1073241,bar,4,2
+ChIJ0Z4f0ygFdkgRT6SJYxIUqOU,Shepherd Market,"Shepherd Market, London W1J 7QU, United Kingdom",51.5065323,-0.1468372,bar,4.4,0
+ChIJDUkDWC0FdkgRvr1r4roiH4E,Selfridges,"400 Oxford St, London W1A 1AB, United Kingdom",51.5144233,-0.152767,bar,4.5,0
+ChIJk1pyhA4UdkgREnOzgizwohA,Bnova India Restaurant and Bar,"865 Honeypot Ln, Stanmore HA7 1AR, United Kingdom",51.60635300000001,-0.30089,bar,4.3,2
+ChIJT639yPNpdkgRtlUS0yf2c9Q,The Stables,"Chandler's Cross, Watford WD3 4TG, United Kingdom",51.6766421,-0.4391792,bar,4.3,0
+ChIJFwGjogIEdkgRGCkboh2HR1o,The Great North Wood,"3 Knights Hill, Norwood, London SE27 0HS, United Kingdom",51.4314891,-0.1039487,bar,4.3,2
+ChIJU0V7HqgGdkgRuVaYNXWwtqI,The Garden - Pizza Restaurant & Bar,"31 Knights Hill, Norwood, London SE27 0HS, United Kingdom",51.430771,-0.1042265,bar,4.6,2
+ChIJUfps16kGdkgRpn8MeFG9JzE,The Hope Pub,"49 Norwood High St, Norwood, London SE27 9JS, United Kingdom",51.430836,-0.1019362,bar,4.4,0
+ChIJwYiIVwMEdkgRQzLf_XCqX88,Knowles of Norwood,"294, 296 Norwood Rd, Norwood, London SE27 9AF, United Kingdom",51.4360301,-0.1046137,bar,4.5,2
+ChIJM0U0blUBdkgRvNqptoZhCnU,Bricklayers Arms,"1 Hamilton Rd, Norwood, London SE27 9RZ, United Kingdom",51.4313937,-0.0921178,bar,4.1,1
+ChIJgRS8wwIEdkgRwr-166Tb108,The Horns Tavern,"40 Knights Hill, Norwood, London SE27 0HY, United Kingdom",51.4320978,-0.1041104,bar,4.4,2
+ChIJefm9fwIEdkgRPxoNetzz2YQ,The Book and Record Bar,"20 Norwood High St, Norwood, London SE27 9NR, United Kingdom",51.4310148,-0.1023545,bar,4.6,0
+ChIJH-5xl7QBdkgR940Cg3k0sYo,Gipsy Hill Brewing Company - Taproom,"Unit 5, 160 Hamilton Rd, Norwood, London SE27 9SF, United Kingdom",51.4285743,-0.08915229999999999,bar,4.7,0
+ChIJh8iPJ1QBdkgR1DKf62YBjLo,The Paxton,"255 Gipsy Rd, Norwood, London SE27 9QY, United Kingdom",51.4279228,-0.0863418,bar,4.1,2
+ChIJL23XP1QBdkgR01O3KxPU3cU,The Two Towers,"201 Gipsy Rd, Norwood, London SE27 9QY, United Kingdom",51.4270466,-0.08896989999999999,bar,4.2,1
+ChIJs6U87FYBdkgRxBz2KGVcwiw,Manuel's Italian and Mediterranean Restaurant and Bar,"129 Gipsy Hill, Norwood, London SE19 1QS, United Kingdom",51.4276999,-0.0861774,bar,4.7,2
+ChIJjTxUtRoEdkgR5GtaWCZYTxM,Carlos Italian Coffee House London,"6 Station Rise, Norwood, London SE27 9BW, United Kingdom",51.440113,-0.1054228,bar,3.9,0
+ChIJaW0OU8MHdkgRqd_QNO-GlMA,London Beer Factory - The Warehouse,"13 Beadman St, Norwood, London SE27 0DJ, United Kingdom",51.4298744,-0.1025978,bar,4.6,0
+ChIJwfTmLYUPdkgRVIHTfOOh7zw,Simmons Bar | Fulham,"374 North End Rd, London SW6 1LY, United Kingdom",51.4810661,-0.1993685,bar,4.3,2
+ChIJt6F2PmwFdkgRZbCmbM_ptfM,"Casa Manolo, Chelsea","Kings Court North, 187 King's Rd, London SW3 5EB, United Kingdom",51.4871257,-0.169063,bar,4.2,2
+ChIJZwL2QAMEdkgRQhYKBetv7hw,Efes Restaurant,"336 Norwood Rd, Norwood, London SE27 9AF, United Kingdom",51.434955,-0.104078,bar,4.3,0
+ChIJ6Zz5xNIEdkgR4qOzs1XiA2Y,Simmons Bar | Soho,"2 Bateman St, London W1D 4AE, United Kingdom",51.514098,-0.131227,bar,4.4,2
+ChIJ14syqaEDdkgRkysnuc-J8rI,Peckham Levels,"95A Rye Ln, London SE15 4ST, United Kingdom",51.4708982,-0.06748019999999999,bar,4.4,0
+ChIJp09Uz6sFdkgRxq3x_d_SQ5E,Grafterboy Lounge,"332c Camberwell New Rd, London SE5 0RW, United Kingdom",51.4742488,-0.09422090000000001,bar,5,0
+ChIJT8Rttv4PdkgR2QsDEzqgKyo,Champion Bayswater Road,"1 Wellington Ter, London W2 4LW, United Kingdom",51.50999729999999,-0.192242,bar,4.4,2
+ChIJhwDB864cdkgRKKsKWOwoSgs,Aviary - Rooftop Restaurant & Terrace Bar,"Royal London House, 10th Floor Montcalm, 22-25 Finsbury Square, London EC2A 1DX, United Kingdom",51.5218153,-0.0856108,bar,4.3,3
+ChIJf9IFUPkDdkgRKKWX2FkHSs8,Alleyns Head Dulwich,"Park Hall Rd, Greater, London SE21 8BW, United Kingdom",51.436794,-0.088447,bar,4.1,2
+ChIJOyF-TuADdkgRfZ4XdY_4Xco,"Wood House, Dulwich","39 Sydenham Hill, London SE26 6RS, United Kingdom",51.4328634,-0.0726499,bar,4,2
+ChIJPYAoAPMDdkgR5jvPc54JA9M,Crown & Greyhound London,"73 Dulwich Village, London SE21 7BJ, United Kingdom",51.449408,-0.084922,bar,3.8,2
+ChIJvyoMlHm9cEgRN-QAaNx_hsA,siOn LONDON,"134A Thurlow Park Rd, London SE21 8HN, United Kingdom",51.4410385,-0.0916992,bar,4.4,2
+ChIJYfP-hd8DdkgRUON2hZeMLYg,Dulwich Beer Dispensary,"Dispensary SE22 8JY, United Kingdom",51.4444148,-0.0686358,bar,4.6,2
+ChIJ36pinZMDdkgRhI2D1fn6klg,The Lordship Pub,"211 Lordship Ln, London SE22 8HA, United Kingdom",51.4546031,-0.0769603,bar,4.3,2
+ChIJqYxlwmcEdkgR-7V_hhtLYvM,SW9 Bar,"11 Dorrell Pl, London SW9 8EG, United Kingdom",51.4633306,-0.1156444,bar,4.1,2
+ChIJYX32l4YEdkgRWZzLHOZGVlY,Clarendon Arms,"Clarendon Arms P H, 225 Camberwell New Rd, London SE5 0TH, United Kingdom",51.4775111,-0.1011437,bar,4.1,1
+ChIJqfVQy4oDdkgRFDJ7NT2ivrg,Alexis Suya Grill & Bar,"165 Southampton Way, London SE5 7EJ, United Kingdom",51.47809179999999,-0.0830064,bar,5,0
+ChIJ0ck5_oEDdkgRW1u4-8Igh8s,Vineyard,"3-5 Camberwell Grove, London SE5 8JA, United Kingdom",51.4734867,-0.08879719999999999,bar,4.3,2
+ChIJE8GcEx0GdkgREBWGISqKuew,The Sultan,"78 Norman Rd, London SW19 1BT, United Kingdom",51.41856,-0.185256,bar,4.7,1
+ChIJMzkmxqYIdkgRRxAnAu_7mq8,Little Brazil Bar & Restaurant,"222 Merton High St, London SW19 1AU, United Kingdom",51.4157125,-0.191565,bar,4.8,0
+ChIJRRpZ7AwPdkgRaRBfh5UkwCM,Boom: Battle Bar Wandsworth,"2, Ram Quarter Units 3B 1, 3 Barley Walk, London SW18 1UL, United Kingdom",51.4580652,-0.1938393,bar,5,0
+ChIJMZyQoMoJdkgR28PQSQq-aow,Bar CMYK,"105 - 109 The Broadway, London SW19 1QG, United Kingdom",51.41926729999999,-0.2011042,bar,3.5,0
+ChIJv9ZG9yoFdkgRcH5kUDVgV9E,Crystal Bar,"11 Knightsbridge, London SW1X 7LY, United Kingdom",51.5023695,-0.1537068,bar,3,0
+ChIJwc09iNIFdkgRSfY-lin4CU4,The Garden Room,"Middle Temple Ln, Temple, London EC4Y 9BT, United Kingdom",51.511872,-0.1109212,bar,5,0
+ChIJZbiEwVQDdkgRqM6Mnr9trl0,The Nickel Bar,"The Ned 27, Poultry, London EC2R 8AJ, United Kingdom",51.5137096,-0.0900779,bar,4.5,2
+ChIJ1xOE8gQFdkgRlaPqAao9yo8,Pestana Chelsea Bridge Hotel,"354 Queenstown Rd, Nine Elms, London SW11 8AE, United Kingdom",51.4814983,-0.14823,bar,4.3,0
+ChIJASiqr08bdkgR5h7Eq4kAkWc,Betsey Trotwood,"56 Farringdon Rd, London EC1R 3BL, United Kingdom",51.5233333,-0.1080556,bar,4.4,2
+ChIJkw_f58kadkgR4NXv63J7i90,The Mirror Bar,"222 Marylebone Rd, London NW1 6JQ, United Kingdom",51.5218797,-0.1629643,bar,4.6,0
+ChIJ2xhV8sUFdkgRTW5pI3QxKEk,Balham Bowls Club,"7-9 Ramsden Rd, London SW12 8QX, United Kingdom",51.4449005,-0.1525129,bar,4.4,2
+ChIJtZlok8gFdkgRtyTV3gjoZBM,The Grove Balham,"39 Oldridge Rd, London SW12 8PN, United Kingdom",51.4484789,-0.1510165,bar,4.2,2
+ChIJZ89_ec8FdkgRvb3Dr64YTZY,Hagen & Hyde,"157 Balham High Rd, London SW12 9AU, United Kingdom",51.4439112,-0.1522542,bar,4.2,2
+ChIJUX1zvs8FdkgRKzz6ozok5pk,The Exhibit Bar & Restaurant,"12 Balham Station Rd, London SW12 9SG, United Kingdom",51.4433333,-0.1513889,bar,4,2
+ChIJaXCrVVgFdkgRar75B4hgtJM,TikiTail Balham,"90 Bedford Hill, London SW12 9HR, United Kingdom",51.4417945,-0.149284,bar,4.5,0
+ChIJv5EbOscFdkgR5qLYfUKiQJs,The Nightingale,"97 Nightingale Ln, London SW12 8NX, United Kingdom",51.4500699,-0.1578584,bar,4.3,2
+ChIJNcf2R8UFdkgRdmLHTXSXmRc,Firefly Bar & Thai Kitchen,"3, Station Parade, Balham High Rd, London SW12 9AZ, United Kingdom",51.44256430000001,-0.1532416,bar,4.5,2
+ChIJwYT1Mc4FdkgRzo7RtzDjKg0,The Bedford,"77 Bedford Hill, London SW12 9HD, United Kingdom",51.4427187,-0.1494399,bar,4.2,0
+ChIJe6opNrYFdkgR0eslgrqFlOE,THE 47 Balham,"47 Balham Hill, London SW12 9DR, United Kingdom",51.4515706,-0.1474448,bar,4.9,0
+ChIJza4rhs8FdkgRz8m9wdgoPK8,Heidi,"1 Balham Station Rd, London SW12 9SG, United Kingdom",51.4433599,-0.1521006,bar,4.2,2
+ChIJL_8Jc88FdkgRSWULdbeDnRY,The Wine Tasting Shop,"18 Hildreth St, London SW12 9RQ, United Kingdom",51.44435379999999,-0.1510148,bar,4.7,2
+ChIJH2Kd0_AFdkgRzFxZ_T74xT8,Firefly Bar and Thai Kitchen,"3, Station Parade, Balham High Rd, London SW12 9AZ, United Kingdom",51.4423737,-0.153356,bar,0,0
+ChIJHdvIyzYbdkgRViu-qSRPc6A,The Queens Larder,"1 Queen Square, London WC1N 3AR, United Kingdom",51.5212295,-0.1224527,bar,4.3,2
+ChIJRV11ueYadkgRzIHARuVhluw,Sushi Salsa - Camden,"3A, Camden Wharf, Jamestown Rd, London NW1 7BY, United Kingdom",51.5407945,-0.1454212,bar,4.2,2
+ChIJSWvAzM4EdkgRaZcCMhRbk0Q,Gordon's Wine Bar,"47 Villiers St, London WC2N 6NE, United Kingdom",51.50794399999999,-0.123314,bar,4.6,2
+ChIJW6nd7dsEdkgRWds6E0lO3N8,The Old Star,"66 Broadway, London SW1H 0DB, United Kingdom",51.49994419999999,-0.1337722,bar,4,2
+ChIJ0S_jDJAHdkgR6XJ8BD-_3SQ,Tequila Mockingbird Tooting,"82 Mitcham Rd, London SW17 9NG, United Kingdom",51.4259974,-0.1657651,bar,4.5,0
+ChIJ3UpB1V4FdkgRbLm6pVpQAfc,"Beer Hawk, Southbank","Unit 6, The Gallery South Bank Tower Estate, Stamford St, London SE1 9LS, United Kingdom",51.507785,-0.106825,bar,4.4,0
+ChIJXSCh58AHdkgR7TTTMLFbAZg,Green Cactus,"241 Streatham High Rd, London SW16 6EN, United Kingdom",51.42621949999999,-0.1308874,bar,4.9,0
+ChIJ60tYPusddkgRC0igMwHG47w,Platform,"2b Worship St, London EC2A 2AH, United Kingdom",51.5219543,-0.0859889,bar,4.6,0
+ChIJYfXf3j4bdkgRcbwU2Rqs0GA,Simmons Bar | Kings Cross,"32 Caledonian Rd, London N1 9DT, United Kingdom",51.5318554,-0.120592,bar,4.5,2
+ChIJW7hGRmsbdkgRB2dO5PYIeEA,Meltdown London,"342 Caledonian Rd, London N1 1BB, United Kingdom",51.540691,-0.116809,bar,4.3,1
+ChIJveDjqqYEdkgRcjnu31Qw_mc,Duke of York,"47 Borough Rd, London SE1 1DR, United Kingdom",51.4992166,-0.0994709,bar,4.3,2
+ChIJf_ku5acEdkgR4WNzcMXkIQw,Tap & Bottle,"64 Union St, London SE1 1SG, United Kingdom",51.5040729,-0.0948905,bar,4.6,0
+ChIJBcB2vAUDdkgR7TQSZykwr1Q,Frank's Cafe at Bold Tendencies,"Bold Tendencies, 7th-10th Floor Multi Storey Car Park, 95A Rye Ln, London SE15 4ST, United Kingdom",51.4709205,-0.0669813,bar,4.4,2
+ChIJP7GmKD8FdkgRn9vcCMGzNCM,Harry's Dolce Vita,"27-31 Basil St, London SW3 1BB, United Kingdom",51.4984891,-0.161764,bar,4.1,3
+ChIJMzQ-Ck4DdkgRMwMt3XbK8MM,"The Hung Drawn & Quartered, EC3","26-27 Great Tower St, London EC3R 5AQ, United Kingdom",51.5096011,-0.0807812,bar,4.3,2
+ChIJ3c3OXTMbdkgR9aMTCn6bnKg,The White Hart,"191 Drury Ln, London WC2B 5QD, United Kingdom",51.516139,-0.1241366,bar,4.2,2
+ChIJH4dEsM8EdkgRandd6RPxN5o,Old Shades,"37 Whitehall, London SW1A 2BX, United Kingdom",51.5064729,-0.1269736,bar,4.3,2
+ChIJH_OerwQFdkgRyVapPuthEmw,Brio Tapas Bar & Restaurant,"27-31 Bedford Rd, London SW4 7SH, United Kingdom",51.4645047,-0.1290858,bar,4.5,0
+ChIJx-wW87oEdkgRyTsO4bY0a0g,"The Windmill, Lambeth","86 The Cut, London SE1 8LW, United Kingdom",51.5029875,-0.1081342,bar,4,2
+ChIJt1JLYzwFdkgRaeszj2sVzQ8,"The Star Tavern, Belgravia","6 Belgrave Mews W, London SW1X 8HT, United Kingdom",51.49838940000001,-0.1558138,bar,4.4,2
+ChIJfTGIfPMCdkgRoiecsQXgO1o,Job Centre,"120-122 Deptford High St, London SE8 4NP, United Kingdom",51.4783605,-0.0258985,bar,4.2,2
+ChIJMQcHrMUEdkgRCvMbPS0cuss,"The Red Lion, Parliament Street","48 Parliament St, London SW1A 2NH, United Kingdom",51.5020777,-0.1257325,bar,4.3,2
+ChIJAStk3ysFdkgR8XBBK_CEfuU,BENARES RESTAURANT | MAYFAIR,"12a Berkeley Square, London W1J 6BS, United Kingdom",51.5098466,-0.1450789,bar,4.3,4
+ChIJmaVHONYadkgRenRoEUraCx8,"Holiday Inn London - Regent's Park, an IHG Hotel","Carburton St, London W1W 5EE, United Kingdom",51.52251219999999,-0.1428166,bar,4.1,0
+ChIJgwc7IDMbdkgRu8VU4FZU1xg,Imperial Hotel,"61-66 Russell Square, London WC1B 5BB, United Kingdom",51.5216617,-0.1240542,bar,3.7,0
+ChIJ6xRCnsMFdkgRpT1QvwT0ROE,Lord Clyde Southwark Bridge,"27 Clennam St, London SE1 1ER, United Kingdom",51.5028248,-0.0955317,bar,4.4,0
+ChIJq5XIW8oEdkgR8x1tjbPp2-Y,Lobby Bar at One Aldwych 5 Star Covent Garden,"One Aldwych Hotel, 1 Aldwych, London WC2B 4BZ, United Kingdom",51.5117908,-0.11934,bar,4.4,0
+ChIJ-9-i0csEdkgR5E8qINrsvws,Beaufort Bar,"Strand, London WC2R 0EZ, United Kingdom",51.51022529999999,-0.1216935,bar,4.7,0
+ChIJTbXQJrkFdkgRGWLybieBKRc,Blame Gloria - Covent Garden,"20 Bedford St, London WC2E 9HP, United Kingdom",51.5108691,-0.1248473,bar,4.4,0
+ChIJwQ3iqlQFdkgRgxD66rMORNI,The Escapologist,"35 Earlham St, London WC2H 9LD, United Kingdom",51.5138764,-0.1264947,bar,4.5,0
+ChIJ77_aTcsEdkgRcCamkQMzbTc,Lowlander Grand Cafe,"36 Drury Ln, London WC2B 5RR, United Kingdom",51.5146751,-0.1223428,bar,4.5,2
+ChIJS2aOkdMEdkgRUcJ5SdHG3Ks,Be At One - Covent Garden Lyceum,"23 Wellington St, London WC2E 7DA, United Kingdom",51.5117789,-0.1201996,bar,4.3,2
+ChIJs30yxMYFdkgRulWapKZSawI,Battersea Brewery,"12 - 14 Arches Ln, Nine Elms, London SW11 8AB, United Kingdom",51.4830969,-0.1469642,bar,4.6,2
+ChIJI109CbEEdkgRm6b4oMoOvfE,"OXO Tower Restaurant, Bar and Brasserie","Barge House St, London SE1 9PH, United Kingdom",51.5083565,-0.1086628,bar,4.4,4
+ChIJ2W745LcEdkgRZQdOD-Ny43A,The Archduke,"Concert Hall Approach, London SE1 8XU, United Kingdom",51.5049538,-0.1161356,bar,4.3,2
+ChIJIWchC1ADdkgR3EDRj1RG2_w,The Shipwrights Arms,"88 Tooley St, London SE1 2TF, United Kingdom",51.5046186,-0.0835358,bar,3.8,2
+ChIJc1PURcoEdkgR8Kvw2KoumKc,Wellington London Wc2,"351 Strand, London WC2R 0HS, United Kingdom",51.51142489999999,-0.1195044,bar,4.2,2
+ChIJ8S-qGrMcdkgRFlRZtGrHdmw,Anise Bar,"9 Devonshire Square, London EC2M 4YL, United Kingdom",51.5169345,-0.0785229,bar,3.7,0
+ChIJB3aZwOEadkgRiRVaE4k0EHg,Simmons Bar | Camden Town,"7-9 Kentish Town Rd, London NW1 8NH, United Kingdom",51.53962989999999,-0.1424647,bar,4.5,2
+ChIJc71T0bocdkgRrt_uEpoLBoE,Happiness Forgets,"8-9 Hoxton Square, London N1 6NU, United Kingdom",51.5278204,-0.08179109999999999,bar,4.6,2
+ChIJK4mlZ64cdkgRyUEf1NZOzro,The Devil's Darling,"The Napoleon Hotel, 9 Christopher St, London EC2A 2BS, United Kingdom",51.5214262,-0.08455599999999999,bar,4.5,0
+ChIJY_8fTE4bdkgR1my4FgyVrLU,Ninth Ward,"99-101 Farringdon Rd, London EC1R 3BN, United Kingdom",51.5225313,-0.1075925,bar,4.3,2
+ChIJA5xSsOUDdkgRJXT2mlGDxus,Ninth Life,"167 Rushey Grn, London SE6 4BD, United Kingdom",51.445178,-0.0196242,bar,4.3,2
+ChIJw3sXxAoFdkgR2li5dZcbEwc,Be At One - Berkeley Square,"59 Berkeley Square, London W1J 6ER, United Kingdom",51.5090368,-0.1445036,bar,4.1,2
+ChIJ10FeXGcbdkgRvEdAaXDgHlk,The Bar with No Name,"69 Colebrooke Row, London N1 8AA, United Kingdom",51.5365139,-0.1009944,bar,4.5,3
+ChIJ2Z0BJRYbdkgRLg6gh-bL9Xg,Spiritland King's Cross,"9 - 10 Stable St, London N1C 4AB, United Kingdom",51.536541,-0.12548,bar,4.3,2
+ChIJaXXC_VIDdkgRo16i2V8aKMA,The Crosse Keys,"9 Gracechurch St, London EC3V 0DR, United Kingdom",51.51270659999999,-0.08486429999999999,bar,4.1,1
+ChIJNWqfBaEDdkgRq8AkWOV914U,Social,"Unit 9A&B, Copeland Park, 133 Copeland Rd, London SE15 3SN, United Kingdom",51.469846,-0.066632,bar,4.5,0
+ChIJ7fpTgqsDdkgRJzmbQYRfeQU,Black Rock East India Dock,"2 Clove Cres, London E14 2BE, United Kingdom",51.5099342,-0.005280300000000001,bar,5,0
+ChIJwWd7z9IEdkgRvydq6aA4MOc,Thirst Bar,"53 Greek St, London W1D 3DR, United Kingdom",51.5142616,-0.1311466,bar,4,2
+ChIJqbhYYcMPdkgR9FhUywA3ZUY,Studio Bar,"Level 3 K West Hotel & Spa, London W14 0AX, United Kingdom",51.502494,-0.217412,bar,4.5,0
+ChIJw9eZb9wddkgRcWdItwJGS8U,The Shoreditch,"145 Shoreditch High St, London E1 6JE, United Kingdom",51.5258944,-0.0781331,bar,3.1,0
+ChIJm394--MadkgR71igdcYHuNc,Shaka Zulu,"Stables Market, Chalk Farm Rd, London NW1 8AB, United Kingdom",51.5415815,-0.1464894,bar,3.7,3
+ChIJ0RLwvEMbdkgRWbRgGNO4UE8,Marco Pierre White Steakhouse Bar & Grill London Angel and Kings Cross,"60 Pentonville Rd, London N1 9LA, United Kingdom",51.5322476,-0.1096549,bar,3.3,0
+ChIJ-z_KvegFdkgRIVXuTB9PwwI,Rumours,"4 Heddon St, London W1B 4BS, United Kingdom",51.51095300000001,-0.1393017,bar,3.8,0
+ChIJod2E69IadkgR2BCUTOKYKYs,Reform Social & Grill,"Mandeville Pl, London W1U 2BE, United Kingdom",51.5165248,-0.1510425,bar,4.1,2
+ChIJTxS48tURdkgRW3Hv1tLiheA,Bar Brothers Events Ltd - Mobile Bar Hire London,"Bank Studios, 23 Park Royal Rd, London NW10 7JH, United Kingdom",51.5261694,-0.266211,bar,5,0
+ChIJ0di7ITQbdkgRqnkC66DRfrU,NYX Hotel London Holborn by Leonardo Hotels,"50 - 60 Southampton Row, London WC1B 4AR, United Kingdom",51.519353,-0.1209496,bar,4,0
+ChIJ9w4DTEOn2EcRpw-SyUCPn78,Titanic Kitchen & Lounge,"469 High Rd Leytonstone, London E11 4JU, United Kingdom",51.558449,0.0068154,bar,4.6,0
+ChIJ4QaZ6BdydkgRIpsQQ3J-YSE,"Holiday Inn London - Heathrow M4,JCT.4, an IHG Hotel","Sipson Road Heathrow, Airport, London, West Drayton UB7 0HP, United Kingdom",51.49461179999999,-0.4560008,bar,4,0
+ChIJEWq9hiKu2EcRMZD660NMx6o,The Penny Farthing Micro-Pub,"3 Waterside, Dartford DA1 4JJ, United Kingdom",51.4522329,0.1784996,bar,4.8,1
+ChIJf8FhJc8EdkgRpqs-hxC_SLQ,Bassoon Bar,"10 Whitehall Pl, London SW1A 2BD, United Kingdom",51.5062789,-0.125254,bar,4.4,0
+ChIJscbkONsEdkgRTDT-wHdnFTc,Westminster Arms,"9 & 10 Storey's Gate, London SW1P 3AT, United Kingdom",51.50056739999999,-0.1297874,bar,3.9,2
+ChIJDzIIE10FdkgRvnujqgBV5Yo,Nolita Social,"4 Knightsbridge Grn, London SW1X 7QA, United Kingdom",51.5013964,-0.162634,bar,4.7,0
+ChIJibA5AVgDdkgR5rznzwbEHjk,The Boot & Flogger,"10-20 Redcross Way, London SE1 1TA, United Kingdom",51.5042477,-0.09345769999999999,bar,4.4,2
+ChIJJ2erNeoEdkgRV0SGIUovDiU,Park Plaza London Riverbank,"18 Albert Embankment, London SE1 7TJ, United Kingdom",51.491367,-0.1214208,bar,4.3,0
+ChIJ_9c0d98bdkgRxC1YiYKsNcU,Bar + Block Steakhouse Southwark,"New Marlborough Yard, Ufford St, London SE1 8LE, United Kingdom",51.5028343,-0.1064331,bar,4.3,2
+ChIJLWqZbd0EdkgRl6mQ0GHGNDs,The Barley Mow,"104 Horseferry Rd, London SW1P 2EE, United Kingdom",51.4950027,-0.1317743,bar,4.1,2
+ChIJvf4PSlIDdkgRVBOH5l4Lsf4,Ship Talbot Ct London Ec3,"11 Talbot Ct, London EC3V 0BP, United Kingdom",51.511081,-0.08478899999999999,bar,4.3,2
+ChIJIfvKrLEEdkgRakjNJIpoutc,The Thirsty Bear,"62 Stamford St, London SE1 9LX, United Kingdom",51.5071142,-0.1081282,bar,4.1,2
+ChIJATn6fcsEdkgRYyXez41qH-M,Maxwell's Bar & Grill,"34 King St, London WC2E 8JD, United Kingdom",51.5117264,-0.1246661,bar,4.1,2
+ChIJOyFQ4VkDdkgRTbwypoCxXjU,Heeltap,"White Hart Yard, London SE1 1NX, United Kingdom",51.5043839,-0.0898192,bar,3.9,2
+ChIJaQBRCGcEdkgRE-Rm-dryK9Q,Ape Lounge,"207 Stockwell Rd, London SW9 9SL, United Kingdom",51.4652724,-0.115115,bar,4.6,0
+ChIJBTvyd1YDdkgRelJY5l1kedQ,"The Banker, EC4","Cousin Ln, London EC4R 3TE, United Kingdom",51.5094734,-0.09160489999999999,bar,4.2,2
